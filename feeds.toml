@@ -2,5 +2,5 @@
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info/article.html"
 entrySelector = "//html/body/div[@class='Line']"
-titleSelector = "//."
+titleSelector = "//span[@class='Artist'] | //span[@class='Site'] | //span[@class='Time']"
 linkSelector = "//span[@class='Link']/a"
