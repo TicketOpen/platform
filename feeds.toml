@@ -1,7 +1,7 @@
 [showdeerocks]
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info/article.html"
-entrySelector = "//html/body/div"
+entrySelector = "//html/body"
 titleSelector = "//div[@class='Line']"
 linkSelector = "//span[@class='Link']/a"
 waitUntil = "networkidle"
