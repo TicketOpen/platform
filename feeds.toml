@@ -2,6 +2,6 @@
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info/article.html"
 entrySelector = "//html/body/div[@class='Line']"
-titleSelector = "//div[@class='Line']"
+titleSelector = "//span[contains(@class, 'Artist') and contains(@class, 'Site') and contains(@class, 'Time')]"
 linkSelector = "//span[@class='Link']/a"
 waitUntil = "networkidle"
