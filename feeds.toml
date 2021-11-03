@@ -1,5 +1,13 @@
 [showdeerocks]
 title = "ShowdeeRocks"
+url = "http://showdeerocks.info"
+entrySelector = "div.Line"
+titleSelector = "span.Artist"
+linkSelector = "span.Link a"
+waitUntil = "networkidle"
+
+[showdeerocks_article]
+title = "ShowdeeRocks"
 url = "http://showdeerocks.info/article.html"
 entrySelector = "//html/body/div[@class='Line']"
 titleSelector = "//span"
