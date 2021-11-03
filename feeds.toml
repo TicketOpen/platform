@@ -13,3 +13,13 @@ entrySelector = "//html/body/div[@class='Line']"
 titleSelector = "//span"
 linkSelector = "//span[@class='Link']/a"
 waitUntil = "networkidle"
+
+[indistreet]
+title = "인디스트릿 ─ 공연 목록"
+url = "https://indistreet.com/live"
+entrySelector = "div.css-mcu3tk div.css-102i3db"
+titleSelector = "p.chakra-text.css-1spd9lw"
+linkSelector = "a.css-s3e4gi"
+imageSelector = "span img"
+waitUntil = "networkidle"
+onFail = "stale"
