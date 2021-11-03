@@ -17,7 +17,7 @@ waitUntil = "networkidle"
 [indistreet]
 title = "인디스트릿 ─ 공연 목록"
 url = "https://indistreet.com/live"
-entrySelector = "div.css-mcu3tk div.css-102i3db"
+entrySelector = "div.css-0 div.css-df174k div"
 titleSelector = "p.chakra-text.css-1spd9lw"
 linkSelector = "a.css-s3e4gi"
 imageSelector = "span img"
