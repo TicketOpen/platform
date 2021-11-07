@@ -26,8 +26,17 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [festivallife_festival]
-title = "페스티벌 라이프 ─ 국내 페스티벌 정보"
+title = "페스티벌 라이프 ─ 국내 페스티벌"
 url = "https://festivallife.kr/festival"
+entrySelector = "div._post_row.post_row.tabled"
+titleSelector = "div.title.title-block"
+linkSelector = "a.post_link_wrap._fade_link"
+imageSelector = "div.card_wrapper"
+waitUntil = "networkidle"
+
+[festivallife_festival]
+title = "페스티벌 라이프 ─ 해외 페스티벌"
+url = "https://festivallife.kr/festival_o"
 entrySelector = "div._post_row.post_row.tabled"
 titleSelector = "div.title.title-block"
 linkSelector = "a.post_link_wrap._fade_link"
