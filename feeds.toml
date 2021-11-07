@@ -5,6 +5,7 @@ entrySelector = "div.Line"
 titleSelector = "span.Artist"
 linkSelector = "span.Link a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [showdeerocks_article]
 title = "ShowdeeRocks"
@@ -13,6 +14,7 @@ entrySelector = "//html/body/div[@class='Line']"
 titleSelector = "//span"
 linkSelector = "//span[@class='Link']/a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [indistreet]
 title = "인디스트릿 ─ 공연 목록"
@@ -20,5 +22,15 @@ url = "https://indistreet.com/live"
 entrySelector = "div.css-1ccuj2z"
 titleSelector = "p[class^='chakra-text css']:nth-child(1)"
 linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[festivallife_festival]
+title = "페스티벌 라이프 ─ 국내 페스티벌 정보"
+url = "https://festivallife.kr/festival"
+entrySelector = "div._post_row.post_row.tabled"
+titleSelector = "div.title.title-block"
+linkSelector = "a.post_link_wrap._fade_link"
+imageSelector = "div.card_wrapper"
 waitUntil = "networkidle"
 onFail = "stale"
