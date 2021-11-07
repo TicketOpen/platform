@@ -34,7 +34,7 @@ linkSelector = "a.post_link_wrap._fade_link"
 imageSelector = "div.card_wrapper"
 waitUntil = "networkidle"
 
-[festivallife_festival]
+[festivallife_festival_]
 title = "페스티벌 라이프 ─ 해외 페스티벌"
 url = "https://festivallife.kr/festival_o"
 entrySelector = "div._post_row.post_row.tabled"
