@@ -1,3 +1,14 @@
+[xindieticket_ticket]
+title = "XINDIE ─ TICKET"
+url = "https://xindieticket.kr/tickets/"
+entrySelector = "xi-card.ng-scope"
+titleSelector = "h1 div.ng-binding"
+linkSelector = "a.ng-scope"
+contentSelector = "div.ng-scope"
+imageSelector = "a.ng-scope div:nth-child(1)"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [showdeerocks]
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info"
