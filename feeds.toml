@@ -33,7 +33,7 @@ url = "https://indistreet.com/live"
 entrySelector = "div.css-1ccuj2z"
 titleSelector = "p[class^='chakra-text css']:nth-child(1)"
 linkSelector = "a"
-contentSelector = "div.css-e13bv4"
+contentSelector = "div[positoin='relative']"
 waitUntil = "networkidle"
 onFail = "stale"
 
