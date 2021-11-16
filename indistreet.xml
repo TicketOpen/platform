@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-11-16T19:18:12.118Z</updated>
+    <updated>2021-11-16T20:23:28.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://indistreet.com/live/1282"/>
         <updated>2021-11-03T18:43:13.587Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">oo_mool Serenade Vol.2</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 12일 일요일 오전 11시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jump in-to-the-universe]]></title>
+        <id>https://indistreet.com/live/1465</id>
+        <link href="https://indistreet.com/live/1465"/>
+        <updated>2021-11-16T20:23:12.791Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Jump in-to-the-universe</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 12일 일요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 12월 12일 일요일 잔다리투어 #드림나이트]]></title>
@@ -25,13 +32,6 @@
         <link href="https://indistreet.com/live/1285"/>
         <updated>2021-11-08T06:26:47.647Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">✨먼데이프로젝트 IN 라이브클럽 : WE ARE ALIVE✨</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 6일 월요일 오전 11시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Universe]]></title>
-        <id>https://indistreet.com/live/1446</id>
-        <link href="https://indistreet.com/live/1446"/>
-        <updated>2021-11-16T11:18:44.996Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Next Universe</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 5일 일요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEXT UNIVERSE]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">정밀아 정기단독공연 &lt;춥지 않은 겨울밤&gt;</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WATCH THE WORLD TURN]]></title>
+        <id>https://indistreet.com/live/1464</id>
+        <link href="https://indistreet.com/live/1464"/>
+        <updated>2021-11-16T20:23:12.801Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">WATCH THE WORLD TURN</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정밀아 정기단독공연 <춥지 않은 겨울밤>]]></title>
         <id>https://indistreet.com/live/1388</id>
         <link href="https://indistreet.com/live/1388"/>
@@ -74,13 +81,6 @@
         <link href="https://indistreet.com/live/1387"/>
         <updated>2021-11-03T18:43:13.598Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">정밀아 정기단독공연 &lt;춥지 않은 겨울밤&gt;</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 3일 금요일 오전 11시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시나리오 Take 1]]></title>
-        <id>https://indistreet.com/live/1427</id>
-        <link href="https://indistreet.com/live/1427"/>
-        <updated>2021-11-10T18:22:04.847Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">시나리오 Take 1</p><p class="chakra-text css-0">장소: <!-- -->A.O.R</p><p class="chakra-text css-0">날짜: <!-- -->2021년 11월 28일 일요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OH! 5! 五! - 빅베이비드라이버, 김목인]]></title>
