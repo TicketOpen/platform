@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-11-18T03:23:41.702Z</updated>
+    <updated>2021-11-18T04:28:40.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SHOWYOURSONG 시즌2 EP3]]></title>
+        <id>https://indistreet.com/live/1470</id>
+        <link href="https://indistreet.com/live/1470"/>
+        <updated>2021-11-18T04:28:25.278Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">SHOWYOURSONG 시즌2 EP3</p><p class="chakra-text css-0">장소: <!-- -->폼텍 웍스홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 17일 금요일 오전 10시 30분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[oo_mool Serenade Vol.2]]></title>
         <id>https://indistreet.com/live/1282</id>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1387"/>
         <updated>2021-11-03T18:43:13.598Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">정밀아 정기단독공연 &lt;춥지 않은 겨울밤&gt;</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 3일 금요일 오전 11시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OH! 5! 五! - 빅베이비드라이버, 김목인]]></title>
-        <id>https://indistreet.com/live/884</id>
-        <link href="https://indistreet.com/live/884"/>
-        <updated>2021-11-04T08:25:16.960Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">OH! 5! 五! - 빅베이비드라이버, 김목인</p><p class="chakra-text css-0">장소: <!-- -->살롱문보우</p><p class="chakra-text css-0">날짜: <!-- -->2021년 11월 28일 일요일 오전 10시 00분</p>]]></content>
     </entry>
 </feed>
