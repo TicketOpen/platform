@@ -55,3 +55,13 @@ linkSelector = "a.post_link_wrap._fade_link"
 imageSelector = "div.card_wrapper"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[festivallife_concert_k]
+title = "페스티벌 라이프 ─ 내한공연"
+url = "https://festivallife.kr/concert_k"
+entrySelector = "div[class='list-style-card table-cell _card_wrap']"
+titleSelector = "div.title.title-block"
+linkSelector = "a.post_link_wrap._fade_link"
+imageSelector = "div.card_wrapper"
+waitUntil = "networkidle"
+onFail = "stale"
