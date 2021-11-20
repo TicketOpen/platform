@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 08:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 09:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3663,6 +3663,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">SHOWYOURSONG 시즌2 EP3</p><p class="chakra-text css-0">장소: <!-- -->폼텍 웍스홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 17일 금요일 오전 10시 30분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[✨먼데이프로젝트 IN 라이브클럽 : WE ARE ALIVE✨ (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1478</link>
+            <guid>https://indistreet.com/live/1478</guid>
+            <pubDate>Sat, 20 Nov 2021 09:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">✨먼데이프로젝트 IN 라이브클럽 : WE ARE ALIVE✨</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 13일 월요일 오전 11시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[oo_mool Serenade Vol.2 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1282</link>
             <guid>https://indistreet.com/live/1282</guid>
@@ -3731,13 +3738,6 @@
             <guid>https://indistreet.com/live/1380</guid>
             <pubDate>Wed, 03 Nov 2021 18:43:13 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">소음 페스티벌 Soum Festival</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 05시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정밀아 정기단독공연 <춥지 않은 겨울밤> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1387</link>
-            <guid>https://indistreet.com/live/1387</guid>
-            <pubDate>Wed, 03 Nov 2021 18:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">정밀아 정기단독공연 &lt;춥지 않은 겨울밤&gt;</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 3일 금요일 오전 11시 00분</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
