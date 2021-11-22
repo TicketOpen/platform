@@ -4,36 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[FF - Space Song (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/4857872307453952</link>
-            <guid>https://xindieticket.kr/tickets/4857872307453952</guid>
-            <pubDate>Mon, 15 Nov 2021 04:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">FF - Space Song</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2021-11-21 (일) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 25,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/75lZpLBUPyimERu24DJpzWW8WVBY-AKryNFWqyGfPR3E-yKMwaNxrOo14nAXFg5OKJ4ffK_kT8qMl14Z0bh4hJkymWA8JkXs8ZNKQw=s480" length="0" type="image//75lZpLBUPyimERu24DJpzWW8WVBY-AKryNFWqyGfPR3E-yKMwaNxrOo14nAXFg5OKJ4ffK_kT8qMl14Z0bh4hJkymWA8JkXs8ZNKQw=s480"/>
-        </item>
         <item>
             <title><![CDATA[구름아래소극장 - 5959 LIVE : 강아솔 (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/5769737367715840</link>
@@ -562,856 +535,31 @@
             <enclosure url="http://lh3.googleusercontent.com/-7E9nmRY6L-oQrFBW2TDm_UXoMRFs8njOn_v2GNN10YFEr3DumElJ06_nkYuhJs5Y8JK9PJ8VpbhjYhp_42gKOjRSp4Yll9C4Qw=s480" length="0" type="image//-7E9nmRY6L-oQrFBW2TDm_UXoMRFs8njOn_v2GNN10YFEr3DumElJ06_nkYuhJs5Y8JK9PJ8VpbhjYhp_42gKOjRSp4Yll9C4Qw=s480"/>
         </item>
         <item>
-            <title><![CDATA[차세대 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206282</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206282</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">차세대 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206282" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스코브, 베이비슈가, 율랴율례쁑, 민광진, 김재슬 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">스코브, 베이비슈가, 율랴율례쁑, 민광진, 김재슬 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우예린 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206293</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206293</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">우예린 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206293" target="_blank" class="Design5-1">[무료 입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[극동아시아타이거즈 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">극동아시아타이거즈 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행간소음, 레인보우99, 레코다메, 펑크온파이어 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">행간소음, 레인보우99, 레코다메, 펑크온파이어 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.wemakeprice.com/product/3000006666</link>
-            <guid>https://ticket.wemakeprice.com/product/3000006666</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">맥거핀 - </span>
-<span class="Site">엠피엠지 2층 LOUNGE M. </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://ticket.wemakeprice.com/product/3000006666" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몽니, 빨간의자, 406호 프로젝트 - (ShowdeeRocks)]]></title>
-            <link>https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare</link>
-            <guid>https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">몽니, 빨간의자, 406호 프로젝트 - </span>
-<span class="Site">광산문화예술회관 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">클럽 헤비 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신성규 (엔분의일), 천필근 (플래그), 권민준 (프롬디어) - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신성규 (엔분의일), 천필근 (플래그), 권민준 (프롬디어) - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최백호, 박주원, 유채훈 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21009041</link>
-            <guid>https://tickets.interpark.com/goods/21009041</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">최백호, 박주원, 유채훈 - </span>
-<span class="Site">롯데콘서트홀 </span>
-<span class="Time">16:00 / 20:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21009041" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11도, To The Top, 더 바이퍼스, 크라잉넛 - (ShowdeeRocks)]]></title>
-            <link>https://smartstore.naver.com/bullgamasound/products/5962833352</link>
-            <guid>https://smartstore.naver.com/bullgamasound/products/5962833352</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">11도, To The Top, 더 바이퍼스, 크라잉넛 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://smartstore.naver.com/bullgamasound/products/5962833352" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이치얼랏 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010557#</link>
-            <guid>https://tickets.interpark.com/goods/21010557#</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">에이치얼랏 - </span>
-<span class="Site">CJ아지트 광흥창 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010557#" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVkRN7LvDwh/</link>
-            <guid>https://www.instagram.com/p/CVkRN7LvDwh/</guid>
-            <pubDate>Mon, 01 Nov 2021 02:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">너드커넥션 - </span>
-<span class="Site">T 팩토리 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVkRN7LvDwh/" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파라솔 웨이브 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">파라솔 웨이브 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">21:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design5-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윈터폴, 이디어츠, 잔치잔치, 스모킹구스 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">윈터폴, 이디어츠, 잔치잔치, 스모킹구스 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주영 - (ShowdeeRocks)]]></title>
-            <link>https://blog.naver.com/studiozemi/222539566888</link>
-            <guid>https://blog.naver.com/studiozemi/222539566888</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이주영 - </span>
-<span class="Site">재미공작소 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://blog.naver.com/studiozemi/222539566888" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진상태 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVw2xpsJ9rc/</link>
-            <guid>https://www.instagram.com/p/CVw2xpsJ9rc/</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">진상태 - </span>
-<span class="Site">서울시 마포구 와우산로 29 지하 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVw2xpsJ9rc/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씨즐, 커즈레인, 칠보장, 클라프, 비아스 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCh1M1pmqf/</link>
-            <guid>https://www.instagram.com/p/CWCh1M1pmqf/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">씨즐, 커즈레인, 칠보장, 클라프, 비아스 - </span>
-<span class="Site">클럽 A.O.R </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCh1M1pmqf/" target="_blank" class="Design1-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[틸더, 빌리카터, 라이엇키즈 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">틸더, 빌리카터, 라이엇키즈 - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하헌진 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWIBJwGl4z1/</link>
-            <guid>https://www.instagram.com/p/CWIBJwGl4z1/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">하헌진 - </span>
-<span class="Site">코리아블루스씨어터 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWIBJwGl4z1/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테호, 바리나모 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWLOwz8pswy/</link>
-            <guid>https://www.instagram.com/p/CWLOwz8pswy/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">테호, 바리나모 - </span>
-<span class="Site">스튜디오 로그 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWLOwz8pswy/" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배드램, 썬더스, 워킹애프터유 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWN2YwSlZjV/</link>
-            <guid>https://www.instagram.com/p/CWN2YwSlZjV/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">배드램, 썬더스, 워킹애프터유 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWN2YwSlZjV/" target="_blank" class="Design4-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승윤, 정홍일, 이무진 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21008874</link>
-            <guid>https://tickets.interpark.com/goods/21008874</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이승윤, 정홍일, 이무진 - </span>
-<span class="Site">대구 엑스코 5층 컨벤션홀 </span>
-<span class="Time">14:00 / 19:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21008874" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김사월, 브로콜리너마저, 프롬 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010038</link>
-            <guid>https://tickets.interpark.com/goods/21010038</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김사월, 브로콜리너마저, 프롬 - </span>
-<span class="Site">인천문화예술회관 소공연장 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010038" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인 (디어클라우드) - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010687</link>
-            <guid>https://tickets.interpark.com/goods/21010687</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">나인 (디어클라우드) - </span>
-<span class="Site">글로리어겐 본회퍼홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010687" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라이보울 재즈 페스티벌 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010043</link>
-            <guid>https://tickets.interpark.com/goods/21010043</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">트라이보울 재즈 페스티벌 - </span>
-<span class="Site">트라이보울 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010043" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김훨, 정우 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김훨, 정우 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">13:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206280" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밴디지 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206294</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">밴디지 - </span>
-<span class="Site">구름아래소극장 </span>
-<span class="Time">15:00 / 19:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206294" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신승은, (게스트) 무이, 하늘에선 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true</link>
-            <guid>https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신승은, (게스트) 무이, 하늘에선 - </span>
-<span class="Site">광주 젭스 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이치얼랏 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010557#</link>
-            <guid>https://tickets.interpark.com/goods/21010557#</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">에이치얼랏 - </span>
-<span class="Site">CJ아지트 광흥창 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010557#" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010567</link>
-            <guid>https://tickets.interpark.com/goods/21010567</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">플랫폼창동61 레드박스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010567" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백현진, 김오키뻐킹매드니스, 까데호 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206306</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206306</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">백현진, 김오키뻐킹매드니스, 까데호 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206306" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디오스오디오, 메스그램, W24, (게스트) 쏜애플 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVuIENfFe-V/</link>
-            <guid>https://www.instagram.com/p/CVuIENfFe-V/</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">아디오스오디오, 메스그램, W24, (게스트) 쏜애플 - </span>
-<span class="Site">노들섬 라이브하우스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVuIENfFe-V/" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시와, 다브다, 버둥, 리뎀션즈 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/396582/items/4150131</link>
-            <guid>https://booking.naver.com/booking/12/bizes/396582/items/4150131</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">시와, 다브다, 버둥, 리뎀션즈 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/12/bizes/396582/items/4150131" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배씨방 with 입과손스튜디오 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">배씨방 with 입과손스튜디오 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design1-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이장혁, 이강수, 크로크노트 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이장혁, 이강수, 크로크노트 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JNS - (ShowdeeRocks)]]></title>
-            <link>https://blog.naver.com/studiozemi/222539566888</link>
-            <guid>https://blog.naver.com/studiozemi/222539566888</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">JNS - </span>
-<span class="Site">재미공작소 </span>
-<span class="Time">19:30</span>
-<span class="Link">
-<a href="https://blog.naver.com/studiozemi/222539566888" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모팁, 오프더메뉴, 로우행잉프루츠 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206322</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206322</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">모팁, 오프더메뉴, 로우행잉프루츠 - </span>
-<span class="Site">벨로주 홍대 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206322" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오지은 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206328</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206328</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">오지은 - </span>
-<span class="Site">문화정원아트홀 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206328" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리셋터즈, 코튼스틱, 이디어츠 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">리셋터즈, 코튼스틱, 이디어츠 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">18:30 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[투명, 호와호, 트리키네코 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">투명, 호와호, 트리키네코 - </span>
-<span class="Site">채널 1969 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빈시트, 변화무쌍, 신스네이크 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CV4NgQZJs05/</link>
-            <guid>https://www.instagram.com/p/CV4NgQZJs05/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">빈시트, 변화무쌍, 신스네이크 - </span>
-<span class="Site">홍대 벤더 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CV4NgQZJs05/" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지애린 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206337</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206337</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">지애린 - </span>
-<span class="Site">우주정거장 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206337" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신문수밴드, 우물, 호아 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신문수밴드, 우물, 호아 - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야마가타 트윅스터, 씨씨, 팔보채, I.M.F aka 장성건, 영다이, 비지현다이 aka 문바 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCjnEiPT_H/</link>
-            <guid>https://www.instagram.com/p/CWCjnEiPT_H/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">야마가타 트윅스터, 씨씨, 팔보채, I.M.F aka 장성건, 영다이, 비지현다이 aka 문바 - </span>
-<span class="Site">신도시 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCjnEiPT_H/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCqU4IFrzF/</link>
-            <guid>https://www.instagram.com/p/CWCqU4IFrzF/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">블랙홀 - </span>
-<span class="Site">KT&amp;G 상상마당 부산 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCqU4IFrzF/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메리헤이데이, 베어풋인더가든, 펜티엄키즈 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/439960/items/4164316</link>
-            <guid>https://booking.naver.com/booking/5/bizes/439960/items/4164316</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">메리헤이데이, 베어풋인더가든, 펜티엄키즈 - </span>
-<span class="Site">후케즈 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/439960/items/4164316" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[호랑이아들들, 더 구스 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">호랑이아들들, 더 구스 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삵, 미루 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">삵, 미루 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">19:45 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아슬, UZA, 우주멍게 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">아슬, UZA, 우주멍게 - </span>
-<span class="Site">게토 얼라이브 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김일두, 세이수미, 슬로우라이프 - (ShowdeeRocks)]]></title>
-            <link>https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare</link>
-            <guid>https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김일두, 세이수미, 슬로우라이프 - </span>
-<span class="Site">대구 꼬뮨 </span>
-<span class="Time">20:30 </span>
-<span class="Link">
-<a href="https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스, 소음발광 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/607922/items/4165853</link>
-            <guid>https://booking.naver.com/booking/5/bizes/607922/items/4165853</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">효도앤베이스, 소음발광 - </span>
-<span class="Site">부산 오방가르드 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/607922/items/4165853" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘, 해서웨이, 플랫폼스테레오 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/607922/items/4165853</link>
-            <guid>https://booking.naver.com/booking/5/bizes/607922/items/4165853</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">공중그늘, 해서웨이, 플랫폼스테레오 - </span>
-<span class="Site">부산 클럽 노드 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/607922/items/4165853" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서도밴드 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010926</link>
-            <guid>https://tickets.interpark.com/goods/21010926</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">서도밴드 - </span>
-<span class="Site">KT&amp;G 상상마당 대치아트홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010926" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라이보울 재즈 페스티벌 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010043</link>
-            <guid>https://tickets.interpark.com/goods/21010043</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">트라이보울 재즈 페스티벌 - </span>
-<span class="Site">트라이보울 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010043" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임세모 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21009766</link>
-            <guid>https://tickets.interpark.com/goods/21009766</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">임세모 - </span>
-<span class="Site">폼텍웍스홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21009766" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010567</link>
-            <guid>https://tickets.interpark.com/goods/21010567</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">플랫폼창동61 레드박스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010567" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추다혜차지스, 이희문 오방신과, 까데호 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206306</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206306</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">추다혜차지스, 이희문 오방신과, 까데호 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206306" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차세대 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">차세대 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design5-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[덥, 시골, 이지구, 지나가던조씨 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">덥, 시골, 이지구, 지나가던조씨 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이그린 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CV7RPzjFxXS/</link>
-            <guid>https://www.instagram.com/p/CV7RPzjFxXS/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이그린 - </span>
-<span class="Site">부산 오방가르드 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CV7RPzjFxXS/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김애린, 로쿠 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206336</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206336</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김애린, 로쿠 - </span>
-<span class="Site">우주정거장 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206336" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쌍방울라이더스, 망각의 동물, 토크뱃츠 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">쌍방울라이더스, 망각의 동물, 토크뱃츠 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴루터, 스윗가솔린, 메리헤이데이 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">폴루터, 스윗가솔린, 메리헤이데이 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[키라라, 살라만다, 깐돌 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWITc1plPOx/</link>
-            <guid>https://www.instagram.com/p/CWITc1plPOx/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">키라라, 살라만다, 깐돌 - </span>
-<span class="Site">모데씨 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWITc1plPOx/" target="_blank" class="Design1-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우 - (ShowdeeRocks)]]></title>
-            <link>https://livelystage.com/live-detail/179</link>
-            <guid>https://livelystage.com/live-detail/179</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">정우 - </span>
-<span class="Site">라이블리 </span>
-<span class="Time">21:00 </span>
-<span class="Link">
-<a href="https://livelystage.com/live-detail/179" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루아멜, 다양성, 게르다, 이븐이프 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWN4p0nlJOS/</link>
-            <guid>https://www.instagram.com/p/CWN4p0nlJOS/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">루아멜, 다양성, 게르다, 이븐이프 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWN4p0nlJOS/" target="_blank" class="Design4-1">[현장 예매]</a>
-</span>]]></content:encoded>
+            <title><![CDATA[Bender - OLD RECORDS PRESENTS SONIC STONES SEE YOU IN 2022」 CONCERT (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6291447028383744</link>
+            <guid>https://xindieticket.kr/tickets/6291447028383744</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Bender - OLD RECORDS PRESENTS SONIC STONES SEE YOU IN 2022」 CONCERT</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2021-11-28 (일) 09:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5182493032448000" class="ng-binding" href="/map/5182493032448000">@Bender 벤더</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매30,000원 현매35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/VKaBD5QkFISnR6N7FHAKdv4ossPXIrQZpWAx3JCdDtqEZlfqU8wYHijWATrm0pIhPo-I4Lr77X5caGSggDAqm5X2lgJY2VwrYv9L=s480" length="0" type="image//VKaBD5QkFISnR6N7FHAKdv4ossPXIrQZpWAx3JCdDtqEZlfqU8wYHijWATrm0pIhPo-I4Lr77X5caGSggDAqm5X2lgJY2VwrYv9L=s480"/>
         </item>
         <item>
             <title><![CDATA[이준형 - (ShowdeeRocks)]]></title>
@@ -1531,6 +679,18 @@
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://ticket.melon.com/performance/index.htm?prodId=206316" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S.I.D (라이엇키즈), 장경민 (라쿠나), 변하은 (맥거핀), 헤온 (이세계) - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">S.I.D (라이엇키즈), 장경민 (라쿠나), 변하은 (맥거핀), 헤온 (이세계) - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content:encoded>
         </item>
         <item>
@@ -1699,6 +859,66 @@
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21010738" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란, 프롬 - (ShowdeeRocks)]]></title>
+            <link>https://tickets.interpark.com/goods/21008940</link>
+            <guid>https://tickets.interpark.com/goods/21008940</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">소란, 프롬 - </span>
+<span class="Site">부평아트센터 달누리극장 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://tickets.interpark.com/goods/21008940" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로진, 헤이맨, 조희원 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWP9iSNFXY_/</link>
+            <guid>https://www.instagram.com/p/CWP9iSNFXY_/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">로진, 헤이맨, 조희원 - </span>
+<span class="Site">클럽 A.O.R </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWP9iSNFXY_/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[828, 이븐이프, 카프 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">828, 이븐이프, 카프 - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">20:00</span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상흠밴드 - (ShowdeeRocks)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206366</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206366</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">상흠밴드 - </span>
+<span class="Site">우주정거장 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://ticket.melon.com/performance/index.htm?prodId=206366" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 윌리엄즈, 메리헤이데이, 투데이올드스니커즈, 데드챈트 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfbmSZF0ON/</link>
+            <guid>https://www.instagram.com/p/CWfbmSZF0ON/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">더 윌리엄즈, 메리헤이데이, 투데이올드스니커즈, 데드챈트 - </span>
+<span class="Site">클럽 FF </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfbmSZF0ON/" target="_blank" class="Design3-1">[현장 예매]</a>
 </span>]]></content:encoded>
         </item>
         <item>
@@ -1942,6 +1162,78 @@
 </span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도그라스트페이지, R4-19, 뉴클리어이디어츠 - (ShowdeeRocks)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/602572/items/4171185</link>
+            <guid>https://booking.naver.com/booking/5/bizes/602572/items/4171185</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">도그라스트페이지, R4-19, 뉴클리어이디어츠 - </span>
+<span class="Site">후케즈 </span>
+<span class="Time">18:00 </span>
+<span class="Link">
+<a href="https://booking.naver.com/booking/5/bizes/602572/items/4171185" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[톰톰 - (ShowdeeRocks)]]></title>
+            <link>https://twitter.com/band_tomtom/status/1460127135209644035</link>
+            <guid>https://twitter.com/band_tomtom/status/1460127135209644035</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">톰톰 - </span>
+<span class="Site">에릭스펍 </span>
+<span class="Time">22:00 </span>
+<span class="Link">
+<a href="https://twitter.com/band_tomtom/status/1460127135209644035" target="_blank" class="Design3-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애니멀다이버스, BAADA - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">애니멀다이버스, BAADA - </span>
+<span class="Site">프리즘홀 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김일두 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">김일두 - </span>
+<span class="Site">쉬바펍 </span>
+<span class="Time">16:00 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당기시오, 바투 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">당기시오, 바투 - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">18:00</span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfTfAyFD3x/</link>
+            <guid>https://www.instagram.com/p/CWfTfAyFD3x/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">서울인디뮤직페스타 - </span>
+<span class="Site">서울생활문화센터 서교 </span>
+<span class="Time">15:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfTfAyFD3x/" target="_blank" class="Design4-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[슈퍼밴드2 콘서트 - (ShowdeeRocks)]]></title>
             <link>https://tickets.interpark.com/goods/21009300#</link>
             <guid>https://tickets.interpark.com/goods/21009300#</guid>
@@ -2074,6 +1366,66 @@
 </span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[소닉스톤스 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWXwXtLlll4/</link>
+            <guid>https://www.instagram.com/p/CWXwXtLlll4/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">소닉스톤스 - </span>
+<span class="Site">홍대 벤더 </span>
+<span class="Time">18:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWXwXtLlll4/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구스다운 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">구스다운 - </span>
+<span class="Site">네스타나다 </span>
+<span class="Time">17:00 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfTfAyFD3x/</link>
+            <guid>https://www.instagram.com/p/CWfTfAyFD3x/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">서울인디뮤직페스타 - </span>
+<span class="Site">서울생활문화센터 서교 </span>
+<span class="Time">15:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfTfAyFD3x/" target="_blank" class="Design4-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마리슈 - (ShowdeeRocks)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206310</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206310</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">마리슈 - </span>
+<span class="Site">폼텍 웍스홀 </span>
+<span class="Time">17:00 </span>
+<span class="Link">
+<a href="https://ticket.melon.com/performance/index.htm?prodId=206310" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘도무사히, 심상명, 채지화, 내색, 강선우 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfhB-MFff2/</link>
+            <guid>https://www.instagram.com/p/CWfhB-MFff2/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">오늘도무사히, 심상명, 채지화, 내색, 강선우 - </span>
+<span class="Site">대구 클럽 헤비 </span>
+<span class="Time">19:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfhB-MFff2/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김제형 - (ShowdeeRocks)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206326</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206326</guid>
@@ -2098,856 +1450,16 @@
     </span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차세대 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206282</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206282</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">차세대 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206282" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스코브, 베이비슈가, 율랴율례쁑, 민광진, 김재슬 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">스코브, 베이비슈가, 율랴율례쁑, 민광진, 김재슬 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우예린 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206293</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206293</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">우예린 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206293" target="_blank" class="Design5-1">[무료 입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[극동아시아타이거즈 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">극동아시아타이거즈 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdox2lNthVUVF4tuTVIHTW7ItoJODiZlWMYoqTuU9rEWbFjEg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행간소음, 레인보우99, 레코다메, 펑크온파이어 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">행간소음, 레인보우99, 레코다메, 펑크온파이어 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.wemakeprice.com/product/3000006666</link>
-            <guid>https://ticket.wemakeprice.com/product/3000006666</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">맥거핀 - </span>
-<span class="Site">엠피엠지 2층 LOUNGE M. </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://ticket.wemakeprice.com/product/3000006666" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몽니, 빨간의자, 406호 프로젝트 - (ShowdeeRocks)]]></title>
-            <link>https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare</link>
-            <guid>https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">몽니, 빨간의자, 406호 프로젝트 - </span>
-<span class="Site">광산문화예술회관 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://form.office.naver.com/form/responseView.cmd?formkey=MzMzNDM3N2ItMzViZS00ZTljLTkwYzgtYzlhYzE3MTY5MmE5&amp;sourceId=urlshare" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">클럽 헤비 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgDoSYT8upL1v6QMEI2r9D_m8vE-vuIf2UcWvig8z4zaE62Q/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신성규 (엔분의일), 천필근 (플래그), 권민준 (프롬디어) - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신성규 (엔분의일), 천필근 (플래그), 권민준 (프롬디어) - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSea9aGj5dEtMdww6Uqq3E4BHo1ojyAUcyeLDJdqyN6s4DjmsA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최백호, 박주원, 유채훈 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21009041</link>
-            <guid>https://tickets.interpark.com/goods/21009041</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">최백호, 박주원, 유채훈 - </span>
-<span class="Site">롯데콘서트홀 </span>
-<span class="Time">16:00 / 20:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21009041" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11도, To The Top, 더 바이퍼스, 크라잉넛 - (ShowdeeRocks)]]></title>
-            <link>https://smartstore.naver.com/bullgamasound/products/5962833352</link>
-            <guid>https://smartstore.naver.com/bullgamasound/products/5962833352</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">11도, To The Top, 더 바이퍼스, 크라잉넛 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://smartstore.naver.com/bullgamasound/products/5962833352" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이치얼랏 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010557#</link>
-            <guid>https://tickets.interpark.com/goods/21010557#</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">에이치얼랏 - </span>
-<span class="Site">CJ아지트 광흥창 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010557#" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVkRN7LvDwh/</link>
-            <guid>https://www.instagram.com/p/CVkRN7LvDwh/</guid>
-            <pubDate>Mon, 01 Nov 2021 02:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">너드커넥션 - </span>
-<span class="Site">T 팩토리 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVkRN7LvDwh/" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파라솔 웨이브 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">파라솔 웨이브 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">21:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design5-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윈터폴, 이디어츠, 잔치잔치, 스모킹구스 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">윈터폴, 이디어츠, 잔치잔치, 스모킹구스 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주영 - (ShowdeeRocks)]]></title>
-            <link>https://blog.naver.com/studiozemi/222539566888</link>
-            <guid>https://blog.naver.com/studiozemi/222539566888</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이주영 - </span>
-<span class="Site">재미공작소 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://blog.naver.com/studiozemi/222539566888" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진상태 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVw2xpsJ9rc/</link>
-            <guid>https://www.instagram.com/p/CVw2xpsJ9rc/</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">진상태 - </span>
-<span class="Site">서울시 마포구 와우산로 29 지하 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVw2xpsJ9rc/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씨즐, 커즈레인, 칠보장, 클라프, 비아스 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCh1M1pmqf/</link>
-            <guid>https://www.instagram.com/p/CWCh1M1pmqf/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">씨즐, 커즈레인, 칠보장, 클라프, 비아스 - </span>
-<span class="Site">클럽 A.O.R </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCh1M1pmqf/" target="_blank" class="Design1-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[틸더, 빌리카터, 라이엇키즈 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">틸더, 빌리카터, 라이엇키즈 - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeosBgEn6EAlE8wirNk5iRRSTk5IC8RxXtKYJH1E6jI1ZnDxg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하헌진 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWIBJwGl4z1/</link>
-            <guid>https://www.instagram.com/p/CWIBJwGl4z1/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">하헌진 - </span>
-<span class="Site">코리아블루스씨어터 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWIBJwGl4z1/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테호, 바리나모 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWLOwz8pswy/</link>
-            <guid>https://www.instagram.com/p/CWLOwz8pswy/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">테호, 바리나모 - </span>
-<span class="Site">스튜디오 로그 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWLOwz8pswy/" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배드램, 썬더스, 워킹애프터유 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWN2YwSlZjV/</link>
-            <guid>https://www.instagram.com/p/CWN2YwSlZjV/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">배드램, 썬더스, 워킹애프터유 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWN2YwSlZjV/" target="_blank" class="Design4-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승윤, 정홍일, 이무진 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21008874</link>
-            <guid>https://tickets.interpark.com/goods/21008874</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이승윤, 정홍일, 이무진 - </span>
-<span class="Site">대구 엑스코 5층 컨벤션홀 </span>
-<span class="Time">14:00 / 19:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21008874" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김사월, 브로콜리너마저, 프롬 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010038</link>
-            <guid>https://tickets.interpark.com/goods/21010038</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김사월, 브로콜리너마저, 프롬 - </span>
-<span class="Site">인천문화예술회관 소공연장 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010038" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나인 (디어클라우드) - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010687</link>
-            <guid>https://tickets.interpark.com/goods/21010687</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">나인 (디어클라우드) - </span>
-<span class="Site">글로리어겐 본회퍼홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010687" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라이보울 재즈 페스티벌 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010043</link>
-            <guid>https://tickets.interpark.com/goods/21010043</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">트라이보울 재즈 페스티벌 - </span>
-<span class="Site">트라이보울 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010043" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김훨, 정우 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김훨, 정우 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">13:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206280" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밴디지 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206294</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">밴디지 - </span>
-<span class="Site">구름아래소극장 </span>
-<span class="Time">15:00 / 19:00 (2회 공연) </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206294" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신승은, (게스트) 무이, 하늘에선 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true</link>
-            <guid>https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신승은, (게스트) 무이, 하늘에선 - </span>
-<span class="Site">광주 젭스 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/10bipkKvlUzCwLFtNZYy4BVUC3_J_QWh9t4pQ1OKZZO0/viewform?edit_requested=true" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이치얼랏 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010557#</link>
-            <guid>https://tickets.interpark.com/goods/21010557#</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">에이치얼랏 - </span>
-<span class="Site">CJ아지트 광흥창 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010557#" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010567</link>
-            <guid>https://tickets.interpark.com/goods/21010567</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">플랫폼창동61 레드박스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010567" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백현진, 김오키뻐킹매드니스, 까데호 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206306</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206306</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">백현진, 김오키뻐킹매드니스, 까데호 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206306" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디오스오디오, 메스그램, W24, (게스트) 쏜애플 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CVuIENfFe-V/</link>
-            <guid>https://www.instagram.com/p/CVuIENfFe-V/</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">아디오스오디오, 메스그램, W24, (게스트) 쏜애플 - </span>
-<span class="Site">노들섬 라이브하우스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CVuIENfFe-V/" target="_blank" class="Design4-2">[무료 사전 응모]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시와, 다브다, 버둥, 리뎀션즈 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/396582/items/4150131</link>
-            <guid>https://booking.naver.com/booking/12/bizes/396582/items/4150131</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">시와, 다브다, 버둥, 리뎀션즈 - </span>
-<span class="Site">프리즘홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/12/bizes/396582/items/4150131" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배씨방 with 입과손스튜디오 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">배씨방 with 입과손스튜디오 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design1-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이장혁, 이강수, 크로크노트 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이장혁, 이강수, 크로크노트 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JNS - (ShowdeeRocks)]]></title>
-            <link>https://blog.naver.com/studiozemi/222539566888</link>
-            <guid>https://blog.naver.com/studiozemi/222539566888</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">JNS - </span>
-<span class="Site">재미공작소 </span>
-<span class="Time">19:30</span>
-<span class="Link">
-<a href="https://blog.naver.com/studiozemi/222539566888" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모팁, 오프더메뉴, 로우행잉프루츠 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206322</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206322</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">모팁, 오프더메뉴, 로우행잉프루츠 - </span>
-<span class="Site">벨로주 홍대 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206322" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오지은 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206328</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206328</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">오지은 - </span>
-<span class="Site">문화정원아트홀 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206328" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리셋터즈, 코튼스틱, 이디어츠 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">리셋터즈, 코튼스틱, 이디어츠 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">18:30 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScD5umIO9VXUi6H6uekTBibUh0Ph9BgYpQ-iBpEncANFFfxQw/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[투명, 호와호, 트리키네코 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">투명, 호와호, 트리키네코 - </span>
-<span class="Site">채널 1969 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLu7ma84h4P4K8NBxsGjUmfm7Lc34YahPIGBt6a3e507VWQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빈시트, 변화무쌍, 신스네이크 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CV4NgQZJs05/</link>
-            <guid>https://www.instagram.com/p/CV4NgQZJs05/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">빈시트, 변화무쌍, 신스네이크 - </span>
-<span class="Site">홍대 벤더 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CV4NgQZJs05/" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지애린 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206337</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206337</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">지애린 - </span>
-<span class="Site">우주정거장 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206337" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신문수밴드, 우물, 호아 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">신문수밴드, 우물, 호아 - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdjgJr8EinphldMkjQKYF0DKfTZvFCjCA3TUxNpACAG1HuSTw/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야마가타 트윅스터, 씨씨, 팔보채, I.M.F aka 장성건, 영다이, 비지현다이 aka 문바 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCjnEiPT_H/</link>
-            <guid>https://www.instagram.com/p/CWCjnEiPT_H/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">야마가타 트윅스터, 씨씨, 팔보채, I.M.F aka 장성건, 영다이, 비지현다이 aka 문바 - </span>
-<span class="Site">신도시 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCjnEiPT_H/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWCqU4IFrzF/</link>
-            <guid>https://www.instagram.com/p/CWCqU4IFrzF/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">블랙홀 - </span>
-<span class="Site">KT&amp;G 상상마당 부산 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWCqU4IFrzF/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메리헤이데이, 베어풋인더가든, 펜티엄키즈 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/439960/items/4164316</link>
-            <guid>https://booking.naver.com/booking/5/bizes/439960/items/4164316</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">메리헤이데이, 베어풋인더가든, 펜티엄키즈 - </span>
-<span class="Site">후케즈 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/439960/items/4164316" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[호랑이아들들, 더 구스 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">호랑이아들들, 더 구스 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삵, 미루 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">삵, 미루 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">19:45 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSew68q-pCDAbdxUFD0-nW4yQjr13YtGV5G1QBIx7Vw61Ra8Ag/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아슬, UZA, 우주멍게 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">아슬, UZA, 우주멍게 - </span>
-<span class="Site">게토 얼라이브 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfXz4rm88HRsmt5wbGfydZ-H8Gzh5U9diGCyVCGSYD4O7pJ1w/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김일두, 세이수미, 슬로우라이프 - (ShowdeeRocks)]]></title>
-            <link>https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare</link>
-            <guid>https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김일두, 세이수미, 슬로우라이프 - </span>
-<span class="Site">대구 꼬뮨 </span>
-<span class="Time">20:30 </span>
-<span class="Link">
-<a href="https://form.office.naver.com/form/responseView.cmd?formkey=MTQ2MTUyZWMtYzRmMy00ZDU4LTkwMDUtZDlkOTkxOGI0NmI1&amp;sourceId=urlshare" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스, 소음발광 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/607922/items/4165853</link>
-            <guid>https://booking.naver.com/booking/5/bizes/607922/items/4165853</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">효도앤베이스, 소음발광 - </span>
-<span class="Site">부산 오방가르드 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/607922/items/4165853" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘, 해서웨이, 플랫폼스테레오 - (ShowdeeRocks)]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/607922/items/4165853</link>
-            <guid>https://booking.naver.com/booking/5/bizes/607922/items/4165853</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">공중그늘, 해서웨이, 플랫폼스테레오 - </span>
-<span class="Site">부산 클럽 노드 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/607922/items/4165853" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서도밴드 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010926</link>
-            <guid>https://tickets.interpark.com/goods/21010926</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">서도밴드 - </span>
-<span class="Site">KT&amp;G 상상마당 대치아트홀 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010926" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라이보울 재즈 페스티벌 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010043</link>
-            <guid>https://tickets.interpark.com/goods/21010043</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">트라이보울 재즈 페스티벌 - </span>
-<span class="Site">트라이보울 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010043" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 발룬티어스 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">더 발룬티어스 - </span>
-<span class="Site">롤링홀 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206015" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임세모 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21009766</link>
-            <guid>https://tickets.interpark.com/goods/21009766</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">임세모 - </span>
-<span class="Site">폼텍웍스홀 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21009766" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코토바 - (ShowdeeRocks)]]></title>
-            <link>https://tickets.interpark.com/goods/21010567</link>
-            <guid>https://tickets.interpark.com/goods/21010567</guid>
-            <pubDate>Sun, 31 Oct 2021 17:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">코토바 - </span>
-<span class="Site">플랫폼창동61 레드박스 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21010567" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추다혜차지스, 이희문 오방신과, 까데호 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206306</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206306</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">추다혜차지스, 이희문 오방신과, 까데호 - </span>
-<span class="Site">KT&amp;G 상상마당 홍대 </span>
-<span class="Time">17:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206306" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차세대 - (ShowdeeRocks)]]></title>
-            <link>https://www.ctrplus.com/jebi</link>
-            <guid>https://www.ctrplus.com/jebi</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">차세대 - </span>
-<span class="Site">제비다방 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://www.ctrplus.com/jebi" target="_blank" class="Design5-1">[무료입장 자율페이]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[덥, 시골, 이지구, 지나가던조씨 - (ShowdeeRocks)]]></title>
-            <link>https://cafe.daum.net/cafebbang/Ltu/813</link>
-            <guid>https://cafe.daum.net/cafebbang/Ltu/813</guid>
-            <pubDate>Sun, 07 Nov 2021 16:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">덥, 시골, 이지구, 지나가던조씨 - </span>
-<span class="Site">클럽 빵 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://cafe.daum.net/cafebbang/Ltu/813" target="_blank" class="Design3-1">[현장 예매]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이그린 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CV7RPzjFxXS/</link>
-            <guid>https://www.instagram.com/p/CV7RPzjFxXS/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">이그린 - </span>
-<span class="Site">부산 오방가르드 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CV7RPzjFxXS/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김애린, 로쿠 - (ShowdeeRocks)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206336</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206336</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">김애린, 로쿠 - </span>
-<span class="Site">우주정거장 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206336" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쌍방울라이더스, 망각의 동물, 토크뱃츠 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">쌍방울라이더스, 망각의 동물, 토크뱃츠 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">16:00 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴루터, 스윗가솔린, 메리헤이데이 - (ShowdeeRocks)]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">폴루터, 스윗가솔린, 메리헤이데이 - </span>
-<span class="Site">히피토끼 고인물 </span>
-<span class="Time">19:30 </span>
-<span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0oWmMz9bl6pJgrNIR9Id0plqUVOY5gBwq9TAOHNcCGjUzJQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[키라라, 살라만다, 깐돌 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWITc1plPOx/</link>
-            <guid>https://www.instagram.com/p/CWITc1plPOx/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">키라라, 살라만다, 깐돌 - </span>
-<span class="Site">모데씨 </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWITc1plPOx/" target="_blank" class="Design1-1">[예매 정보 링크]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우 - (ShowdeeRocks)]]></title>
-            <link>https://livelystage.com/live-detail/179</link>
-            <guid>https://livelystage.com/live-detail/179</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">정우 - </span>
-<span class="Site">라이블리 </span>
-<span class="Time">21:00 </span>
-<span class="Link">
-<a href="https://livelystage.com/live-detail/179" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루아멜, 다양성, 게르다, 이븐이프 - (ShowdeeRocks)]]></title>
-            <link>https://www.instagram.com/p/CWN4p0nlJOS/</link>
-            <guid>https://www.instagram.com/p/CWN4p0nlJOS/</guid>
-            <pubDate>Mon, 15 Nov 2021 09:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="Artist">루아멜, 다양성, 게르다, 이븐이프 - </span>
-<span class="Site">클럽 FF </span>
-<span class="Time">18:00 </span>
-<span class="Link">
-<a href="https://www.instagram.com/p/CWN4p0nlJOS/" target="_blank" class="Design4-1">[현장 예매]</a>
-</span>]]></content:encoded>
+            <title><![CDATA[김오키, 진수영, 브라이언 신, 정수민, 전제곤 - (ShowdeeRocks)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/152199/items/4160513</link>
+            <guid>https://booking.naver.com/booking/5/bizes/152199/items/4160513</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">김오키, 진수영, 브라이언 신, 정수민, 전제곤 - </span>
+    <span class="Site">벨로주 홍대 </span>
+    <span class="Time">20:00 </span>
+    <span class="Link">
+    <a href="https://booking.naver.com/booking/5/bizes/152199/items/4160513" target="_blank" class="Design1-1">[예매 링크]</a>
+    </span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이준형 - (ShowdeeRocks)]]></title>
@@ -3067,6 +1579,18 @@
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://ticket.melon.com/performance/index.htm?prodId=206316" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S.I.D (라이엇키즈), 장경민 (라쿠나), 변하은 (맥거핀), 헤온 (이세계) - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">S.I.D (라이엇키즈), 장경민 (라쿠나), 변하은 (맥거핀), 헤온 (이세계) - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScD3Cmcoh2m5QstXo_p3tZjNa63mckgfm7d19SwxbkTxysTlA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content:encoded>
         </item>
         <item>
@@ -3235,6 +1759,66 @@
 <span class="Time">20:00 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21010738" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소란, 프롬 - (ShowdeeRocks)]]></title>
+            <link>https://tickets.interpark.com/goods/21008940</link>
+            <guid>https://tickets.interpark.com/goods/21008940</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">소란, 프롬 - </span>
+<span class="Site">부평아트센터 달누리극장 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://tickets.interpark.com/goods/21008940" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로진, 헤이맨, 조희원 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWP9iSNFXY_/</link>
+            <guid>https://www.instagram.com/p/CWP9iSNFXY_/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">로진, 헤이맨, 조희원 - </span>
+<span class="Site">클럽 A.O.R </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWP9iSNFXY_/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[828, 이븐이프, 카프 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">828, 이븐이프, 카프 - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">20:00</span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScv_DIkJrk18GBIRh3WoGT_Yi5aYKovZOAqIV5BG0ZLKvR9Og/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상흠밴드 - (ShowdeeRocks)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206366</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206366</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">상흠밴드 - </span>
+<span class="Site">우주정거장 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://ticket.melon.com/performance/index.htm?prodId=206366" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 윌리엄즈, 메리헤이데이, 투데이올드스니커즈, 데드챈트 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfbmSZF0ON/</link>
+            <guid>https://www.instagram.com/p/CWfbmSZF0ON/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">더 윌리엄즈, 메리헤이데이, 투데이올드스니커즈, 데드챈트 - </span>
+<span class="Site">클럽 FF </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfbmSZF0ON/" target="_blank" class="Design3-1">[현장 예매]</a>
 </span>]]></content:encoded>
         </item>
         <item>
@@ -3478,6 +2062,78 @@
 </span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도그라스트페이지, R4-19, 뉴클리어이디어츠 - (ShowdeeRocks)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/602572/items/4171185</link>
+            <guid>https://booking.naver.com/booking/5/bizes/602572/items/4171185</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">도그라스트페이지, R4-19, 뉴클리어이디어츠 - </span>
+<span class="Site">후케즈 </span>
+<span class="Time">18:00 </span>
+<span class="Link">
+<a href="https://booking.naver.com/booking/5/bizes/602572/items/4171185" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[톰톰 - (ShowdeeRocks)]]></title>
+            <link>https://twitter.com/band_tomtom/status/1460127135209644035</link>
+            <guid>https://twitter.com/band_tomtom/status/1460127135209644035</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">톰톰 - </span>
+<span class="Site">에릭스펍 </span>
+<span class="Time">22:00 </span>
+<span class="Link">
+<a href="https://twitter.com/band_tomtom/status/1460127135209644035" target="_blank" class="Design3-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애니멀다이버스, BAADA - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">애니멀다이버스, BAADA - </span>
+<span class="Site">프리즘홀 </span>
+<span class="Time">19:30 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyYTQ3rIiwv4HvmG15Ggkwy7b5Sw9EMtHqklwgGO6c9OfFVg/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김일두 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">김일두 - </span>
+<span class="Site">쉬바펍 </span>
+<span class="Time">16:00 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSflWEeMlG-i-4KhId8NhCtefNgHsAf1WlvUbTsve7xz8cW48A/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당기시오, 바투 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">당기시오, 바투 - </span>
+<span class="Site">네스트나다 </span>
+<span class="Time">18:00</span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfxFEPS1oI1kxSWQxnmOv-lhv2AiV9dMhFHiZ_4e4e36lDWSQ/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfTfAyFD3x/</link>
+            <guid>https://www.instagram.com/p/CWfTfAyFD3x/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">서울인디뮤직페스타 - </span>
+<span class="Site">서울생활문화센터 서교 </span>
+<span class="Time">15:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfTfAyFD3x/" target="_blank" class="Design4-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[슈퍼밴드2 콘서트 - (ShowdeeRocks)]]></title>
             <link>https://tickets.interpark.com/goods/21009300#</link>
             <guid>https://tickets.interpark.com/goods/21009300#</guid>
@@ -3610,6 +2266,66 @@
 </span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[소닉스톤스 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWXwXtLlll4/</link>
+            <guid>https://www.instagram.com/p/CWXwXtLlll4/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">소닉스톤스 - </span>
+<span class="Site">홍대 벤더 </span>
+<span class="Time">18:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWXwXtLlll4/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구스다운 - (ShowdeeRocks)]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">구스다운 - </span>
+<span class="Site">네스타나다 </span>
+<span class="Time">17:00 </span>
+<span class="Link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdkDd5zLdVEgSnx3-no7IZHznnEyYNIcBKlbXQeO7j6hmK-LA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfTfAyFD3x/</link>
+            <guid>https://www.instagram.com/p/CWfTfAyFD3x/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">서울인디뮤직페스타 - </span>
+<span class="Site">서울생활문화센터 서교 </span>
+<span class="Time">15:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfTfAyFD3x/" target="_blank" class="Design4-1">[무료 입장]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마리슈 - (ShowdeeRocks)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206310</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206310</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">마리슈 - </span>
+<span class="Site">폼텍 웍스홀 </span>
+<span class="Time">17:00 </span>
+<span class="Link">
+<a href="https://ticket.melon.com/performance/index.htm?prodId=206310" target="_blank" class="Design1-1">[예매 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘도무사히, 심상명, 채지화, 내색, 강선우 - (ShowdeeRocks)]]></title>
+            <link>https://www.instagram.com/p/CWfhB-MFff2/</link>
+            <guid>https://www.instagram.com/p/CWfhB-MFff2/</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">오늘도무사히, 심상명, 채지화, 내색, 강선우 - </span>
+<span class="Site">대구 클럽 헤비 </span>
+<span class="Time">19:00 </span>
+<span class="Link">
+<a href="https://www.instagram.com/p/CWfhB-MFff2/" target="_blank" class="Design2-1">[예매 정보 링크]</a>
+</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김제형 - (ShowdeeRocks)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206326</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206326</guid>
@@ -3631,6 +2347,18 @@
     <span class="Time">19:00 </span>
     <span class="Link">
     <a href="https://ticket.melon.com/performance/index.htm?prodId=206351" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
+    </span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김오키, 진수영, 브라이언 신, 정수민, 전제곤 - (ShowdeeRocks)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/152199/items/4160513</link>
+            <guid>https://booking.naver.com/booking/5/bizes/152199/items/4160513</guid>
+            <pubDate>Mon, 22 Nov 2021 09:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="Artist">김오키, 진수영, 브라이언 신, 정수민, 전제곤 - </span>
+    <span class="Site">벨로주 홍대 </span>
+    <span class="Time">20:00 </span>
+    <span class="Link">
+    <a href="https://booking.naver.com/booking/5/bizes/152199/items/4160513" target="_blank" class="Design1-1">[예매 링크]</a>
     </span>]]></content:encoded>
         </item>
         <item>
