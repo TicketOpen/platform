@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2430,6 +2430,13 @@
             <guid>https://indistreet.com/live/1464</guid>
             <pubDate>Tue, 16 Nov 2021 20:23:12 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">WATCH THE WORLD TURN</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 09시 00분</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A.O.R CRAZY SATURDAY (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1487</link>
+            <guid>https://indistreet.com/live/1487</guid>
+            <pubDate>Tue, 23 Nov 2021 03:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">A.O.R CRAZY SATURDAY</p><p class="chakra-text css-0">장소: <!-- -->A.O.R</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 09시 00분</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정밀아 정기단독공연 <춥지 않은 겨울밤> (인디스트릿 ─ 공연 목록)]]></title>
