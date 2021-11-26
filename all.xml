@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2371,6 +2371,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">2021 김사월 연말 단독공연 &lt;밖은 너무 추워 나는&gt;</p><p class="chakra-text css-0">장소: <!-- -->서울 노들섬 라이브하우스</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[해서웨이 연말공연 ‘Love & Tender’ (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1506</link>
+            <guid>https://indistreet.com/live/1506</guid>
+            <pubDate>Fri, 26 Nov 2021 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">해서웨이 연말공연 ‘Love &amp; Tender’</p><p class="chakra-text css-0">장소: <!-- -->KT&amp;G상상마당 부산</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 10시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 김사월 연말 단독공연 <밖은 너무 추워 나는> (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1495</link>
             <guid>https://indistreet.com/live/1495</guid>
@@ -2434,18 +2441,11 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">NEXT UNIVERSE</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 5일 일요일 오전 09시 00분</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[@FF (인디스트릿 ─ 공연 목록)]]></title>
+            <title><![CDATA[Loving Is Easy (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1505</link>
             <guid>https://indistreet.com/live/1505</guid>
             <pubDate>Fri, 26 Nov 2021 04:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd"> @FF </p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 5일 일요일 오전 08시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["LASER SOLO AGAIN" (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1372</link>
-            <guid>https://indistreet.com/live/1372</guid>
-            <pubDate>Wed, 03 Nov 2021 18:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">"LASER SOLO AGAIN"</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 4일 토요일 오전 10시 00분</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">Loving Is Easy </p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 5일 일요일 오전 08시 00분</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
