@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-11-29T21:19:38.185Z</updated>
+    <updated>2021-11-29T22:23:14.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🎄왈츠소파 크리스마스 콘서트🎄]]></title>
+        <id>https://indistreet.com/live/1519</id>
+        <link href="https://indistreet.com/live/1519"/>
+        <updated>2021-11-29T22:22:43.304Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🎄왈츠소파 크리스마스 콘서트🎄</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 10시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎄왈츠소파 크리스마스 콘서트🎄]]></title>
+        <id>https://indistreet.com/live/1518</id>
+        <link href="https://indistreet.com/live/1518"/>
+        <updated>2021-11-29T22:22:43.304Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🎄왈츠소파 크리스마스 콘서트🎄</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 06시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 김사월 연말 단독공연 <밖은 너무 추워 나는>]]></title>
         <id>https://indistreet.com/live/1496</id>
@@ -39,6 +53,13 @@
         <link href="https://indistreet.com/live/1470"/>
         <updated>2021-11-18T04:28:25.278Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">SHOWYOURSONG 시즌2 EP3</p><p class="chakra-text css-0">장소: <!-- -->폼텍 웍스홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 17일 금요일 오전 10시 30분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❄ 최항석과 부기몬스터 겨울 콘서트 ❄]]></title>
+        <id>https://indistreet.com/live/1523</id>
+        <link href="https://indistreet.com/live/1523"/>
+        <updated>2021-11-29T22:22:43.314Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">❄ 최항석과 부기몬스터 겨울 콘서트 ❄</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 17일 금요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✨먼데이프로젝트 IN 라이브클럽 : WE ARE ALIVE✨]]></title>
