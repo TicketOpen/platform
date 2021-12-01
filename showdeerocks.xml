@@ -2,45 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://showdeerocks.info</id>
     <title>ShowdeeRocks</title>
-    <updated>2021-12-01T15:24:48.622Z</updated>
+    <updated>2021-12-01T16:35:16.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://showdeerocks.info/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[김제형 -]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206326</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206326"/>
-        <updated>2021-11-07T16:31:23.553Z</updated>
-        <content type="html"><![CDATA[<span class="Artist">김제형 - </span>
-<span class="Site">네스트나다 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206326" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이날치 -]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206351</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206351"/>
-        <updated>2021-11-15T09:22:23.433Z</updated>
-        <content type="html"><![CDATA[<span class="Artist">이날치 - </span>
-<span class="Site">카카오 이날치 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://ticket.melon.com/performance/index.htm?prodId=206351" target="_blank" class="Design6-1">[온라인 실시간 스트림]</a>
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김오키, 진수영, 브라이언 신, 정수민, 전제곤 -]]></title>
-        <id>https://booking.naver.com/booking/5/bizes/152199/items/4160513</id>
-        <link href="https://booking.naver.com/booking/5/bizes/152199/items/4160513"/>
-        <updated>2021-11-22T09:22:22.486Z</updated>
-        <content type="html"><![CDATA[<span class="Artist">김오키, 진수영, 브라이언 신, 정수민, 전제곤 - </span>
-<span class="Site">벨로주 홍대 </span>
-<span class="Time">20:00 </span>
-<span class="Link">
-<a href="https://booking.naver.com/booking/5/bizes/152199/items/4160513" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[문정후 (뷰렛), 홍재형 (더사운드), 마루(바투) -]]></title>
         <id>https://docs.google.com/forms/d/e/1FAIpQLSeORgjse53ekhwwyUT3a3zEkp9Vzd-8H1Uz5akX5Ot1KdQJUA/viewform</id>
