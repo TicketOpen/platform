@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-06T21:20:52.013Z</updated>
+    <updated>2021-12-07T07:22:39.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[22チャンス]]></title>
+        <id>https://indistreet.com/live/1580</id>
+        <link href="https://indistreet.com/live/1580"/>
+        <updated>2021-12-07T07:22:05.360Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">22チャンス</p><p class="chakra-text css-0">장소: <!-- -->DGT아트센터</p><p class="chakra-text css-0">날짜: <!-- -->2022년 1월 15일 토요일 오전 04시 30분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎄왈츠소파 크리스마스 콘서트🎄]]></title>
         <id>https://indistreet.com/live/1519</id>
@@ -76,17 +83,10 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">怪</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 김사월 연말 단독공연 <밖은 너무 추워 나는>]]></title>
-        <id>https://indistreet.com/live/1495</id>
-        <link href="https://indistreet.com/live/1495"/>
-        <updated>2021-12-02T17:27:44.986Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 김사월 연말 단독공연 &lt;밖은 너무 추워 나는&gt;</p><p class="chakra-text css-0">장소: <!-- -->서울 노들섬 라이브하우스</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STRANGE! STRANGE! STRANGE!]]></title>
-        <id>https://indistreet.com/live/1577</id>
-        <link href="https://indistreet.com/live/1577"/>
-        <updated>2021-12-06T14:20:28.444Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">STRANGE! STRANGE! STRANGE!</p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
+        <title type="html"><![CDATA["HOA DAY"]]></title>
+        <id>https://indistreet.com/live/1585</id>
+        <link href="https://indistreet.com/live/1585"/>
+        <updated>2021-12-07T07:22:05.370Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">"HOA DAY"</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
