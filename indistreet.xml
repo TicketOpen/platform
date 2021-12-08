@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-08T08:27:53.162Z</updated>
+    <updated>2021-12-08T09:23:18.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🎄왈츠소파 크리스마스 콘서트🎄</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 06시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021 라이브 클럽 데이]]></title>
+        <id>https://indistreet.com/live/1613</id>
+        <link href="https://indistreet.com/live/1613"/>
+        <updated>2021-12-08T09:22:49.902Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 라이브 클럽 데이</p><p class="chakra-text css-0">장소: <!-- -->스트레인지 프룻</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 21일 화요일 오전 10시 30분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Exile Your City]]></title>
         <id>https://indistreet.com/live/1578</id>
         <link href="https://indistreet.com/live/1578"/>
@@ -76,17 +83,10 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Exile Your City</p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 김사월 연말 단독공연 <밖은 너무 추워 나는>]]></title>
-        <id>https://indistreet.com/live/1496</id>
-        <link href="https://indistreet.com/live/1496"/>
-        <updated>2021-12-02T17:27:44.983Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 김사월 연말 단독공연 &lt;밖은 너무 추워 나는&gt;</p><p class="chakra-text css-0">장소: <!-- -->서울 노들섬 라이브하우스</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보수동쿨러 정규 1집 [모래] 쇼케이스]]></title>
-        <id>https://indistreet.com/live/1593</id>
-        <link href="https://indistreet.com/live/1593"/>
-        <updated>2021-12-08T07:21:58.832Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">보수동쿨러 정규 1집 [모래] 쇼케이스</p><p class="chakra-text css-0">장소: <!-- -->KT&amp;G 상상마당 홍대 라이브홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
+        <title type="html"><![CDATA[2021 라이브 클럽 데이]]></title>
+        <id>https://indistreet.com/live/1612</id>
+        <link href="https://indistreet.com/live/1612"/>
+        <updated>2021-12-08T09:22:49.904Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 라이브 클럽 데이</p><p class="chakra-text css-0">장소: <!-- -->스트레인지 프룻</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
