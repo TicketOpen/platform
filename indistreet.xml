@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-08T05:21:45.595Z</updated>
+    <updated>2021-12-08T06:27:41.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://indistreet.com/live/1580"/>
         <updated>2021-12-07T07:22:05.360Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">22チャンス</p><p class="chakra-text css-0">장소: <!-- -->DGT아트센터</p><p class="chakra-text css-0">날짜: <!-- -->2022년 1월 15일 토요일 오전 04시 30분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이주영 발라드 2021 “안녕，오랜만이야．”]]></title>
+        <id>https://indistreet.com/live/1587</id>
+        <link href="https://indistreet.com/live/1587"/>
+        <updated>2021-12-08T06:27:15.632Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">이주영 발라드 2021 “안녕，오랜만이야．”</p><p class="chakra-text css-0">장소: <!-- -->벨로주 홍대</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 31일 금요일 오전 10시 30분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 OSORIWORKS YEAR-END PARTY]]></title>
+        <id>https://indistreet.com/live/1590</id>
+        <link href="https://indistreet.com/live/1590"/>
+        <updated>2021-12-08T06:27:15.633Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 OSORIWORKS YEAR-END PARTY</p><p class="chakra-text css-0">장소: <!-- -->카페 언플러그드 홍대점</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 26일 일요일 오전 06시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎄왈츠소파 크리스마스 콘서트🎄]]></title>
@@ -74,19 +88,5 @@
         <link href="https://indistreet.com/live/1506"/>
         <updated>2021-12-02T17:27:44.984Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">해서웨이 연말공연 ‘Love &amp; Tender’</p><p class="chakra-text css-0">장소: <!-- -->KT&amp;G상상마당 부산</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOUND WAVE]]></title>
-        <id>https://indistreet.com/live/1568</id>
-        <link href="https://indistreet.com/live/1568"/>
-        <updated>2021-12-03T18:26:00.274Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">SOUND WAVE</p><p class="chakra-text css-0">장소: <!-- -->Bender</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪]]></title>
-        <id>https://indistreet.com/live/1566</id>
-        <link href="https://indistreet.com/live/1566"/>
-        <updated>2021-12-02T21:19:30.703Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">怪</p><p class="chakra-text css-0">장소: <!-- -->프리즘홀</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 18일 토요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
