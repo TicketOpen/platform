@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-08T11:19:31.412Z</updated>
+    <updated>2021-12-08T12:36:07.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🎄왈츠소파 크리스마스 콘서트🎄</p><p class="chakra-text css-0">장소: <!-- -->구름아래소극장</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 06시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OH! 5! 五! - 천용성, 숨비]]></title>
+        <id>https://indistreet.com/live/1614</id>
+        <link href="https://indistreet.com/live/1614"/>
+        <updated>2021-12-08T12:35:39.321Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">OH! 5! 五! - 천용성, 숨비</p><p class="chakra-text css-0">장소: <!-- -->살롱문보우</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 23일 목요일 오전 11시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021 라이브 클럽 데이]]></title>
         <id>https://indistreet.com/live/1613</id>
         <link href="https://indistreet.com/live/1613"/>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1578"/>
         <updated>2021-12-06T14:20:28.435Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Exile Your City</p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 라이브 클럽 데이]]></title>
-        <id>https://indistreet.com/live/1612</id>
-        <link href="https://indistreet.com/live/1612"/>
-        <updated>2021-12-08T09:22:49.904Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 라이브 클럽 데이</p><p class="chakra-text css-0">장소: <!-- -->스트레인지 프룻</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
