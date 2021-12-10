@@ -9,6 +9,16 @@ imageSelector = "a.ng-scope div:nth-child(1)"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[moumi]
+title = "모우미"
+url = "https://moumi-shop.com/category/%EA%B3%B5%EC%97%B0/24/"
+entrySelector = "ul.prdList.grid2 li[id^='anchorBoxId']"
+titleSelector = "strong.name a span:nth-child(2)"
+linkSelector = "strong.name a"
+contentSelector = "ul[class='xans-element- xans-product xans-product-listitem spec'] li"
+imageSelector = "div.prdImg a img"
+waitUntil = "networkidle"
+
 [showdeerocks]
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info"
