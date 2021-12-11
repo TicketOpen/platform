@@ -19,6 +19,15 @@ contentSelector = "ul[class='xans-element- xans-product xans-product-listitem sp
 imageSelector = "div.prdImg a img"
 waitUntil = "networkidle"
 
+[moumi_inpock]
+title = "모우미 ─ 인포크링크"
+url = "https://link.inpock.co.kr/moumi"
+entrySelector = "div.links a.link-a"
+titleSelector = "div.link.gtm-link-click-visitor div.link-meta p.inpock-typography.paragraph-2.titleClass.title"
+linkSelector = "*"
+imageSelector = "div.image"
+waitUntil = "networkidle"
+
 [showdeerocks]
 title = "ShowdeeRocks"
 url = "http://showdeerocks.info"
