@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-14T04:30:33.408Z</updated>
+    <updated>2021-12-14T05:22:00.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">고요한가을 단콘 - Green Christmas🎄</p><p class="chakra-text css-0">장소: <!-- -->네스트나다</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A.O.R CRAZY CHRISTMAS]]></title>
+        <id>https://indistreet.com/live/1620</id>
+        <link href="https://indistreet.com/live/1620"/>
+        <updated>2021-12-14T05:21:30.805Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">A.O.R CRAZY CHRISTMAS</p><p class="chakra-text css-0">장소: <!-- -->A.O.R</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 25일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🎄왈츠소파 크리스마스 콘서트🎄]]></title>
         <id>https://indistreet.com/live/1518</id>
         <link href="https://indistreet.com/live/1518"/>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1613"/>
         <updated>2021-12-08T09:22:49.902Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 라이브 클럽 데이</p><p class="chakra-text css-0">장소: <!-- -->스트레인지 프룻</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 21일 화요일 오전 10시 30분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exile Your City]]></title>
-        <id>https://indistreet.com/live/1578</id>
-        <link href="https://indistreet.com/live/1578"/>
-        <updated>2021-12-06T14:20:28.435Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Exile Your City</p><p class="chakra-text css-0">장소: <!-- -->Club FF</p><p class="chakra-text css-0">날짜: <!-- -->2021년 12월 19일 일요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
