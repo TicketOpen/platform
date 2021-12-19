@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://showdeerocks.info</id>
     <title>ShowdeeRocks</title>
-    <updated>2021-12-19T10:24:59.644Z</updated>
+    <updated>2021-12-19T11:19:26.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://showdeerocks.info/favicon.ico</icon>
     <entry>
@@ -2640,9 +2640,9 @@
         <updated>2021-12-13T14:21:11.898Z</updated>
         <content type="html"><![CDATA[<span class="Artist">ABTB, R4-19 - </span>
 <span class="Site">클럽 FF </span>
-<span class="Time">21:15 </span>
+<span class="Time"><del>21:15</del> </span>
 <span class="Link">
-<a href="https://www.instagram.com/p/CXP7zHDFmS1/" target="_blank" class="Design3-1">[현장 예매]</a>
+<a href="https://www.instagram.com/p/CXP7zHDFmS1/" target="_blank" class="Design3-1">[공연 연기]</a>
 </span>]]></content>
     </entry>
     <entry>
@@ -3060,7 +3060,7 @@
         <updated>2021-12-13T14:21:11.948Z</updated>
         <content type="html"><![CDATA[<span class="Artist">쏜애플 - </span>
 <span class="Site">노들섬 다목적 홀 ‘숲 </span>
-<span class="Time">20:00 </span>
+<span class="Time">19:30 </span>
 <span class="Link">
 <a href="https://tickets.interpark.com/goods/21012797" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
@@ -3288,9 +3288,9 @@
         <updated>2021-12-13T14:21:11.966Z</updated>
         <content type="html"><![CDATA[<span class="Artist">데이로터스 - </span>
 <span class="Site">하루 뮤직바 </span>
-<span class="Time">18:00 </span>
+<span class="Time"><del>&gt;18:00</del> </span>
 <span class="Link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdc7ZLCfv91S_qhqzrP5bS_TJRsoagccA57y8nFXBdJsAy-LA/viewform" target="_blank" class="Design1-1">[예매 링크]</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdc7ZLCfv91S_qhqzrP5bS_TJRsoagccA57y8nFXBdJsAy-LA/viewform" target="_blank" class="Design8-1">[공연 취소]</a>
 </span>]]></content>
     </entry>
     <entry>
@@ -3423,18 +3423,6 @@
 <span class="Time">15:00 </span>
 <span class="Link">
 <a href="https://booking.naver.com/booking/12/bizes/606994/items/4202467" target="_blank" class="Design1-1">[예매 링크]</a>
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏜애플 -]]></title>
-        <id>https://tickets.interpark.com/goods/21012797</id>
-        <link href="https://tickets.interpark.com/goods/21012797"/>
-        <updated>2021-12-13T14:21:11.948Z</updated>
-        <content type="html"><![CDATA[<span class="Artist">쏜애플 - </span>
-<span class="Site">노들섬 다목적 홀 ‘숲 </span>
-<span class="Time">19:00 </span>
-<span class="Link">
-<a href="https://tickets.interpark.com/goods/21012797" target="_blank" class="Design1-1">[예매 링크]</a>
 </span>]]></content>
     </entry>
     <entry>
