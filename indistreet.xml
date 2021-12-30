@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2021-12-30T16:05:42.209Z</updated>
+    <updated>2021-12-30T16:35:55.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://indistreet.com/live/1586"/>
         <updated>2021-12-07T12:37:35.975Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">ソコノキミニ x X!DEN† 2MAN LIVE</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 05시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양반들 기획공연 흐름 流 flow season：겨울]]></title>
-        <id>https://indistreet.com/live/1717</id>
-        <link href="https://indistreet.com/live/1717"/>
-        <updated>2021-12-29T07:22:08.566Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">양반들 기획공연 흐름 流 flow season：겨울</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 08시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[양반들 기획 공연 흐름 流 flow : 겨울]]></title>
@@ -88,5 +81,12 @@
         <link href="https://indistreet.com/live/1716"/>
         <updated>2021-12-28T03:24:01.791Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">우물  '너 없는 바다는 전부 사라졌으면 좋겠다' [사막화] 발매 기념 공연</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 1월 9일 일요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 SIMF 제주대구부산서울 인디교류전 서울 공연]]></title>
+        <id>https://indistreet.com/live/1727</id>
+        <link href="https://indistreet.com/live/1727"/>
+        <updated>2021-12-30T16:35:27.460Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2021 SIMF 제주대구부산서울 인디교류전 서울 공연</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 8일 토요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
