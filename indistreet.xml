@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-03T23:24:03.299Z</updated>
+    <updated>2022-01-04T01:16:19.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A.O.R in GRYB]]></title>
+        <id>https://indistreet.com/live/1743</id>
+        <link href="https://indistreet.com/live/1743"/>
+        <updated>2022-01-04T01:15:46.633Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">A.O.R in GRYB</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソコノキミニ x X!DEN† 2MAN LIVE]]></title>
         <id>https://indistreet.com/live/1586</id>
@@ -18,6 +25,13 @@
         <link href="https://indistreet.com/live/1729"/>
         <updated>2021-12-29T20:24:25.200Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">양반들 기획 공연 흐름 流 flow : 겨울</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 08시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THEM & US 3]]></title>
+        <id>https://indistreet.com/live/1741</id>
+        <link href="https://indistreet.com/live/1741"/>
+        <updated>2022-01-04T01:15:46.641Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">THEM &amp; US 3</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 07시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트]]></title>
@@ -74,19 +88,5 @@
         <link href="https://indistreet.com/live/1726"/>
         <updated>2021-12-29T20:24:25.206Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">+1dB (plz)</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 14일 금요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 릴레이 ROCK 콘서트]]></title>
-        <id>https://indistreet.com/live/1690</id>
-        <link href="https://indistreet.com/live/1690"/>
-        <updated>2021-12-23T05:22:43.015Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 릴레이 ROCK 콘서트</p><p class="chakra-text css-0">장소: 라디오가가</p><p class="chakra-text css-0">날짜: 2022년 1월 13일 목요일 오전 10시 30분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 릴레이 ROCK 콘서트]]></title>
-        <id>https://indistreet.com/live/1689</id>
-        <link href="https://indistreet.com/live/1689"/>
-        <updated>2021-12-23T05:22:43.016Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 릴레이 ROCK 콘서트</p><p class="chakra-text css-0">장소: 라디오가가</p><p class="chakra-text css-0">날짜: 2022년 1월 12일 수요일 오전 10시 30분</p>]]></content>
     </entry>
 </feed>
