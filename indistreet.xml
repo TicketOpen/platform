@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-05T05:23:13.024Z</updated>
+    <updated>2022-01-05T06:29:05.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://indistreet.com/live/1743"/>
         <updated>2022-01-04T01:15:46.633Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">A.O.R in GRYB</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자양 단독공연 '팡파레']]></title>
+        <id>https://indistreet.com/live/1755</id>
+        <link href="https://indistreet.com/live/1755"/>
+        <updated>2022-01-05T06:28:36.692Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">전자양 단독공연 '팡파레'</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ソコノキミニ x X!DEN† 2MAN LIVE]]></title>
@@ -48,6 +55,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">THEM &amp; US 3</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 07시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BLACK & WHITE Vol.2]]></title>
+        <id>https://indistreet.com/live/1756</id>
+        <link href="https://indistreet.com/live/1756"/>
+        <updated>2022-01-05T06:28:36.702Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">BLACK &amp; WHITE Vol.2</p><p class="chakra-text css-0">장소: 클럽 스틸페이스</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 04시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트]]></title>
         <id>https://indistreet.com/live/1728</id>
         <link href="https://indistreet.com/live/1728"/>
@@ -74,19 +88,5 @@
         <link href="https://indistreet.com/live/1751"/>
         <updated>2022-01-04T22:22:51.652Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">"조주 단독공연 - MAP"</p><p class="chakra-text css-0">장소: 네스트나다</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「CRYING NUT & SONIC STONES」 JOINT CONCERT‼️]]></title>
-        <id>https://indistreet.com/live/1737</id>
-        <link href="https://indistreet.com/live/1737"/>
-        <updated>2021-12-31T15:24:06.809Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">「CRYING NUT &amp; SONIC STONES」 JOINT CONCERT‼️</p><p class="chakra-text css-0">장소: Bender</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 릴레이 ROCK 콘서트]]></title>
-        <id>https://indistreet.com/live/1692</id>
-        <link href="https://indistreet.com/live/1692"/>
-        <updated>2021-12-23T05:22:43.013Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 릴레이 ROCK 콘서트</p><p class="chakra-text css-0">장소: 라디오가가</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
