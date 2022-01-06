@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -931,6 +931,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">BLACK &amp; WHITE Vol.2</p><p class="chakra-text css-0">장소: 클럽 스틸페이스</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 04시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[in mate stage - 오호, 임단우 (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1761</link>
+            <guid>https://indistreet.com/live/1761</guid>
+            <pubDate>Thu, 06 Jan 2022 03:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">in mate stage - 오호, 임단우</p><p class="chakra-text css-0">장소: 살롱문보우</p><p class="chakra-text css-0">날짜: 2022년 1월 21일 금요일 오전 11시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[CONNECT：마리슈x오추프로젝트 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1728</link>
             <guid>https://indistreet.com/live/1728</guid>
@@ -950,13 +957,6 @@
             <guid>https://indistreet.com/live/1736</guid>
             <pubDate>Fri, 31 Dec 2021 11:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">[뉴키즈온더후케즈; New Kidz on the HUKEZ] vol.3</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["조주 단독공연 - MAP" (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1751</link>
-            <guid>https://indistreet.com/live/1751</guid>
-            <pubDate>Tue, 04 Jan 2022 22:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">"조주 단독공연 - MAP"</p><p class="chakra-text css-0">장소: 네스트나다</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지

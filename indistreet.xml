@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-06T02:45:47.352Z</updated>
+    <updated>2022-01-06T03:25:35.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">BLACK &amp; WHITE Vol.2</p><p class="chakra-text css-0">장소: 클럽 스틸페이스</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 04시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[in mate stage - 오호, 임단우]]></title>
+        <id>https://indistreet.com/live/1761</id>
+        <link href="https://indistreet.com/live/1761"/>
+        <updated>2022-01-06T03:25:02.398Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">in mate stage - 오호, 임단우</p><p class="chakra-text css-0">장소: 살롱문보우</p><p class="chakra-text css-0">날짜: 2022년 1월 21일 금요일 오전 11시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트]]></title>
         <id>https://indistreet.com/live/1728</id>
         <link href="https://indistreet.com/live/1728"/>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1736"/>
         <updated>2021-12-31T11:19:15.604Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">[뉴키즈온더후케즈; New Kidz on the HUKEZ] vol.3</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["조주 단독공연 - MAP"]]></title>
-        <id>https://indistreet.com/live/1751</id>
-        <link href="https://indistreet.com/live/1751"/>
-        <updated>2022-01-04T22:22:51.652Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">"조주 단독공연 - MAP"</p><p class="chakra-text css-0">장소: 네스트나다</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content>
     </entry>
 </feed>
