@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-06T03:25:35.321Z</updated>
+    <updated>2022-01-06T04:30:57.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://indistreet.com/live/1755"/>
         <updated>2022-01-05T06:28:36.692Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">전자양 단독공연 '팡파레'</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOMEN ROCK]]></title>
+        <id>https://indistreet.com/live/1765</id>
+        <link href="https://indistreet.com/live/1765"/>
+        <updated>2022-01-06T04:30:30.645Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">WOMEN ROCK</p><p class="chakra-text css-0">장소: The Studio HBC</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 05시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ソコノキミニ x X!DEN† 2MAN LIVE]]></title>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1693"/>
         <updated>2021-12-23T05:22:43.012Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 릴레이 ROCK 콘서트</p><p class="chakra-text css-0">장소: 라디오가가</p><p class="chakra-text css-0">날짜: 2022년 1월 16일 일요일 오전 10시 30분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴키즈온더후케즈; New Kidz on the HUKEZ] vol.3]]></title>
-        <id>https://indistreet.com/live/1736</id>
-        <link href="https://indistreet.com/live/1736"/>
-        <updated>2021-12-31T11:19:15.604Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">[뉴키즈온더후케즈; New Kidz on the HUKEZ] vol.3</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 1월 15일 토요일 오전 10시 00분</p>]]></content>
     </entry>
 </feed>
