@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-12T06:30:00.620Z</updated>
+    <updated>2022-01-12T07:23:30.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🛫 Flight0212: The Whales 편 🛫]]></title>
+        <id>https://indistreet.com/live/1787</id>
+        <link href="https://indistreet.com/live/1787"/>
+        <updated>2022-01-12T07:23:00.262Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🛫 Flight0212: The Whales 편 🛫</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 10시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🛫 Flight0212: The Whales 편 🛫]]></title>
+        <id>https://indistreet.com/live/1786</id>
+        <link href="https://indistreet.com/live/1786"/>
+        <updated>2022-01-12T07:23:00.265Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🛫 Flight0212: The Whales 편 🛫</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 06시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버둥 정규 1집 [지지않는 곳으로 가자] 발매기념 전국투어 <부산>]]></title>
         <id>https://indistreet.com/live/1744</id>
@@ -32,6 +46,13 @@
         <link href="https://indistreet.com/live/1755"/>
         <updated>2022-01-05T06:28:36.692Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">전자양 단독공연 '팡파레'</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚪WRK#5 : 김마리의 피어나는 방🚪]]></title>
+        <id>https://indistreet.com/live/1785</id>
+        <link href="https://indistreet.com/live/1785"/>
+        <updated>2022-01-12T07:23:00.276Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🚪WRK#5 : 김마리의 피어나는 방🚪</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOMEN ROCK]]></title>
@@ -67,26 +88,5 @@
         <link href="https://indistreet.com/live/1741"/>
         <updated>2022-01-04T01:15:46.641Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">THEM &amp; US 3</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 07시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACK & WHITE Vol.2]]></title>
-        <id>https://indistreet.com/live/1756</id>
-        <link href="https://indistreet.com/live/1756"/>
-        <updated>2022-01-05T06:28:36.702Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">BLACK &amp; WHITE Vol.2</p><p class="chakra-text css-0">장소: 클럽 스틸페이스</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 04시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[in mate stage - 오호, 임단우]]></title>
-        <id>https://indistreet.com/live/1761</id>
-        <link href="https://indistreet.com/live/1761"/>
-        <updated>2022-01-06T03:25:02.398Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">in mate stage - 오호, 임단우</p><p class="chakra-text css-0">장소: 살롱문보우</p><p class="chakra-text css-0">날짜: 2022년 1월 21일 금요일 오전 11시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트]]></title>
-        <id>https://indistreet.com/live/1728</id>
-        <link href="https://indistreet.com/live/1728"/>
-        <updated>2021-12-29T20:24:25.201Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">CONNECT：마리슈x오추프로젝트</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 21일 금요일 오전 10시 30분</p>]]></content>
     </entry>
 </feed>
