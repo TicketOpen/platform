@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-12T05:23:48.558Z</updated>
+    <updated>2022-01-12T06:30:00.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://indistreet.com/live/1744"/>
         <updated>2022-01-04T18:28:07.658Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">버둥 정규 1집 [지지않는 곳으로 가자] 발매기념 전국투어 &lt;부산&gt;</p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 10시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Hello! We Are Drinking Boys And Girls Choir"]]></title>
+        <id>https://indistreet.com/live/1782</id>
+        <link href="https://indistreet.com/live/1782"/>
+        <updated>2022-01-12T06:29:29.216Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">"Hello! We Are Drinking Boys And Girls Choir"</p><p class="chakra-text css-0">장소: Club Sharp</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A.O.R in GRYB]]></title>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1728"/>
         <updated>2021-12-29T20:24:25.201Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">CONNECT：마리슈x오추프로젝트</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 21일 금요일 오전 10시 30분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 릴레이 ROCK 콘서트]]></title>
-        <id>https://indistreet.com/live/1693</id>
-        <link href="https://indistreet.com/live/1693"/>
-        <updated>2021-12-23T05:22:43.012Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 릴레이 ROCK 콘서트</p><p class="chakra-text css-0">장소: 라디오가가</p><p class="chakra-text css-0">날짜: 2022년 1월 16일 일요일 오전 10시 30분</p>]]></content>
     </entry>
 </feed>
