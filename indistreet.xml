@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-18T16:37:39.459Z</updated>
+    <updated>2022-01-18T17:32:44.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Solitude Is Bliss]]></title>
+        <id>https://indistreet.com/live/1800</id>
+        <link href="https://indistreet.com/live/1800"/>
+        <updated>2022-01-18T17:32:13.128Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Solitude Is Bliss </p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 2월 13일 일요일 오전 08시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🛫 Flight0212: The Whales 편 🛫]]></title>
         <id>https://indistreet.com/live/1787</id>
@@ -55,6 +62,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🚪WRK#5 : 김마리의 피어나는 방🚪</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Killing In the Name]]></title>
+        <id>https://indistreet.com/live/1798</id>
+        <link href="https://indistreet.com/live/1798"/>
+        <updated>2022-01-18T17:32:13.136Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Killing In the Name </p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 07시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WOMEN ROCK]]></title>
         <id>https://indistreet.com/live/1765</id>
         <link href="https://indistreet.com/live/1765"/>
@@ -62,31 +76,17 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">WOMEN ROCK</p><p class="chakra-text css-0">장소: The Studio HBC</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 05시 00분</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ソコノキミニ x X!DEN† 2MAN LIVE]]></title>
-        <id>https://indistreet.com/live/1586</id>
-        <link href="https://indistreet.com/live/1586"/>
-        <updated>2021-12-07T12:37:35.975Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">ソコノキミニ x X!DEN† 2MAN LIVE</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 05시 00분</p>]]></content>
+        <title type="html"><![CDATA[2022년 1월 클럽빵 공연]]></title>
+        <id>https://indistreet.com/live/1808</id>
+        <link href="https://indistreet.com/live/1808"/>
+        <updated>2022-01-18T17:32:13.137Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022년 1월 클럽빵 공연</p><p class="chakra-text css-0">장소: Club 빵</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 09시 30분</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Youth out of the city]]></title>
-        <id>https://indistreet.com/live/1754</id>
-        <link href="https://indistreet.com/live/1754"/>
-        <updated>2022-01-04T22:22:51.648Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Youth out of the city</p><p class="chakra-text css-0">장소: 공상온도</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양반들 기획 공연 흐름 流 flow : 겨울]]></title>
-        <id>https://indistreet.com/live/1729</id>
-        <link href="https://indistreet.com/live/1729"/>
-        <updated>2021-12-29T20:24:25.200Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">양반들 기획 공연 흐름 流 flow : 겨울</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 08시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THEM & US 3]]></title>
-        <id>https://indistreet.com/live/1741</id>
-        <link href="https://indistreet.com/live/1741"/>
-        <updated>2022-01-04T01:15:46.641Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">THEM &amp; US 3</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 22일 토요일 오전 07시 00분</p>]]></content>
+        <title type="html"><![CDATA[Something About You]]></title>
+        <id>https://indistreet.com/live/1797</id>
+        <link href="https://indistreet.com/live/1797"/>
+        <updated>2022-01-18T17:32:13.139Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Something About You</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
