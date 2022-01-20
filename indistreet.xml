@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-20T14:20:30.831Z</updated>
+    <updated>2022-01-20T15:25:40.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">전자양 단독공연 '팡파레'</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Holy Diver]]></title>
+        <id>https://indistreet.com/live/1815</id>
+        <link href="https://indistreet.com/live/1815"/>
+        <updated>2022-01-20T15:25:04.987Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Holy Diver</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 30일 일요일 오전 07시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🚪WRK#5 : 김마리의 피어나는 방🚪]]></title>
         <id>https://indistreet.com/live/1785</id>
         <link href="https://indistreet.com/live/1785"/>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1765"/>
         <updated>2022-01-06T04:30:30.645Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">WOMEN ROCK</p><p class="chakra-text css-0">장소: The Studio HBC</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 05시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 1월 클럽빵 공연]]></title>
-        <id>https://indistreet.com/live/1808</id>
-        <link href="https://indistreet.com/live/1808"/>
-        <updated>2022-01-18T17:32:13.137Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022년 1월 클럽빵 공연</p><p class="chakra-text css-0">장소: Club 빵</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 09시 30분</p>]]></content>
     </entry>
 </feed>

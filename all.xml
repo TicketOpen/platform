@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 14:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 15:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1988,6 +1988,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">전자양 단독공연 '팡파레'</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Holy Diver (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1815</link>
+            <guid>https://indistreet.com/live/1815</guid>
+            <pubDate>Thu, 20 Jan 2022 15:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">Holy Diver</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 30일 일요일 오전 07시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🚪WRK#5 : 김마리의 피어나는 방🚪 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1785</link>
             <guid>https://indistreet.com/live/1785</guid>
@@ -2014,13 +2021,6 @@
             <guid>https://indistreet.com/live/1765</guid>
             <pubDate>Thu, 06 Jan 2022 04:30:30 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">WOMEN ROCK</p><p class="chakra-text css-0">장소: The Studio HBC</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 05시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 1월 클럽빵 공연 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1808</link>
-            <guid>https://indistreet.com/live/1808</guid>
-            <pubDate>Tue, 18 Jan 2022 17:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">2022년 1월 클럽빵 공연</p><p class="chakra-text css-0">장소: Club 빵</p><p class="chakra-text css-0">날짜: 2022년 1월 23일 일요일 오전 09시 30분</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
