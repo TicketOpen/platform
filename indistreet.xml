@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-24T06:30:31.105Z</updated>
+    <updated>2022-01-24T07:23:54.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주]]></title>
+        <id>https://indistreet.com/live/1825</id>
+        <link href="https://indistreet.com/live/1825"/>
+        <updated>2022-01-24T07:23:26.648Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주</p><p class="chakra-text css-0">장소: 부드러운직선</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구]]></title>
+        <id>https://indistreet.com/live/1824</id>
+        <link href="https://indistreet.com/live/1824"/>
+        <updated>2022-01-24T07:23:26.651Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구</p><p class="chakra-text css-0">장소: 대구클럽헤비</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solitude Is Bliss]]></title>
         <id>https://indistreet.com/live/1800</id>
@@ -20,11 +34,25 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🛫 Flight0212: The Whales 편 🛫</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 부산]]></title>
+        <id>https://indistreet.com/live/1823</id>
+        <link href="https://indistreet.com/live/1823"/>
+        <updated>2022-01-24T07:23:26.655Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 부산</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🛫 Flight0212: The Whales 편 🛫]]></title>
         <id>https://indistreet.com/live/1786</id>
         <link href="https://indistreet.com/live/1786"/>
         <updated>2022-01-12T07:23:00.265Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🛫 Flight0212: The Whales 편 🛫</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 06시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 서울]]></title>
+        <id>https://indistreet.com/live/1822</id>
+        <link href="https://indistreet.com/live/1822"/>
+        <updated>2022-01-24T07:23:26.658Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 서울</p><p class="chakra-text css-0">장소: Bender</p><p class="chakra-text css-0">날짜: 2022년 2월 11일 금요일 오전 10시 30분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[버둥 정규 1집 [지지않는 곳으로 가자] 발매기념 전국투어 <부산>]]></title>
@@ -60,33 +88,5 @@
         <link href="https://indistreet.com/live/1815"/>
         <updated>2022-01-20T15:25:04.987Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Holy Diver</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 30일 일요일 오전 07시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚪WRK#5 : 김마리의 피어나는 방🚪]]></title>
-        <id>https://indistreet.com/live/1785</id>
-        <link href="https://indistreet.com/live/1785"/>
-        <updated>2022-01-12T07:23:00.276Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🚪WRK#5 : 김마리의 피어나는 방🚪</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PERFECT HOLIDAY I⚡️]]></title>
-        <id>https://indistreet.com/live/1812</id>
-        <link href="https://indistreet.com/live/1812"/>
-        <updated>2022-01-20T14:19:59.129Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">PERFECT HOLIDAY I⚡️</p><p class="chakra-text css-0">장소: Bender</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 08시 50분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killing In the Name]]></title>
-        <id>https://indistreet.com/live/1798</id>
-        <link href="https://indistreet.com/live/1798"/>
-        <updated>2022-01-18T17:32:13.136Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Killing In the Name </p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 07시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOMEN ROCK]]></title>
-        <id>https://indistreet.com/live/1765</id>
-        <link href="https://indistreet.com/live/1765"/>
-        <updated>2022-01-06T04:30:30.645Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">WOMEN ROCK</p><p class="chakra-text css-0">장소: The Studio HBC</p><p class="chakra-text css-0">날짜: 2022년 1월 29일 토요일 오전 05시 00분</p>]]></content>
     </entry>
 </feed>
