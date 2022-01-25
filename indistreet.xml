@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-01-25T12:36:28.076Z</updated>
+    <updated>2022-01-25T13:24:13.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[잠비나이 단독 콘서트 : 롤링 27주년 기념 공연]]></title>
+        <id>https://indistreet.com/live/1845</id>
+        <link href="https://indistreet.com/live/1845"/>
+        <updated>2022-01-25T13:23:44.230Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">잠비나이 단독 콘서트 : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 3월 1일 화요일 오전 08시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주]]></title>
         <id>https://indistreet.com/live/1825</id>
@@ -13,11 +20,46 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주</p><p class="chakra-text css-0">장소: 부드러운직선</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연]]></title>
+        <id>https://indistreet.com/live/1847</id>
+        <link href="https://indistreet.com/live/1847"/>
+        <updated>2022-01-25T13:23:44.232Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 08시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연]]></title>
+        <id>https://indistreet.com/live/1846</id>
+        <link href="https://indistreet.com/live/1846"/>
+        <updated>2022-01-25T13:23:44.234Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 2월 25일 금요일 오전 11시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티키타카 콘서트 : 해서웨이]]></title>
+        <id>https://indistreet.com/live/1843</id>
+        <link href="https://indistreet.com/live/1843"/>
+        <updated>2022-01-25T13:23:44.236Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">티키타카 콘서트 : 해서웨이</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구]]></title>
         <id>https://indistreet.com/live/1824</id>
         <link href="https://indistreet.com/live/1824"/>
         <updated>2022-01-24T07:23:26.651Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구</p><p class="chakra-text css-0">장소: 대구클럽헤비</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박소은 단독 콘서트 '너만 있으면' : 롤링 27주년 기념 공연]]></title>
+        <id>https://indistreet.com/live/1850</id>
+        <link href="https://indistreet.com/live/1850"/>
+        <updated>2022-01-25T13:23:44.246Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">박소은 단독 콘서트 '너만 있으면' : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 2월 18일 금요일 오전 11시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티키타카 콘서트 : 잭킹콩]]></title>
+        <id>https://indistreet.com/live/1842</id>
+        <link href="https://indistreet.com/live/1842"/>
+        <updated>2022-01-25T13:23:44.247Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">티키타카 콘서트 : 잭킹콩</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 18일 금요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Solitude Is Bliss]]></title>
@@ -41,52 +83,10 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 부산</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🛫 Flight0212: The Whales 편 🛫]]></title>
-        <id>https://indistreet.com/live/1786</id>
-        <link href="https://indistreet.com/live/1786"/>
-        <updated>2022-01-12T07:23:00.265Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">🛫 Flight0212: The Whales 편 🛫</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 06시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 서울]]></title>
-        <id>https://indistreet.com/live/1822</id>
-        <link href="https://indistreet.com/live/1822"/>
-        <updated>2022-01-24T07:23:26.658Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 서울</p><p class="chakra-text css-0">장소: Bender</p><p class="chakra-text css-0">날짜: 2022년 2월 11일 금요일 오전 10시 30분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything is gonna be 'allwhite']]></title>
-        <id>https://indistreet.com/live/1837</id>
-        <link href="https://indistreet.com/live/1837"/>
-        <updated>2022-01-25T06:26:03.028Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Everything is gonna be 'allwhite'</p><p class="chakra-text css-0">장소: 네스트나다</p><p class="chakra-text css-0">날짜: 2022년 2월 7일 월요일 오전 11시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버둥 정규 1집 [지지않는 곳으로 가자] 발매기념 전국투어 <부산>]]></title>
-        <id>https://indistreet.com/live/1744</id>
-        <link href="https://indistreet.com/live/1744"/>
-        <updated>2022-01-04T18:28:07.658Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">버둥 정규 1집 [지지않는 곳으로 가자] 발매기념 전국투어 &lt;부산&gt;</p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Hello! We Are Drinking Boys And Girls Choir"]]></title>
-        <id>https://indistreet.com/live/1782</id>
-        <link href="https://indistreet.com/live/1782"/>
-        <updated>2022-01-12T06:29:29.216Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">"Hello! We Are Drinking Boys And Girls Choir"</p><p class="chakra-text css-0">장소: Club Sharp</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.O.R in GRYB]]></title>
-        <id>https://indistreet.com/live/1743</id>
-        <link href="https://indistreet.com/live/1743"/>
-        <updated>2022-01-04T01:15:46.633Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">A.O.R in GRYB</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 09시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ALL DAY HELL」]]></title>
-        <id>https://indistreet.com/live/1839</id>
-        <link href="https://indistreet.com/live/1839"/>
-        <updated>2022-01-25T12:36:01.138Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">「ALL DAY HELL」</p><p class="chakra-text css-0">장소: Bender</p><p class="chakra-text css-0">날짜: 2022년 2월 5일 토요일 오전 08시 30분</p>]]></content>
+        <title type="html"><![CDATA[김사월 단독 콘서트 : 롤링 27주년 기념 공연]]></title>
+        <id>https://indistreet.com/live/1849</id>
+        <link href="https://indistreet.com/live/1849"/>
+        <updated>2022-01-25T13:23:44.254Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">김사월 단독 콘서트 : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 2월 12일 토요일 오전 08시 00분</p>]]></content>
     </entry>
 </feed>
