@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 09:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 10:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2005,6 +2005,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">🌙먼데이프로젝트 시즌5 : 프롬🌙 </p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 21일 월요일 오전 11시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Lunar Stage!! (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1915</link>
+            <guid>https://indistreet.com/live/1915</guid>
+            <pubDate>Mon, 31 Jan 2022 10:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">Lunar Stage!!</p><p class="chakra-text css-0">장소: 문화정원아트홀</p><p class="chakra-text css-0">날짜: 2022년 2월 20일 일요일 오전 04시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[티키타카 콘서트 : 해서웨이 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1843</link>
             <guid>https://indistreet.com/live/1843</guid>
@@ -2031,13 +2038,6 @@
             <guid>https://indistreet.com/live/1824</guid>
             <pubDate>Mon, 24 Jan 2022 07:23:26 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구</p><p class="chakra-text css-0">장소: 대구클럽헤비</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 09시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박소은 단독 콘서트 '너만 있으면' : 롤링 27주년 기념 공연 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1850</link>
-            <guid>https://indistreet.com/live/1850</guid>
-            <pubDate>Tue, 25 Jan 2022 13:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">박소은 단독 콘서트 '너만 있으면' : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 2월 18일 금요일 오전 11시 00분</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
