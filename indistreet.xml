@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-02-06T08:24:32.216Z</updated>
+    <updated>2022-02-06T09:22:18.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond Creation : INVASION]]></title>
+        <id>https://indistreet.com/live/1925</id>
+        <link href="https://indistreet.com/live/1925"/>
+        <updated>2022-02-06T09:21:47.330Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Beyond Creation : INVASION</p><p class="chakra-text css-0">장소: KT&amp;G상상마당 부산</p><p class="chakra-text css-0">날짜: 2022년 3월 12일 토요일 오전 07시 00분</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPURT 2022]]></title>
         <id>https://indistreet.com/live/1907</id>
@@ -27,11 +34,25 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">2022 HUKEZ LIVE 시즌2 vol.1 동이혼(DIH)</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 2월 27일 일요일 오전 10시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The End of an Era (Carlos Farewell Show)]]></title>
+        <id>https://indistreet.com/live/1926</id>
+        <link href="https://indistreet.com/live/1926"/>
+        <updated>2022-02-06T09:21:47.335Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">The End of an Era (Carlos Farewell Show)</p><p class="chakra-text css-0">장소: 드림홀</p><p class="chakra-text css-0">날짜: 2022년 2월 27일 일요일 오전 07시 40분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주]]></title>
         <id>https://indistreet.com/live/1825</id>
         <link href="https://indistreet.com/live/1825"/>
         <updated>2022-01-24T07:23:26.648Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 광주</p><p class="chakra-text css-0">장소: 부드러운직선</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Daydreamers(공상가들) #18] 하헌진 X 숨비]]></title>
+        <id>https://indistreet.com/live/1924</id>
+        <link href="https://indistreet.com/live/1924"/>
+        <updated>2022-02-06T09:21:47.337Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">[Daydreamers(공상가들) #18] 하헌진 X 숨비</p><p class="chakra-text css-0">장소: 공상온도</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연]]></title>
@@ -67,26 +88,5 @@
         <link href="https://indistreet.com/live/1843"/>
         <updated>2022-01-25T13:23:44.236Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">티키타카 콘서트 : 해서웨이</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUKEZ SPECIAL MATCH vol.1]]></title>
-        <id>https://indistreet.com/live/1909</id>
-        <link href="https://indistreet.com/live/1909"/>
-        <updated>2022-01-28T18:25:28.873Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">HUKEZ SPECIAL MATCH vol.1</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채보훈(@bohoonie) 첫 번째 팬미팅 <꽃신>]]></title>
-        <id>https://indistreet.com/live/1901</id>
-        <link href="https://indistreet.com/live/1901"/>
-        <updated>2022-01-28T18:25:28.874Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">채보훈(@bohoonie) 첫 번째 팬미팅 &lt;꽃신&gt;</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구]]></title>
-        <id>https://indistreet.com/live/1824</id>
-        <link href="https://indistreet.com/live/1824"/>
-        <updated>2022-01-24T07:23:26.651Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">소닉스톤즈 3집 발매 기념 전국 투어 With RIOT KIDZ - 대구</p><p class="chakra-text css-0">장소: 대구클럽헤비</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 09시 00분</p>]]></content>
     </entry>
 </feed>
