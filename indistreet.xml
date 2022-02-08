@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://indistreet.com/live</id>
     <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2022-02-08T04:27:51.205Z</updated>
+    <updated>2022-02-08T05:20:02.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://indistreet.com/android-icon-192x192.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">[Daydreamers(공상가들) #18] 하헌진 X 숨비</p><p class="chakra-text css-0">장소: 공상온도</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ADIOS AUDIO ~ HOLA AUDIO]]></title>
+        <id>https://indistreet.com/live/1927</id>
+        <link href="https://indistreet.com/live/1927"/>
+        <updated>2022-02-08T05:19:31.614Z</updated>
+        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">ADIOS AUDIO ~ HOLA AUDIO </p><p class="chakra-text css-0">장소: 스페이스브릭</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연]]></title>
         <id>https://indistreet.com/live/1847</id>
         <link href="https://indistreet.com/live/1847"/>
@@ -81,12 +88,5 @@
         <link href="https://indistreet.com/live/1915"/>
         <updated>2022-01-31T10:23:44.115Z</updated>
         <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">Lunar Stage!!</p><p class="chakra-text css-0">장소: 문화정원아트홀</p><p class="chakra-text css-0">날짜: 2022년 2월 20일 일요일 오전 04시 00분</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티키타카 콘서트 : 해서웨이]]></title>
-        <id>https://indistreet.com/live/1843</id>
-        <link href="https://indistreet.com/live/1843"/>
-        <updated>2022-01-25T13:23:44.236Z</updated>
-        <content type="html"><![CDATA[<p class="chakra-text css-z3mpd">티키타카 콘서트 : 해서웨이</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content>
     </entry>
 </feed>

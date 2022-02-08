@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 04:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2011,6 +2011,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">[Daydreamers(공상가들) #18] 하헌진 X 숨비</p><p class="chakra-text css-0">장소: 공상온도</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ADIOS AUDIO ~ HOLA AUDIO (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/1927</link>
+            <guid>https://indistreet.com/live/1927</guid>
+            <pubDate>Tue, 08 Feb 2022 05:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">ADIOS AUDIO ~ HOLA AUDIO </p><p class="chakra-text css-0">장소: 스페이스브릭</p><p class="chakra-text css-0">날짜: 2022년 2월 26일 토요일 오전 09시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[모브닝 단독 콘서트 '사랑을 위하여' : 롤링 27주년 기념 공연 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1847</link>
             <guid>https://indistreet.com/live/1847</guid>
@@ -2037,13 +2044,6 @@
             <guid>https://indistreet.com/live/1915</guid>
             <pubDate>Mon, 31 Jan 2022 10:23:44 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">Lunar Stage!!</p><p class="chakra-text css-0">장소: 문화정원아트홀</p><p class="chakra-text css-0">날짜: 2022년 2월 20일 일요일 오전 04시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[티키타카 콘서트 : 해서웨이 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1843</link>
-            <guid>https://indistreet.com/live/1843</guid>
-            <pubDate>Tue, 25 Jan 2022 13:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">티키타카 콘서트 : 해서웨이</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 19일 토요일 오전 10시 00분</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
