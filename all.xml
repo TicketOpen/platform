@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 21:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 22:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2018,6 +2018,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">&lt;Connect With LUCY&gt;</p><p class="chakra-text css-0">장소: 서울 노들섬 라이브하우스</p><p class="chakra-text css-0">날짜: 2022년 3월 5일 토요일 오전 06시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[📣VOTE VOICE : 2022 대통령선거 투표 독려 콘서트 (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/2005</link>
+            <guid>https://indistreet.com/live/2005</guid>
+            <pubDate>Wed, 16 Feb 2022 22:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">📣VOTE VOICE : 2022 대통령선거 투표 독려 콘서트</p><p class="chakra-text css-0">장소: 수상한 창고</p><p class="chakra-text css-0">날짜: 2022년 3월 4일 금요일 오전 10시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[잠비나이 단독 콘서트 : 롤링 27주년 기념 공연 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1845</link>
             <guid>https://indistreet.com/live/1845</guid>
@@ -2025,25 +2032,18 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">잠비나이 단독 콘서트 : 롤링 27주년 기념 공연</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2022년 3월 1일 화요일 오전 08시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[All Of Rock - by UNIS (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/2006</link>
+            <guid>https://indistreet.com/live/2006</guid>
+            <pubDate>Wed, 16 Feb 2022 22:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">All Of Rock - by UNIS</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 3월 1일 화요일 오전 07시 40분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 : 청춘의 밤 - 이준형 단독 콘서트 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1991</link>
             <guid>https://indistreet.com/live/1991</guid>
             <pubDate>Wed, 16 Feb 2022 06:27:29 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">먼데이프로젝트 시즌5 : 청춘의 밤 - 이준형 단독 콘서트</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 28일 월요일 오전 11시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 : 음악여행, 쉼 - 김정훈 단독 콘서트 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1990</link>
-            <guid>https://indistreet.com/live/1990</guid>
-            <pubDate>Wed, 16 Feb 2022 06:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">먼데이프로젝트 시즌5 : 음악여행, 쉼 - 김정훈 단독 콘서트</p><p class="chakra-text css-0">장소: 구름아래소극장</p><p class="chakra-text css-0">날짜: 2022년 2월 28일 월요일 오전 11시 00분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 HUKEZ LIVE 시즌2 vol.1 동이혼(DIH) (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1910</link>
-            <guid>https://indistreet.com/live/1910</guid>
-            <pubDate>Fri, 28 Jan 2022 18:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">2022 HUKEZ LIVE 시즌2 vol.1 동이혼(DIH)</p><p class="chakra-text css-0">장소: Hukez</p><p class="chakra-text css-0">날짜: 2022년 2월 27일 일요일 오전 10시 00분</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
