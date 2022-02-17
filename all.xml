@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1969,6 +1969,13 @@
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">먼데이프로젝트 IN 라이브클럽 : WE ARE ALIVE</p><p class="chakra-text css-0">장소: 공상온도</p><p class="chakra-text css-0">날짜: 2022년 3월 14일 월요일 오전 11시 00분</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MOONRISE Vol. 6 : Spring Rain (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/2008</link>
+            <guid>https://indistreet.com/live/2008</guid>
+            <pubDate>Thu, 17 Feb 2022 09:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">MOONRISE Vol. 6 : Spring Rain</p><p class="chakra-text css-0">장소: 롤러코스터</p><p class="chakra-text css-0">날짜: 2022년 3월 13일 일요일 오전 06시 00분</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Beyond Creation : INVASION (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/1925</link>
             <guid>https://indistreet.com/live/1925</guid>
@@ -2037,13 +2044,6 @@
             <guid>https://indistreet.com/live/2006</guid>
             <pubDate>Wed, 16 Feb 2022 22:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">All Of Rock - by UNIS</p><p class="chakra-text css-0">장소: A.O.R</p><p class="chakra-text css-0">날짜: 2022년 3월 1일 화요일 오전 07시 40분</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 : 청춘의 밤 - 이준형 단독 콘서트 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/1991</link>
-            <guid>https://indistreet.com/live/1991</guid>
-            <pubDate>Wed, 16 Feb 2022 06:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="chakra-text css-z3mpd">먼데이프로젝트 시즌5 : 청춘의 밤 - 이준형 단독 콘서트</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2022년 2월 28일 월요일 오전 11시 00분</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
