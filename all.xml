@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 01:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,13 @@
                     </div>
                 </div>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202110/a76c3664865584f5bf77089f607dac87.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[살롱드인사 l SALON DE JAZZ (모우미 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=649037&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2Fsalon-de-jazz%2F52%2Fcategory%2F1%2Fdisplay%2F2%2F</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=649037&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2Fsalon-de-jazz%2F52%2Fcategory%2F1%2Fdisplay%2F2%2F</guid>
+            <pubDate>Tue, 15 Mar 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/14/2022-3-14-1647253127481.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/14/2022-3-14-1647253127481.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/14/2022-3-14-1647253127481.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">살롱드인사 l SALON DE JAZZ</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모우미 사전예약 바로가기 (공간) (모우미 ─ 인포크링크)]]></title>
