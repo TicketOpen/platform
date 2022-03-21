@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://link.inpock.co.kr/moumi</id>
     <title>모우미 ─ 인포크링크</title>
-    <updated>2022-03-21T08:31:11.103Z</updated>
+    <updated>2022-03-21T09:26:19.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d2t18a6mds8ktb.cloudfront.net/favicon/favicon.png?w=32&amp;f=png</icon>
+    <entry>
+        <title type="html"><![CDATA[더 웨이이닝 l 봄 한 잔에 음악을 띄워]]></title>
+        <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=657021&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2F%25EB%25B4%2584-%25ED%2595%259C%25EC%259E%2594%25EC%2597%2590-%25EC%259D%258C%25EC%2595%2585%25EC%259D%2584-%25EB%259D%2584%25EC%259B%258C%2F53%2Fcategory%2F1%2Fdisplay%2F2%2F</id>
+        <link href="https://link.inpock.co.kr/api/statistics/click-link?link_id=657021&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2F%25EB%25B4%2584-%25ED%2595%259C%25EC%259E%2594%25EC%2597%2590-%25EC%259D%258C%25EC%2595%2585%25EC%259D%2584-%25EB%259D%2584%25EC%259B%258C%2F53%2Fcategory%2F1%2Fdisplay%2F2%2F"/>
+        <updated>2022-03-21T09:23:51.956Z</updated>
+        <content type="html"><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/21/2022-3-21-1647853035925.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/21/2022-3-21-1647853035925.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/21/2022-3-21-1647853035925.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">더 웨이이닝 l 봄 한 잔에 음악을 띄워</p></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살롱드인사 l SALON DE JAZZ]]></title>
         <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=649037&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2Fsalon-de-jazz%2F52%2Fcategory%2F1%2Fdisplay%2F2%2F</id>
