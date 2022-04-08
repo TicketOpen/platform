@@ -4,9 +4,25 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 04:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jazz In The Night]]></title>
+            <link>https://moumi-shop.com/product/jazz-in-the-night/56/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazz-in-the-night/56/category/24/display/1/</guid>
+            <pubDate>Fri, 08 Apr 2022 05:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">36,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/f7ce336148a839196647e2421ebe2533.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽의 음악식당]]></title>
+            <link>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9/55/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9/55/category/24/display/1/</guid>
+            <pubDate>Fri, 08 Apr 2022 05:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">45,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/035593cd22e737b674efb6c436cfcad6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Jazz Spring Concert]]></title>
             <link>https://moumi-shop.com/product/jazz-spring-concert/54/category/24/display/1/</link>
@@ -200,41 +216,6 @@
                     </div>
                 </div>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202111/e7d7649143038819c24b030c10ef2eb8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE MUSIC NIGHT AT FAMERS [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/live-music-night-at-famers-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/44/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/live-music-night-at-famers-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/44/category/24/display/1/</guid>
-            <pubDate>Fri, 10 Dec 2021 20:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                    <div class="prdImg">
-                        <a href="/product/live-music-night-at-famers-공연종료/44/category/24/display/1/" name="anchorBoxName_44"><img src="//moumi-shop.com/web/product/medium/202111/bcbb995dc3dafc41b10a6c65a6ba8661.png" id="eListPrdImage44_1" alt="LIVE MUSIC NIGHT AT FAMERS [공연종료]"></a>
-                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="44" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
-                    </div>
-                </div>
-                <div class="description">
-                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_44 displaynone"></span>
-					<div class="timesale_box">
-<span class="saletime"></span><span class="sale_per"></span>
-</div>
-                    <strong class="name"><a href="/product/live-music-night-at-famers-공연종료/44/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">LIVE MUSIC NIGHT AT FAMERS [공연종료]</span></a></strong>
-                    <div class="icon">
-                        <div class="promotion">       </div>
-                        <div class="button">
-                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
-                           <div class="option"></div>
-                       </div>
-                    </div>
-                </div>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202111/bcbb995dc3dafc41b10a6c65a6ba8661.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JAZZ IN THE NIGHT [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/jazz-in-the-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/43/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jazz-in-the-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/43/category/24/display/1/</guid>
-            <pubDate>Fri, 10 Dec 2021 20:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">35,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202111/2d288c493fda08c1150418f5f69710ea.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
