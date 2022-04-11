@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -749,6 +749,13 @@
                     </div>
                 </div>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202111/941ed1b90fbb3c3fb5e03f20646b4dc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화성 l 화캉스 (모우미 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=680255&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2F%25ED%2599%2594%25EC%25BA%2589%25EC%258A%25A4%2F57%2Fcategory%2F1%2Fdisplay%2F2%2F</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=680255&amp;user_id=49837&amp;username=moumi&amp;redirect_url=https%3A%2F%2Fmoumi-shop.com%2Fproduct%2F%25ED%2599%2594%25EC%25BA%2589%25EC%258A%25A4%2F57%2Fcategory%2F1%2Fdisplay%2F2%2F</guid>
+            <pubDate>Mon, 11 Apr 2022 06:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649655611513.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649655611513.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649655611513.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">화성 l 화캉스</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스페이스앤무드 l Jazz In The Night (모우미 ─ 인포크링크)]]></title>
