@@ -4,7 +4,7 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -105,7 +105,7 @@
 
 	<div class="desc-place">
 		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5655980125716480" class="ng-binding" href="/map/5655980125716480">@DGT 아트센터</a><br>
+		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
 		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 25,000원<br></span><!-- end ngIf: performance.price_desc -->
 		<!-- ngIf: !performance.price_desc && performance.price -->
 	</div>
