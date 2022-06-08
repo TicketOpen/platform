@@ -4,7 +4,7 @@
         <title>페스티벌 라이프 ─ 국내공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:58:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,10 +17,10 @@
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11752143&amp;t=board</guid>
             <pubDate>Wed, 01 Jun 2022 06:35:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card no-img _card" style="  background-size: cover; background-position: 50% 50%;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
 					<span class="holder blocked" style="cursor:pointer;">
 												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11752143&amp;t=board">
-							<div class="card_wrapper  " style="background-image: url(/img/no-image.png);  background-size: cover; background-position: 50% 50%;">
+							<div class="card_wrapper  " style="background-image: url(https://cdn.imweb.me/thumbnail/20220608/454bb1861302e.jpg);  background-size: cover; background-position: 50% 50%;">
 								<div class="card-head _card_head _img_wrap" style="height: 387px;">
 									<span>
 																			</span>
@@ -44,6 +44,7 @@
 											</span>
 				</div>
 			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220608/454bb1861302e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
