@@ -4,38 +4,9 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 10:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 11:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제비다방 - 몽림]]></title>
-            <link>https://xindieticket.kr/tickets/4861592017567744</link>
-            <guid>https://xindieticket.kr/tickets/4861592017567744</guid>
-            <pubDate>Sat, 25 Jun 2022 11:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">제비다방 - 몽림</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-07-02 (토) 11:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/6282520320540672" class="ng-binding" href="/map/6282520320540672">@제비다방</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">무료입장 자율페이<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="자율모금함">
-		<div class="ng-binding">자율모금함</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="무료공연">
-		<div class="ng-binding">무료공연</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/G5cPS7s65r_SSfd11mNfx8iL4Ud6YPAlg5bt3CLsrofgcw80tE-Qo7Jmd9m2WfkW5No4DtYGO6WzZQdOs6vjgFomSUDKCE7rCkBE=s480" length="0" type="image//G5cPS7s65r_SSfd11mNfx8iL4Ud6YPAlg5bt3CLsrofgcw80tE-Qo7Jmd9m2WfkW5No4DtYGO6WzZQdOs6vjgFomSUDKCE7rCkBE=s480"/>
-        </item>
         <item>
             <title><![CDATA[Rolling Hall - <네미시스 단독 콘서트 '우리, 다시' : 롤링 27주년 기념 공연>]]></title>
             <link>https://xindieticket.kr/tickets/6210354992381952</link>
