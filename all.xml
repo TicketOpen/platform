@@ -4,61 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[「SOUND MEETING」 Vol.4 (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6199849233940480</link>
-            <guid>https://xindieticket.kr/tickets/6199849233940480</guid>
-            <pubDate>Mon, 18 Jul 2022 08:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">「SOUND MEETING」 Vol.4</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-07-24 (일) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5182493032448000" class="ng-binding" href="/map/5182493032448000">@Bender 벤더</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/0ukOEjlJTY-tpsMY0vgp5Zb7DaGIc1OnjCtDTRhAriCe47VrHMGnzD0Iu2UqjMsu0XSoaNRxfAya_W_FxgXrp0SbxVFOZm96eAM=s480" length="0" type="image//0ukOEjlJTY-tpsMY0vgp5Zb7DaGIc1OnjCtDTRhAriCe47VrHMGnzD0Iu2UqjMsu0XSoaNRxfAya_W_FxgXrp0SbxVFOZm96eAM=s480"/>
-        </item>
-        <item>
-            <title><![CDATA['WE ARE STILL IN GREEN' (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6233326322974720</link>
-            <guid>https://xindieticket.kr/tickets/6233326322974720</guid>
-            <pubDate>Mon, 18 Jul 2022 08:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">'WE ARE STILL IN GREEN'</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-07-24 (일) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5689127638925312" class="ng-binding" href="/map/5689127638925312">@KT&amp;G 상상마당 라이브홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">55,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/iIhQ6VQr5NF8w66GVsfktSeR_zxLjNel5t2Ey8MGDh8lVZzMObcxxAtQU9x_iD07RLwUUb_-RS0P_f9SCvmf37j0dwMQ7Ie3-bfT=s480" length="0" type="image//iIhQ6VQr5NF8w66GVsfktSeR_zxLjNel5t2Ey8MGDh8lVZzMObcxxAtQU9x_iD07RLwUUb_-RS0P_f9SCvmf37j0dwMQ7Ie3-bfT=s480"/>
-        </item>
         <item>
             <title><![CDATA[복합문화공간야시시 공연 (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/6202977815625728</link>
@@ -1827,6 +1775,46 @@
 																			
 											
 										
+																		전주 얼티밋 뮤직 페스티벌 2022 - 2차 라인업																			N (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
+            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12400546&amp;t=board</link>
+            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12400546&amp;t=board</guid>
+            <pubDate>Mon, 25 Jul 2022 09:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12400546&amp;t=board">
+							<div class="card_wrapper  " style="background-image: url(https://cdn.imweb.me/thumbnail/20220725/ce954fb8ed61c.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		전주 얼티밋 뮤직 페스티벌 2022 - 2차 라인업																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20220725/ce954fb8ed61c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
 																		러브썸 페스티벌 2022 - 1차 라인업 (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
             <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12335122&amp;t=board</link>
             <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=12335122&amp;t=board</guid>
@@ -2250,45 +2238,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20220520/338402566f630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		서울 파크 뮤직 페스티벌 - 최종 라인업 (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
-            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11551277&amp;t=board</link>
-            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11551277&amp;t=board</guid>
-            <pubDate>Sun, 22 May 2022 02:54:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=11551277&amp;t=board">
-							<div class="card_wrapper  " style="background-image: url(https://cdn.imweb.me/thumbnail/20220519/6f5d3240d7233.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		서울 파크 뮤직 페스티벌 - 최종 라인업									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20220519/6f5d3240d7233.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
