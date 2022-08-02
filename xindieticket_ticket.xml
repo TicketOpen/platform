@@ -4,7 +4,7 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 02:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -510,11 +510,12 @@
             <enclosure url="http://lh3.googleusercontent.com/QGntSYxeRJRnOlRDIbcOQLQahPC4zI37Rl4DUSqypWu_VmyXnszEKecMj7gZeWWKDNetPzwbaQeV06xTQNmEuSgmmx-Oloyj8qB9=s480" length="0" type="image//QGntSYxeRJRnOlRDIbcOQLQahPC4zI37Rl4DUSqypWu_VmyXnszEKecMj7gZeWWKDNetPzwbaQeV06xTQNmEuSgmmx-Oloyj8qB9=s480"/>
         </item>
         <item>
+            <title><![CDATA["NADA Summer Talk Talk"]]></title>
             <link>https://xindieticket.kr/tickets/6314179686301696</link>
             <guid>https://xindieticket.kr/tickets/6314179686301696</guid>
             <pubDate>Mon, 01 Aug 2022 10:28:04 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
-		<div class="ng-binding"></div>
+		<div class="ng-binding">"NADA Summer Talk Talk"</div>
 	</h1>
 
 	<div class="desc-date"><div class="ng-binding">2022-08-07 (일) 08:30</div></div>
