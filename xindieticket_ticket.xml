@@ -4,7 +4,7 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,7 +458,7 @@
 		<div class="ng-binding">What? Now!</div>
 	</h1>
 
-	<div class="desc-date"><div class="ng-binding">2022-08-13 (토) 10:30</div></div>
+	<div class="desc-date"><div class="ng-binding">2022-08-13 (토) 11:00</div></div>
 
 	<div class="desc-place">
 		<!--				{{ performance.data.lineup }}<br>-->
