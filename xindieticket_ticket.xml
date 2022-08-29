@@ -4,24 +4,24 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<Inside Out Busking>]]></title>
-            <link>https://xindieticket.kr/tickets/6297484276006912</link>
-            <guid>https://xindieticket.kr/tickets/6297484276006912</guid>
-            <pubDate>Mon, 22 Aug 2022 11:20:12 GMT</pubDate>
+            <title><![CDATA[수요라이브]]></title>
+            <link>https://xindieticket.kr/tickets/6207441964367872</link>
+            <guid>https://xindieticket.kr/tickets/6207441964367872</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">&lt;Inside Out Busking&gt;</div>
+		<div class="ng-binding">수요라이브 </div>
 	</h1>
 
-	<div class="desc-date"><div class="ng-binding">2022-08-28 (일) 08:00</div></div>
+	<div class="desc-date"><div class="ng-binding">2022-08-31 (수) 10:00</div></div>
 
 	<div class="desc-place">
 		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/4803136304709632" class="ng-binding" href="/map/4803136304709632">@언플러그드 신촌점</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 10,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<a ng-href="/map/5738476309839872" class="ng-binding" href="/map/5738476309839872">@우주정거장</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 15,000원/ 현매 15,000원<br></span><!-- end ngIf: performance.price_desc -->
 		<!-- ngIf: !performance.price_desc && performance.price -->
 	</div>
 
@@ -32,36 +32,34 @@
 	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/VKbfcOylWF46XFZfaFGKJzxGyqubvCxVoJZtBgCRBeAVBhV0CcdP2FboQWdfFdwbHnGhsmTqlIzSXR67SNtK27WY_51LGtT-7KZF=s480" length="0" type="image//VKbfcOylWF46XFZfaFGKJzxGyqubvCxVoJZtBgCRBeAVBhV0CcdP2FboQWdfFdwbHnGhsmTqlIzSXR67SNtK27WY_51LGtT-7KZF=s480"/>
+            <enclosure url="http://lh3.googleusercontent.com/4jLLIv0nlTOojMOMoKDREByFltlFzcgT7f-G8RZjlMgpGAGYomueEturH9f42ie_SHnSkBH3sF_1zISBgO0ACK1gBLhY34wX1W0=s480" length="0" type="image//4jLLIv0nlTOojMOMoKDREByFltlFzcgT7f-G8RZjlMgpGAGYomueEturH9f42ie_SHnSkBH3sF_1zISBgO0ACK1gBLhY34wX1W0=s480"/>
         </item>
         <item>
-            <title><![CDATA["NADA Summer Beat"]]></title>
-            <link>https://xindieticket.kr/tickets/6324437376827392</link>
-            <guid>https://xindieticket.kr/tickets/6324437376827392</guid>
-            <pubDate>Wed, 24 Aug 2022 10:27:55 GMT</pubDate>
+            <title><![CDATA[목요라이브]]></title>
+            <link>https://xindieticket.kr/tickets/6200473983909888</link>
+            <guid>https://xindieticket.kr/tickets/6200473983909888</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">"NADA Summer Beat"</div>
+		<div class="ng-binding">목요라이브 </div>
 	</h1>
 
-	<div class="desc-date"><div class="ng-binding">2022-08-28 (일) 08:00</div></div>
+	<div class="desc-date"><div class="ng-binding">2022-09-01 (목) 10:00</div></div>
 
 	<div class="desc-place">
 		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5767409591910400" class="ng-binding" href="/map/5767409591910400">@네스트 나다</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<a ng-href="/map/5738476309839872" class="ng-binding" href="/map/5738476309839872">@우주정거장</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 15,000원/ 현매 15,000원<br></span><!-- end ngIf: performance.price_desc -->
 		<!-- ngIf: !performance.price_desc && performance.price -->
 	</div>
 
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://han.gl/dpfeu" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://han.gl/dpfeu">
-		<div class="ng-binding">FORM</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
 
 	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
 		<div class="ng-binding">현장구매</div>
 	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/UJSVftpbG-F6gUDeK1T6oMBk3PoM-snBfkk_IB7-V2Of_bLbgzeIX_e-sFSZoUfBuwNMBGdw-x29-sprK7fHuqQxiZ98286yeis=s480" length="0" type="image//UJSVftpbG-F6gUDeK1T6oMBk3PoM-snBfkk_IB7-V2Of_bLbgzeIX_e-sFSZoUfBuwNMBGdw-x29-sprK7fHuqQxiZ98286yeis=s480"/>
+            <enclosure url="http://lh3.googleusercontent.com/IfxhBnIPRAaJNuiVP0-JQPwZYZ72uOqgQqfQSKomXq93pyuuioHvg7rrnuTrmC3D8-hkNQTll8fyFW7QHHF5iuTjoQF4b1AG8SQ=s480" length="0" type="image//IfxhBnIPRAaJNuiVP0-JQPwZYZ72uOqgQqfQSKomXq93pyuuioHvg7rrnuTrmC3D8-hkNQTll8fyFW7QHHF5iuTjoQF4b1AG8SQ=s480"/>
         </item>
         <item>
             <title><![CDATA[<cafe 복다진>]]></title>
@@ -313,6 +311,60 @@
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
             <enclosure url="http://lh3.googleusercontent.com/3FJDJK9e-zrPtBvU_hOWb5yaaxBxCNG69s9Cnwogk4Aig62ZBR7jnvHo66yzSpSkJ_Ds8FPiN29gJ-oCnt3NTp3LhpGmrBcpwU7l=s480" length="0" type="image//3FJDJK9e-zrPtBvU_hOWb5yaaxBxCNG69s9Cnwogk4Aig62ZBR7jnvHo66yzSpSkJ_Ds8FPiN29gJ-oCnt3NTp3LhpGmrBcpwU7l=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[💟Paintors，Our Palette💟]]></title>
+            <link>https://xindieticket.kr/tickets/6246058250207232</link>
+            <guid>https://xindieticket.kr/tickets/6246058250207232</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">💟Paintors，Our Palette💟</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-09-03 (토) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5759343769157632" class="ng-binding" href="/map/5759343769157632">@살롱 문보우</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 12,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=207207" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=207207">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/2452keQkZ_GA0bffA3s11bXi2Le21uVhvAJL3s_vJjHqaGo27M6V6w1XE-5YF2GAln1PhETd1bEC8CC32pa_5QfBxYbvhQA04Rqv=s480" length="0" type="image//2452keQkZ_GA0bffA3s11bXi2Le21uVhvAJL3s_vJjHqaGo27M6V6w1XE-5YF2GAln1PhETd1bEC8CC32pa_5QfBxYbvhQA04Rqv=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[𝗡𝗢 𝗧𝗥𝗜𝗦𝗧𝗘𝗭𝗔]]></title>
+            <link>https://xindieticket.kr/tickets/6273069064650752</link>
+            <guid>https://xindieticket.kr/tickets/6273069064650752</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding"> 𝗡𝗢 𝗧𝗥𝗜𝗦𝗧𝗘𝗭𝗔</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-09-03 (토) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5750363302920192" class="ng-binding" href="/map/5750363302920192">@생기 스튜디오</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 / 현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLSdNbX7dpXjNiTfMmtFwmWl_rUl7mZ4ZGVl7mQLCvXPAWUZ-oA/viewform" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLSdNbX7dpXjNiTfMmtFwmWl_rUl7mZ4ZGVl7mQLCvXPAWUZ-oA/viewform">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/urkA4wViLqXfbXu2zweOoZLDIV0xtiGLHGPeW65Xw9DdZj397sAEwrE4rVMGslSecx1pskN_aHoQNdGy2tTDsF2Elpkm8Nh5UGfR=s480" length="0" type="image//urkA4wViLqXfbXu2zweOoZLDIV0xtiGLHGPeW65Xw9DdZj397sAEwrE4rVMGslSecx1pskN_aHoQNdGy2tTDsF2Elpkm8Nh5UGfR=s480"/>
         </item>
         <item>
             <title><![CDATA[BAADA 단독콘서트 (with LudiSTELO)]]></title>
