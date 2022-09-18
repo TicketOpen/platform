@@ -4,38 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 10:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 11:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ĐɆ₳Đ ₵Ⱨ₳₦₮ 1st EP [𝐃𝐄𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐈𝐎𝐍] (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/4900139550375936</link>
-            <guid>https://xindieticket.kr/tickets/4900139550375936</guid>
-            <pubDate>Tue, 13 Sep 2022 04:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">ĐɆ₳Đ ₵Ⱨ₳₦₮ 1st EP [𝐃𝐄𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐈𝐎𝐍]</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-09-17 (토) 11:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/6264519173079040" class="ng-binding" href="/map/6264519173079040">@채널 1969</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 25,000원 / 현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="bit.ly/deadchant" target="_blank" class="ng-scope" button-paymethod="FORM" href="bit.ly/deadchant">
-		<div class="ng-binding">FORM</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/nlfS3wLRhAqoVeq1XcPi0z_WMEWsTMV4VvH01Eun42u6nHuaPKdjmkXflChv59WC2wlUccTx9onmNdOt4_UHlEnwvs5KDH7ykkFq=s480" length="0" type="image//nlfS3wLRhAqoVeq1XcPi0z_WMEWsTMV4VvH01Eun42u6nHuaPKdjmkXflChv59WC2wlUccTx9onmNdOt4_UHlEnwvs5KDH7ykkFq=s480"/>
-        </item>
         <item>
             <title><![CDATA[Lunar Stage!! (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/4907640576540672</link>
