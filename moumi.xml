@@ -1,8 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://moumi-shop.com/category/%EA%B3%B5%EC%97%B0/24/</id>
-    <title>모우미</title>
-    <updated>2022-11-16T16:47:54.576Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://moumi-shop.com/category/%EA%B3%B5%EC%97%B0/24/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>모우미</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:41:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WEEKEND BOOKACE]]></title>
+            <link>https://moumi-shop.com/product/weekend-bookace/59/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/weekend-bookace/59/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                    <div class="prdImg">
+                        <a href="/product/weekend-bookace/59/category/24/display/1/" name="anchorBoxName_59"><img src="//moumi-shop.com/web/product/medium/202211/e596ec573543e9e47ce40015a21acfb6.png" id="eListPrdImage59_1" alt="WEEKEND BOOKACE"></a>
+                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="59" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
+                    </div>
+                </div>
+                <div class="description">
+                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_59 displaynone"></span>
+					<div class="timesale_box">
+<span class="saletime"></span><span class="sale_per"></span>
+</div>
+                    <strong class="name"><a href="/product/weekend-bookace/59/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">WEEKEND BOOKACE</span></a></strong>
+                    <div class="icon">
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
+                        <div class="button">
+                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
+                           <div class="option"></div>
+                       </div>
+                    </div>
+                </div>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202211/e596ec573543e9e47ce40015a21acfb6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SALON DE JAZZ [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/58/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/58/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">89,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/78b058ac783444bd041670739ad969bc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[화캉스 [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/%ED%99%94%EC%BA%89%EC%8A%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/57/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%ED%99%94%EC%BA%89%EC%8A%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/57/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">15,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/035a8e1a60ba65441765080f15e197f2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz In The Night [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/jazz-in-the-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/56/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazz-in-the-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/56/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">36,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/f7ce336148a839196647e2421ebe2533.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽의 음악식당 [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/55/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/55/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">45,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202204/035593cd22e737b674efb6c436cfcad6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Spring Concert [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/jazz-spring-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/54/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazz-spring-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/54/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">26,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202203/2243efe7b5e8bef7389bfe6e7ecfa7cc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 한 잔에 음악을 띄워 [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/%EB%B4%84-%ED%95%9C-%EC%9E%94%EC%97%90-%EC%9D%8C%EC%95%85%EC%9D%84-%EB%9D%84%EC%9B%8C-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/53/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%B4%84-%ED%95%9C-%EC%9E%94%EC%97%90-%EC%9D%8C%EC%95%85%EC%9D%84-%EB%9D%84%EC%9B%8C-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/53/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                    <div class="prdImg">
+                        <a href="/product/봄-한-잔에-음악을-띄워-공연종료/53/category/24/display/1/" name="anchorBoxName_53"><img src="//moumi-shop.com/web/product/medium/202203/b13236a1d95fcb7bfa95f91af855161f.png" id="eListPrdImage53_1" alt="봄 한 잔에 음악을 띄워 [공연종료]"></a>
+                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="53" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
+                    </div>
+                </div>
+                <div class="description">
+                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_53 displaynone"></span>
+					<div class="timesale_box">
+<span class="saletime"></span><span class="sale_per"></span>
+</div>
+                    <strong class="name"><a href="/product/봄-한-잔에-음악을-띄워-공연종료/53/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">봄 한 잔에 음악을 띄워 [공연종료]</span></a></strong>
+                    <div class="icon">
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
+                        <div class="button">
+                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
+                           <div class="option"></div>
+                       </div>
+                    </div>
+                </div>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202203/b13236a1d95fcb7bfa95f91af855161f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SALON DE JAZZ [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/52/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/52/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">99,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202203/9ed0b3b8094f01c3aeb3bc59e609f04f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻한 음악 한 잔 하실래요? [공연취소]]]></title>
+            <link>https://moumi-shop.com/product/%EB%94%B0%EB%9C%BB%ED%95%9C-%EC%9D%8C%EC%95%85-%ED%95%9C-%EC%9E%94-%ED%95%98%EC%8B%A4%EB%9E%98%EC%9A%94-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/51/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%94%B0%EB%9C%BB%ED%95%9C-%EC%9D%8C%EC%95%85-%ED%95%9C-%EC%9E%94-%ED%95%98%EC%8B%A4%EB%9E%98%EC%9A%94-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/51/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                    <div class="prdImg">
+                        <a href="/product/따뜻한-음악-한-잔-하실래요-공연취소/51/category/24/display/1/" name="anchorBoxName_51"><img src="//moumi-shop.com/web/product/medium/202112/3184ef34652d89450451987465e43ab8.png" id="eListPrdImage51_1" alt="따뜻한 음악 한 잔 하실래요? [공연취소]"></a>
+                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="51" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
+                    </div>
+                </div>
+                <div class="description">
+                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_51 displaynone"></span>
+					<div class="timesale_box">
+<span class="saletime"></span><span class="sale_per"></span>
+</div>
+                    <strong class="name"><a href="/product/따뜻한-음악-한-잔-하실래요-공연취소/51/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">따뜻한 음악 한 잔 하실래요? [공연취소]</span></a></strong>
+                    <div class="icon">
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
+                        <div class="button">
+                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
+                           <div class="option"></div>
+                       </div>
+                    </div>
+                </div>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202112/3184ef34652d89450451987465e43ab8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[진주) 새벽의 크리스마스 식당 [공연취소]]]></title>
+            <link>https://moumi-shop.com/product/%EC%A7%84%EC%A3%BC-%EC%83%88%EB%B2%BD%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/50/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%A7%84%EC%A3%BC-%EC%83%88%EB%B2%BD%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/50/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">80,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202112/3d40461d61070b620e73371ae9db4d0b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazzy Christmas Concert [공연취소]]]></title>
+            <link>https://moumi-shop.com/product/jazzy-christmas-concert-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/49/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazzy-christmas-concert-%EA%B3%B5%EC%97%B0%EC%B7%A8%EC%86%8C/49/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">30,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202111/aa152595e681d3da7fcb711e74a624fc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어서오새나 [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/%EC%96%B4%EC%84%9C%EC%98%A4%EC%83%88%EB%82%98-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/48/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%96%B4%EC%84%9C%EC%98%A4%EC%83%88%EB%82%98-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/48/category/24/display/1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                    <div class="prdImg">
+                        <a href="/product/어서오새나-공연종료/48/category/24/display/1/" name="anchorBoxName_48"><img src="//moumi-shop.com/web/product/medium/202111/81bbc229675a17fafb503829d3f7b846.png" id="eListPrdImage48_1" alt="어서오새나 [공연종료]"></a>
+                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="48" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
+                    </div>
+                </div>
+                <div class="description">
+                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_48 displaynone"></span>
+					<div class="timesale_box">
+<span class="saletime"></span><span class="sale_per"></span>
+</div>
+                    <strong class="name"><a href="/product/어서오새나-공연종료/48/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">어서오새나 [공연종료]</span></a></strong>
+                    <div class="icon">
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
+                        <div class="button">
+                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
+                           <div class="option"></div>
+                       </div>
+                    </div>
+                </div>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202111/81bbc229675a17fafb503829d3f7b846.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
