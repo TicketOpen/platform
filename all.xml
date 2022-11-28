@@ -4,38 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 08:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 09:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[𝐓𝐀𝐇𝐈𝐓𝐈 𝟖𝟎 - 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑺𝑬𝑶𝑼𝑳 𝟐𝟎𝟐𝟐 (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6242779411775488</link>
-            <guid>https://xindieticket.kr/tickets/6242779411775488</guid>
-            <pubDate>Tue, 22 Nov 2022 04:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">𝐓𝐀𝐇𝐈𝐓𝐈 𝟖𝟎 - 𝑳𝑰𝑽𝑬 𝑰𝑵 𝑺𝑬𝑶𝑼𝑳 𝟐𝟎𝟐𝟐</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-11-27 (일) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/6274439930970112" class="ng-binding" href="/map/6274439930970112">@왓챠홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 77,000원 현매 88,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="http://ticket.yes24.com/Perf/43947" target="_blank" class="ng-scope" button-paymethod="YES_24" href="http://ticket.yes24.com/Perf/43947">
-		<div class="ng-binding">YES 24</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/M05H6EOT2ZoQqQmOcmDL6k0ILrINRHCwJeHjC2l5AT5ABybTRNF7rv_2lK3Lmp9W1_tHJw5BkubrZZh9hP6EW3Kga-ZPakUCWnQ0hQ=s480" length="0" type="image//M05H6EOT2ZoQqQmOcmDL6k0ILrINRHCwJeHjC2l5AT5ABybTRNF7rv_2lK3Lmp9W1_tHJw5BkubrZZh9hP6EW3Kga-ZPakUCWnQ0hQ=s480"/>
-        </item>
         <item>
             <title><![CDATA[WEEKEND BOOKACE (모우미)]]></title>
             <link>https://moumi-shop.com/product/weekend-bookace/59/category/24/display/1/</link>
