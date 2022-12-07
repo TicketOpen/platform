@@ -4,9 +4,36 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 09:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 10:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CASA DE CHRISTMAS]]></title>
+            <link>https://moumi-shop.com/product/casa-de-christmas/64/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/casa-de-christmas/64/category/24/display/1/</guid>
+            <pubDate>Wed, 07 Dec 2022 10:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                    <div class="prdImg">
+                        <a href="/product/casa-de-christmas/64/category/24/display/1/" name="anchorBoxName_64"><img src="//moumi-shop.com/web/product/medium/202212/d860efd0ab9d607753d88c404878e882.png" id="eListPrdImage64_1" alt="CASA DE CHRISTMAS"></a>
+                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="64" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
+                    </div>
+                </div>
+                <div class="description">
+                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_64 displaynone"></span>
+					<div class="timesale_box">
+<span class="saletime"></span><span class="sale_per"></span>
+</div>
+                    <strong class="name"><a href="/product/casa-de-christmas/64/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">CASA DE CHRISTMAS</span></a></strong>
+                    <div class="icon">
+                        <div class="promotion">       </div>
+                        <div class="button">
+                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
+                           <div class="option"></div>
+                       </div>
+                    </div>
+                </div>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202212/d860efd0ab9d607753d88c404878e882.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[COZY NIGHT]]></title>
             <link>https://moumi-shop.com/product/cozy-night/63/category/24/display/1/</link>
@@ -208,14 +235,6 @@
                     </div>
                 </div>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202203/b13236a1d95fcb7bfa95f91af855161f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SALON DE JAZZ [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/52/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/salon-de-jazz-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/52/category/24/display/1/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">99,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202203/9ed0b3b8094f01c3aeb3bc59e609f04f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
