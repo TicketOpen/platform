@@ -4,38 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 Winter ModernRock Festival (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6213914547191808</link>
-            <guid>https://xindieticket.kr/tickets/6213914547191808</guid>
-            <pubDate>Mon, 05 Dec 2022 03:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">2022 Winter ModernRock Festival</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-12-11 (일) 07:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5072270611447808" class="ng-binding" href="/map/5072270611447808">@빵</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">1일 4만원, 2일 6만원 (예매)<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://forms.gle/Duv8nAGUZ861qMGN8" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://forms.gle/Duv8nAGUZ861qMGN8">
-		<div class="ng-binding">FORM</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/NxqCsjzsdXzVgZFcfrcXgkov9-IAWnZdNpO1M7Vqw5L6dGwxrjwmlYfRLnCtnHD77tmpt9UyTZcFtnrOzlIQgZ_FIZV49nz-zf8=s480" length="0" type="image//NxqCsjzsdXzVgZFcfrcXgkov9-IAWnZdNpO1M7Vqw5L6dGwxrjwmlYfRLnCtnHD77tmpt9UyTZcFtnrOzlIQgZ_FIZV49nz-zf8=s480"/>
-        </item>
         <item>
             <title><![CDATA[<용용 단독 콘서트 '12:34'> (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/6239996675620864</link>
@@ -388,7 +359,7 @@
             <link>https://indistreet.com/live/4290</link>
             <guid>https://indistreet.com/live/4290</guid>
             <pubDate>Sun, 11 Dec 2022 11:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4290" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="텐텐 페스티벌 : 10년이 10냐 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">텐텐 페스티벌 : 10년이 10냐</p><p class="chakra-text css-0">날짜: 2023년 1월 13일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="320" href="/musicians/320" class="css-1xgh37a"><span class="css-t9od3v">로큰롤라디오</span></a><a data-musician-id="328" href="/musicians/328" class="css-1xgh37a"><span class="css-t9od3v">솔루션스</span></a><a data-musician-id="896" href="/musicians/896" class="css-1xgh37a"><span class="css-t9od3v">9와 숫자들</span></a></div><div class="css-d9h50v">약 1개월 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/4290" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="텐텐 페스티벌 : 10년이 10냐 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">텐텐 페스티벌 : 10년이 10냐</p><p class="chakra-text css-0">장소: KT&amp;G 상상마당 홍대 라이브홀</p><p class="chakra-text css-0">날짜: 2023년 1월 13일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="320" href="/musicians/320" class="css-1xgh37a"><span class="css-t9od3v">로큰롤라디오</span></a><a data-musician-id="328" href="/musicians/328" class="css-1xgh37a"><span class="css-t9od3v">솔루션스</span></a><a data-musician-id="896" href="/musicians/896" class="css-1xgh37a"><span class="css-t9od3v">9와 숫자들</span></a></div><div class="css-d9h50v">약 1개월 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hathaw9y 해서웨이 단독공연 <LOVE> (부산) (인디스트릿 ─ 공연 목록)]]></title>
