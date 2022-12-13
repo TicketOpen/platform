@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,13 +334,13 @@
             <enclosure url="https://moumi-shop.com/web/product/medium/202212/7a5c6a2664f283d447be0125fbfb61c0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[FAMERS CHEERS! (모우미)]]></title>
-            <link>https://moumi-shop.com/product/famers-cheers/62/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/famers-cheers/62/category/24/display/1/</guid>
-            <pubDate>Tue, 06 Dec 2022 08:25:56 GMT</pubDate>
+            <title><![CDATA[FAMERS CHEERS! [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/famers-cheers-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/62/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/famers-cheers-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/62/category/24/display/1/</guid>
+            <pubDate>Tue, 13 Dec 2022 09:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<div class="thumbnail">
                     <div class="prdImg">
-                        <a href="/product/famers-cheers/62/category/24/display/1/" name="anchorBoxName_62"><img src="//moumi-shop.com/web/product/medium/202212/bf2734f5bdb3e2fdea9ca48821bca702.png" id="eListPrdImage62_1" alt="FAMERS CHEERS!"></a>
+                        <a href="/product/famers-cheers-공연종료/62/category/24/display/1/" name="anchorBoxName_62"><img src="//moumi-shop.com/web/product/medium/202212/bf2734f5bdb3e2fdea9ca48821bca702.png" id="eListPrdImage62_1" alt="FAMERS CHEERS! [공연종료]"></a>
                         <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="62" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
                     </div>
                 </div>
@@ -349,9 +349,9 @@
 					<div class="timesale_box">
 <span class="saletime"></span><span class="sale_per"></span>
 </div>
-                    <strong class="name"><a href="/product/famers-cheers/62/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">FAMERS CHEERS!</span></a></strong>
+                    <strong class="name"><a href="/product/famers-cheers-공연종료/62/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">FAMERS CHEERS! [공연종료]</span></a></strong>
                     <div class="icon">
-                        <div class="promotion">       </div>
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
                         <div class="button">
                            <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
                            <div class="option"></div>
