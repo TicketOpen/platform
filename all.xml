@@ -4,9 +4,312 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 04:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[One Way or Another (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6247243493408768</link>
+            <guid>https://xindieticket.kr/tickets/6247243493408768</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">One Way or Another</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 25,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/-0WzqueMR9luP2M9vFjYLN1EU18KXXuH5S9v5ClKRIdDlkKuryLojqJWsT-f5XCGVpTigxx5xPsURdjx5LJuSjPuLoNrLksAkjc1Cw=s480" length="0" type="image//-0WzqueMR9luP2M9vFjYLN1EU18KXXuH5S9v5ClKRIdDlkKuryLojqJWsT-f5XCGVpTigxx5xPsURdjx5LJuSjPuLoNrLksAkjc1Cw=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[[ROMANTIC DAY 2022 – 로맨틱팩토리 12주년 콘서트] (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6250166285762560</link>
+            <guid>https://xindieticket.kr/tickets/6250166285762560</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">[ROMANTIC DAY 2022 – 로맨틱팩토리 12주년 콘서트]</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6274439930970112" class="ng-binding" href="/map/6274439930970112">@왓챠홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 55,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="http://ticket.yes24.com/Perf/44307" target="_blank" class="ng-scope" button-paymethod="YES_24" href="http://ticket.yes24.com/Perf/44307">
+		<div class="ng-binding">YES 24</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/PatJ2gmj7ePatZgrTq9ra_J79yBtulu67jbD6OTIt1UsZltwFT1d1eYzEzzIT5UBd4jipLm25U99v9z6IQ4ZYkfJEEmCRzapL-d_=s480" length="0" type="image//PatJ2gmj7ePatZgrTq9ra_J79yBtulu67jbD6OTIt1UsZltwFT1d1eYzEzzIT5UBd4jipLm25U99v9z6IQ4ZYkfJEEmCRzapL-d_=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[SAD BUT TRUE LEGEND!!! (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6276115404423168</link>
+            <guid>https://xindieticket.kr/tickets/6276115404423168</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">SAD BUT TRUE LEGEND!!!</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5132029310009344" class="ng-binding" href="/map/5132029310009344">@All of Rock</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 70,000원, 현매 70,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/0CJpv7W3088ic4TrE1vCaXr42yijxfdb61Cs24OMvbMVRfBsgcgR3dbs8zt7W0Q7H9-VEycS_5L0giU-WeZsbjqo3E0HMTzB8Rg=s480" length="0" type="image//0CJpv7W3088ic4TrE1vCaXr42yijxfdb61Cs24OMvbMVRfBsgcgR3dbs8zt7W0Q7H9-VEycS_5L0giU-WeZsbjqo3E0HMTzB8Rg=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[12월 30일 무브 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/4868740520869888</link>
+            <guid>https://xindieticket.kr/tickets/4868740520869888</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">12월 30일 무브</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6323481377505280" class="ng-binding" href="/map/6323481377505280">@무대륙</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 25000원, 현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/ChXYXK7VRXZ-cvYd3ZZwwSd3cjC-vkYCppdy80jO_ayZrMpe07nrBxYROMC3h7itqp0ZtyKAQE0fXEhCuxy-XYYNSqld1n8XGdRn=s480" length="0" type="image//ChXYXK7VRXZ-cvYd3ZZwwSd3cjC-vkYCppdy80jO_ayZrMpe07nrBxYROMC3h7itqp0ZtyKAQE0fXEhCuxy-XYYNSqld1n8XGdRn=s480"/>
+        </item>
+        <item>
+            <title><![CDATA["DREAM SERENADE" (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6195595169497088</link>
+            <guid>https://xindieticket.kr/tickets/6195595169497088</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">"DREAM SERENADE"</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5767409591910400" class="ng-binding" href="/map/5767409591910400">@네스트 나다</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://han.gl/BJEcg" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://han.gl/BJEcg">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/mXzAg2xLhC8xqBx7Cl-GpRUKPjsff1z9hLO2yN2fueAQ29mFpB0d5ydgITdd4akgdCXRG1fpcs4Zmx5W84bCrI2SelKvc4Cn4Of6=s480" length="0" type="image//mXzAg2xLhC8xqBx7Cl-GpRUKPjsff1z9hLO2yN2fueAQ29mFpB0d5ydgITdd4akgdCXRG1fpcs4Zmx5W84bCrI2SelKvc4Cn4Of6=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Landing Error (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6221061540544512</link>
+            <guid>https://xindieticket.kr/tickets/6221061540544512</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Landing Error</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-30 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5701569219657728" class="ng-binding" href="/map/5701569219657728">@프리즘홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 35,000원 현매38,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLScI8FEjf2B9WSeTmv2u4ZtBQS2XuO9nJkKJ34w75rmL8QtSBw/viewform" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLScI8FEjf2B9WSeTmv2u4ZtBQS2XuO9nJkKJ34w75rmL8QtSBw/viewform">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/JO9eCbkv63KARGET53RcfhV6xDu-hoLVARtpQpOSYTPehxQADe0_EjQiJy2JQGsTVWryaDRdm8IgftZgOx6tyEpROdS9VFhfQswC=s480" length="0" type="image//JO9eCbkv63KARGET53RcfhV6xDu-hoLVARtpQpOSYTPehxQADe0_EjQiJy2JQGsTVWryaDRdm8IgftZgOx6tyEpROdS9VFhfQswC=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[<프롬 단독 콘서트 '봄밤에 다시 만나'> (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6214469571051520</link>
+            <guid>https://xindieticket.kr/tickets/6214469571051520</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">&lt;프롬 단독 콘서트 '봄밤에 다시 만나'&gt;</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-31 (토) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 77,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=207602" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=207602">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/DDwdAQfyQHS8iv6PCplPLU-9Ra7p4QITKv8ths8PO2THEBLgDV5dCgTohQJi6BtyM7zMyS5lw6qNuIoFnXnRIedtmfasChpoDJJ8=s480" length="0" type="image//DDwdAQfyQHS8iv6PCplPLU-9Ra7p4QITKv8ths8PO2THEBLgDV5dCgTohQJi6BtyM7zMyS5lw6qNuIoFnXnRIedtmfasChpoDJJ8=s480"/>
+        </item>
+        <item>
+            <title><![CDATA["Bye! Hi! Hello!" (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6229208858624000</link>
+            <guid>https://xindieticket.kr/tickets/6229208858624000</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">"Bye! Hi! Hello!"</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-31 (토) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5767409591910400" class="ng-binding" href="/map/5767409591910400">@네스트 나다</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://han.gl/zOmsN" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://han.gl/zOmsN">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/bG_K-jlfdjCqzn9orO7nRCTNXyN2IZms-8rDwdnH5WS7Gwee5orwS4Z6g3a6lHqYhi7DX2F2KWpHnhdQXeCq1ROJ6liXFDFiEaA=s480" length="0" type="image//bG_K-jlfdjCqzn9orO7nRCTNXyN2IZms-8rDwdnH5WS7Gwee5orwS4Z6g3a6lHqYhi7DX2F2KWpHnhdQXeCq1ROJ6liXFDFiEaA=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Adiós 2022! & Come On 2023 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6273509164580864</link>
+            <guid>https://xindieticket.kr/tickets/6273509164580864</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Adiós 2022! &amp; Come On 2023</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-31 (토) 09:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5132029310009344" class="ng-binding" href="/map/5132029310009344">@All of Rock</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 25,000원 / 현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/sqYO_K4ANSZTZNCmzosefR9D5wm4BM9IdSH1on3cIs7X9y3onYBXrTkoLKwrUghTCm_BZlpmUWCAuYrSzSX3Z2p3JMXf61hsgvN8=s480" length="0" type="image//sqYO_K4ANSZTZNCmzosefR9D5wm4BM9IdSH1on3cIs7X9y3onYBXrTkoLKwrUghTCm_BZlpmUWCAuYrSzSX3Z2p3JMXf61hsgvN8=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY NEW (Y)EAR! (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6316424746237952</link>
+            <guid>https://xindieticket.kr/tickets/6316424746237952</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">HAPPY NEW (Y)EAR!</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-12-31 (토) 09:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5689127638925312" class="ng-binding" href="/map/5689127638925312">@KT&amp;G 상상마당 라이브홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 66,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=207539" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=207539">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/Ac21bR6dwkxjLGJ3wo_x5lEKr7ZbHbT1oskdTac-qv47iY0TsCVTMjAFwUdjTW9bTZ8fgNG9R9q2_e-d7XuK79_T-rO445b9vwOF=s480" length="0" type="image//Ac21bR6dwkxjLGJ3wo_x5lEKr7ZbHbT1oskdTac-qv47iY0TsCVTMjAFwUdjTW9bTZ8fgNG9R9q2_e-d7XuK79_T-rO445b9vwOF=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[새해의 포크 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6322250802266112</link>
+            <guid>https://xindieticket.kr/tickets/6322250802266112</guid>
+            <pubDate>Tue, 27 Dec 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">새해의 포크</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-01-01 (일) 08:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/4857144289525760" class="ng-binding" href="/map/4857144289525760">@벨로주 홍대</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 40,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://booking.naver.com/booking/5/bizes/152199" target="_blank" class="ng-scope" button-paymethod="네이버" href="https://booking.naver.com/booking/5/bizes/152199">
+		<div class="ng-binding">NAVER</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/o9pV0X9iT8j_XQRzPxT9kRyiLdBW4nlZjVRZu6p-ZUaRjSTpPoMuv4rR1v3qNFP-uQ-IfdRi2NTMZNE__bXYb0N3J-mCZgcBFA0=s480" length="0" type="image//o9pV0X9iT8j_XQRzPxT9kRyiLdBW4nlZjVRZu6p-ZUaRjSTpPoMuv4rR1v3qNFP-uQ-IfdRi2NTMZNE__bXYb0N3J-mCZgcBFA0=s480"/>
+        </item>
         <item>
             <title><![CDATA[CASA DE CHRISTMAS [공연종료] (모우미)]]></title>
             <link>https://moumi-shop.com/product/casa-de-christmas-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/64/category/24/display/1/</link>
@@ -319,90 +622,6 @@
             <guid>https://indistreet.com/live/3566</guid>
             <pubDate>Wed, 24 Aug 2022 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/live/3566" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="🌙먼데이프로젝트 시즌5 : 청춘의 밤🌙 ▫ 박소은 단독 콘서트 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Aug_16_2022_13_33_42_GMT_0900_fe1dc0851d.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">🌙먼데이프로젝트 시즌5 : 청춘의 밤🌙 ▫ 박소은 단독 콘서트</p><p class="chakra-text css-0">장소: KT&amp;G 상상마당 홍대 라이브홀</p><p class="chakra-text css-0">날짜: 2022년 9월 6일 화요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="606" href="/musicians/606" class="css-1xgh37a"><span class="css-t9od3v">박소은</span></a></div><div class="css-d9h50v">12일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<Ashnikko 아시니코 내한공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4356</link>
-            <guid>https://indistreet.com/live/4356</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4356" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<Ashnikko 아시니코 내한공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_32_43_GMT_0900_d8e9f1aed6.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;Ashnikko 아시니코 내한공연&gt;</p><p class="chakra-text css-0">장소: 왓챠홀</p><p class="chakra-text css-0">날짜: 2023년 3월 29일 수요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">3개월 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<김영소 단독 콘서트 : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4363</link>
-            <guid>https://indistreet.com/live/4363</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4363" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<김영소 단독 콘서트 : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_41_GMT_0900_722158d4f7.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;김영소 단독 콘서트 : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 28일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3150" href="/musicians/3150" class="css-1xgh37a"><span class="css-t9od3v">김영소</span></a></div><div class="css-d9h50v">약 1개월 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<김준서 단독 콘서트 '나의 자전' : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4361</link>
-            <guid>https://indistreet.com/live/4361</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4361" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<김준서 단독 콘서트 '나의 자전' : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_53_13_GMT_0900_9157731c06.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;김준서 단독 콘서트 '나의 자전' : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 27일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1925" href="/musicians/1925" class="css-1xgh37a"><span class="css-t9od3v">김준서</span></a></div><div class="css-d9h50v">약 1개월 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<맥거핀 단독 콘서트 : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4353</link>
-            <guid>https://indistreet.com/live/4353</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4353" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<맥거핀 단독 콘서트 : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_28_58_GMT_0900_ee889b1459.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;맥거핀 단독 콘서트 : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 20일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="593" href="/musicians/593" class="css-1xgh37a"><span class="css-t9od3v">맥거핀</span></a></div><div class="css-d9h50v">24일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<진저 루트 Ginger Root 내한공연>⁠ (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4244</link>
-            <guid>https://indistreet.com/live/4244</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4244" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<진저 루트 Ginger Root 내한공연>⁠ 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Dec_02_2022_10_43_41_GMT_0900_e058a33629.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;진저 루트 Ginger Root 내한공연&gt;⁠</p><p class="chakra-text css-0">장소: 왓챠홀</p><p class="chakra-text css-0">날짜: 2023년 1월 20일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">24일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<1225 단독 콘서트 : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4362</link>
-            <guid>https://indistreet.com/live/4362</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4362" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<1225 단독 콘서트 : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_56_02_GMT_0900_76ca20bd41.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;1225 단독 콘서트 : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 19일 목요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3304" href="/musicians/3304" class="css-1xgh37a"><span class="css-t9od3v">1225</span></a></div><div class="css-d9h50v">23일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<크리스탈 티 단독 콘서트 '겨울엔 야자수' : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4357</link>
-            <guid>https://indistreet.com/live/4357</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4357" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<크리스탈 티 단독 콘서트 '겨울엔 야자수' : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_33_48_GMT_0900_106d5cb2f7.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;크리스탈 티 단독 콘서트 '겨울엔 야자수' : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 16일 월요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="57" href="/musicians/57" class="css-1xgh37a"><span class="css-t9od3v">크리스탈 티</span></a></div><div class="css-d9h50v">20일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<1415 단독 콘서트 : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4354</link>
-            <guid>https://indistreet.com/live/4354</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4354" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<1415 단독 콘서트 : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_29_47_GMT_0900_679704c6e3.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;1415 단독 콘서트 : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 15일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1575" href="/musicians/1575" class="css-1xgh37a"><span class="css-t9od3v">1415</span></a></div><div class="css-d9h50v">19일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4352</link>
-            <guid>https://indistreet.com/live/4352</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4352" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 14일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3303" href="/musicians/3303" class="css-1xgh37a"><span class="css-t9od3v">경서</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4351</link>
-            <guid>https://indistreet.com/live/4351</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4351" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_27_18_GMT_0900_33b590cad3.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;경서 단독 콘서트 '경서랑 팬서트' : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 1월 13일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3303" href="/musicians/3303" class="css-1xgh37a"><span class="css-t9od3v">경서</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[텐텐 페스티벌 : 10년이 10냐 (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4290</link>
-            <guid>https://indistreet.com/live/4290</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4290" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="텐텐 페스티벌 : 10년이 10냐 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_10_10_83d55d73cb.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">텐텐 페스티벌 : 10년이 10냐</p><p class="chakra-text css-0">장소: KT&amp;G 상상마당 홍대 라이브홀</p><p class="chakra-text css-0">날짜: 2023년 1월 13일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="320" href="/musicians/320" class="css-1xgh37a"><span class="css-t9od3v">로큰롤라디오</span></a><a data-musician-id="328" href="/musicians/328" class="css-1xgh37a"><span class="css-t9od3v">솔루션스</span></a><a data-musician-id="896" href="/musicians/896" class="css-1xgh37a"><span class="css-t9od3v">9와 숫자들</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이디오테잎 단독 콘서트 [11111101 11th] (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4358</link>
-            <guid>https://indistreet.com/live/4358</guid>
-            <pubDate>Tue, 27 Dec 2022 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4358" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="이디오테잎 단독 콘서트 [11111101 11th] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Dec_20_2022_16_34_42_GMT_0900_22d0c2bde5.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">이디오테잎 단독 콘서트 [11111101 11th]</p><p class="chakra-text css-0">장소: 왓챠홀</p><p class="chakra-text css-0">날짜: 2023년 1월 13일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
