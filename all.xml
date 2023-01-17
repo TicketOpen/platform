@@ -4,9 +4,117 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 01:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 02:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["Winter Crush" (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6224149856911360</link>
+            <guid>https://xindieticket.kr/tickets/6224149856911360</guid>
+            <pubDate>Tue, 17 Jan 2023 02:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">"Winter Crush"</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-01-20 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5767409591910400" class="ng-binding" href="/map/5767409591910400">@네스트 나다</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/6yTqZ4JYTCQkv8UrM_PWWeqhfhCK5BDcwvCptBA58-MIxUzCZJTczJdX4BX6BcVIbvKqbWmYJmoPYVHuSbde2x0bEDVzxvyJmwM=s480" length="0" type="image//6yTqZ4JYTCQkv8UrM_PWWeqhfhCK5BDcwvCptBA58-MIxUzCZJTczJdX4BX6BcVIbvKqbWmYJmoPYVHuSbde2x0bEDVzxvyJmwM=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[’백화’ (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6240736013975552</link>
+            <guid>https://xindieticket.kr/tickets/6240736013975552</guid>
+            <pubDate>Tue, 17 Jan 2023 02:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">’백화’</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-01-20 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5132029310009344" class="ng-binding" href="/map/5132029310009344">@All of Rock</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 40,000원 현매 45,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/ORgjQXzUMdUGlFS3u26MqyTRaFzAhnI1XsorJCUdO4wuIBBwXRewsCnZlnX2-cmV4HPaZDjicE5QTswfO1P1JvNTWBvD9Z9cpzk=s480" length="0" type="image//ORgjQXzUMdUGlFS3u26MqyTRaFzAhnI1XsorJCUdO4wuIBBwXRewsCnZlnX2-cmV4HPaZDjicE5QTswfO1P1JvNTWBvD9Z9cpzk=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[<진저 루트 Ginger Root 내한공연>⁠ (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6263587253256192</link>
+            <guid>https://xindieticket.kr/tickets/6263587253256192</guid>
+            <pubDate>Tue, 17 Jan 2023 02:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">&lt;진저 루트 Ginger Root 내한공연&gt;⁠</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-01-20 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6274439930970112" class="ng-binding" href="/map/6274439930970112">@왓챠홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 88,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="http://ticket.yes24.com/Special/44197" target="_blank" class="ng-scope" button-paymethod="YES_24" href="http://ticket.yes24.com/Special/44197">
+		<div class="ng-binding">YES 24</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/S8-CLU4cOGzcVGByGwtRdAmWc-fDNmVM_2pkV_xnc1xDLvBgFD4ASFY2LPxTuWPyxWtm2EcG5h9zQr0EOIWRS48gQ7m_-Ec3qYn_=s480" length="0" type="image//S8-CLU4cOGzcVGByGwtRdAmWc-fDNmVM_2pkV_xnc1xDLvBgFD4ASFY2LPxTuWPyxWtm2EcG5h9zQr0EOIWRS48gQ7m_-Ec3qYn_=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[<맥거핀 단독 콘서트 : 롤링 28주년 기념 공연> (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6305556197277696</link>
+            <guid>https://xindieticket.kr/tickets/6305556197277696</guid>
+            <pubDate>Tue, 17 Jan 2023 02:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">&lt;맥거핀 단독 콘서트 : 롤링 28주년 기념 공연&gt;</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-01-20 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=207679" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=207679">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/-HwTvDniq-Dasb02pXHDqz8C-TRigCjx2StQgwDribnB63eVvfoYCVqcAojaq5EAASVMINITRsR5MK23e1voBroNS7sSJGETDSo=s480" length="0" type="image//-HwTvDniq-Dasb02pXHDqz8C-TRigCjx2StQgwDribnB63eVvfoYCVqcAojaq5EAASVMINITRsR5MK23e1voBroNS7sSJGETDSo=s480"/>
+        </item>
         <item>
             <title><![CDATA[CASA DE CHRISTMAS [공연종료] (모우미)]]></title>
             <link>https://moumi-shop.com/product/casa-de-christmas-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/64/category/24/display/1/</link>
@@ -384,6 +492,13 @@
             <content:encoded><![CDATA[<a href="/live/4471" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<Tuesday Beach Club 단독 콘서트 'WAY' : 롤링 28주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_04_02_32_GMT_0900_2c00de36da.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;Tuesday Beach Club 단독 콘서트 'WAY' : 롤링 28주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2023년 2월 9일 목요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="2885" href="/musicians/2885" class="css-1xgh37a"><span class="css-t9od3v">튜스데이 비치클럽</span></a></div><div class="css-d9h50v">23일 후</div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[VMC LAST CONCERT [9th Wonder] (인디스트릿 ─ 공연 목록)]]></title>
+            <link>https://indistreet.com/live/4496</link>
+            <guid>https://indistreet.com/live/4496</guid>
+            <pubDate>Tue, 17 Jan 2023 02:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/live/4496" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="VMC LAST CONCERT [9th Wonder] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_17_2023_10_42_32_GMT_0900_581c28e34b.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">VMC LAST CONCERT [9th Wonder]</p><p class="chakra-text css-0">장소: 왓챠홀</p><p class="chakra-text css-0">날짜: 2023년 2월 5일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">19일 후</div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[하루스페 1주년 타이반 「青春:アオハル」 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/4478</link>
             <guid>https://indistreet.com/live/4478</guid>
@@ -396,13 +511,6 @@
             <guid>https://indistreet.com/live/4469</guid>
             <pubDate>Mon, 16 Jan 2023 20:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/live/4469" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="ICE BREAKING 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Jan_12_2023_03_58_32_GMT_0900_89bbea8acf.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">ICE BREAKING</p><p class="chakra-text css-0">장소: 프리즘홀</p><p class="chakra-text css-0">날짜: 2023년 1월 29일 일요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1034" href="/musicians/1034" class="css-1xgh37a"><span class="css-t9od3v">베리코이버니</span></a><a data-musician-id="2085" href="/musicians/2085" class="css-1xgh37a"><span class="css-t9od3v">웨스턴카잇</span></a><a data-musician-id="3323" href="/musicians/3323" class="css-1xgh37a"><span class="css-t9od3v">지소쿠리클럽</span></a></div><div class="css-d9h50v">12일 후</div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2th INITIALMUSIC FESTIVAL (인디스트릿 ─ 공연 목록)]]></title>
-            <link>https://indistreet.com/live/4455</link>
-            <guid>https://indistreet.com/live/4455</guid>
-            <pubDate>Mon, 16 Jan 2023 20:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/4455" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px none; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="2th INITIALMUSIC FESTIVAL 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jan_10_2023_14_48_00_GMT_0900_1d9b3fc6e9.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">2th INITIALMUSIC FESTIVAL</p><p class="chakra-text css-0">장소: 왓챠홀</p><p class="chakra-text css-0">날짜: 2023년 1월 29일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">12일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
