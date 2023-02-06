@@ -4,7 +4,7 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,33 @@
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
             <enclosure url="http://lh3.googleusercontent.com/Lh3OMT6u0SIvz3fjw4uvVaoUcj4AOiTt7ZbXfI7fGDYqkZG7tla3BJrG3Zu3dA8huB5NYmW_R8J9igyKSC0uVbhDzsM7Qaqsv3I=s480" length="0" type="image//Lh3OMT6u0SIvz3fjw4uvVaoUcj4AOiTt7ZbXfI7fGDYqkZG7tla3BJrG3Zu3dA8huB5NYmW_R8J9igyKSC0uVbhDzsM7Qaqsv3I=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[정우 단독 콘서트 '옛날이야기해 주세요' : 롤링 28주년 기념 공연]]></title>
+            <link>https://xindieticket.kr/tickets/6285502994972672</link>
+            <guid>https://xindieticket.kr/tickets/6285502994972672</guid>
+            <pubDate>Mon, 06 Feb 2023 07:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">정우 단독 콘서트 '옛날이야기해 주세요' : 롤링 28주년 기념 공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2023-02-12 (일) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">60,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=207726" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=207726">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/yezDlfxW5oh7VSsDtmK5EeanczGF-MSvs_bsFpfbmwHs2Oh8SNYONoODxkr0vPgrito-JTVWalT9iTiJerjCPyre1vXWARyo9YAI=s480" length="0" type="image//yezDlfxW5oh7VSsDtmK5EeanczGF-MSvs_bsFpfbmwHs2Oh8SNYONoODxkr0vPgrito-JTVWalT9iTiJerjCPyre1vXWARyo9YAI=s480"/>
         </item>
         <item>
             <title><![CDATA[Valentine’s Weekend Live]]></title>
