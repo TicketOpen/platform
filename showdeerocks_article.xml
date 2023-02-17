@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://indistreet.com/live</id>
-    <title>인디스트릿 ─ 공연 목록</title>
-    <updated>2023-02-17T16:28:40.997Z</updated>
+    <id>http://showdeerocks.info/article.html</id>
+    <title>ShowdeeRocks</title>
+    <updated>2023-02-17T17:19:15.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://indistreet.com/android-icon-192x192.png</icon>
+    <icon>http://showdeerocks.info/favicon.ico</icon>
 </feed>
