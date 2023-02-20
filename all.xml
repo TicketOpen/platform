@@ -4,36 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 03:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 04:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Lunar Stage!! (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6307585166671872</link>
-            <guid>https://xindieticket.kr/tickets/6307585166671872</guid>
-            <pubDate>Mon, 13 Feb 2023 02:52:21 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">Lunar Stage!!</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2023-02-19 (일) 03:30</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5193304132026368" class="ng-binding" href="/map/5193304132026368">@플렉스라운지</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 일반 30000₩ / 청소년 20000₩<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLSe2iHYXE1pMyV4_vfJC_GxBIQFUql0EAGE5KWfd0PKZu_hgQA/viewform" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLSe2iHYXE1pMyV4_vfJC_GxBIQFUql0EAGE5KWfd0PKZu_hgQA/viewform">
-		<div class="ng-binding">FORM</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/JGIbfNMlqT6ESbaGeNCPOteu2Cklh8F4sBLzFuVJ8nKqfVNGmCawopL_B4OXygEfUFD18hBkjYkvTA8nVwtzLPWq-M-d0e_2siK7Ug=s480" length="0" type="image//JGIbfNMlqT6ESbaGeNCPOteu2Cklh8F4sBLzFuVJ8nKqfVNGmCawopL_B4OXygEfUFD18hBkjYkvTA8nVwtzLPWq-M-d0e_2siK7Ug=s480"/>
-        </item>
         <item>
             <title><![CDATA[박소은 단독 콘서트 '마지막 문장' : 롤링 28주년 기념 공연 (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/6262686316756992</link>
