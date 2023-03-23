@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 10:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[음향] 드베이지 전용 결제창]]></title>
+            <link>https://moumi-shop.com/product/%EC%9D%8C%ED%96%A5-%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%A7%80-%EC%A0%84%EC%9A%A9-%EA%B2%B0%EC%A0%9C%EC%B0%BD/70/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%9D%8C%ED%96%A5-%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%A7%80-%EC%A0%84%EC%9A%A9-%EA%B2%B0%EC%A0%9C%EC%B0%BD/70/category/24/display/1/</guid>
+            <pubDate>Thu, 23 Mar 2023 10:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">200,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Blossom Jazz In The Moon]]></title>
             <link>https://moumi-shop.com/product/blossom-jazz-in-the-moon/69/category/24/display/1/</link>
@@ -189,14 +197,6 @@
             <pubDate>Wed, 01 Feb 2023 09:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">36,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202204/f7ce336148a839196647e2421ebe2533.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽의 음악식당 [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/55/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EC%83%88%EB%B2%BD%EC%9D%98-%EC%9D%8C%EC%95%85%EC%8B%9D%EB%8B%B9-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/55/category/24/display/1/</guid>
-            <pubDate>Wed, 28 Dec 2022 19:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">45,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202204/035593cd22e737b674efb6c436cfcad6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
