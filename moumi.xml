@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 11:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 12:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모우미 피크닉 콘서트 with 공간이음&클랑앙상블]]></title>
+            <link>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%ED%94%BC%ED%81%AC%EB%8B%89-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EA%B3%B5%EA%B0%84%EC%9D%B4%EC%9D%8C%ED%81%B4%EB%9E%91%EC%95%99%EC%83%81%EB%B8%94/79/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%ED%94%BC%ED%81%AC%EB%8B%89-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EA%B3%B5%EA%B0%84%EC%9D%B4%EC%9D%8C%ED%81%B4%EB%9E%91%EC%95%99%EC%83%81%EB%B8%94/79/category/24/display/1/</guid>
+            <pubDate>Wed, 05 Apr 2023 12:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">20,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202304/0ed27b53acae6b5d39d000615d36c036.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blossom Jazz In The Moon(초대 창구)]]></title>
             <link>https://moumi-shop.com/product/blossom-jazz-in-the-moon%EC%B4%88%EB%8C%80-%EC%B0%BD%EA%B5%AC/78/category/24/display/1/</link>
@@ -151,33 +159,6 @@
                     </div>
                 </div>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202212/d860efd0ab9d607753d88c404878e882.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FAMERS CHEERS!]]></title>
-            <link>https://moumi-shop.com/product/famers-cheers/62/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/famers-cheers/62/category/24/display/1/</guid>
-            <pubDate>Wed, 01 Feb 2023 09:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                    <div class="prdImg">
-                        <a href="/product/famers-cheers/62/category/24/display/1/" name="anchorBoxName_62"><img src="//moumi-shop.com/web/product/medium/202212/bf2734f5bdb3e2fdea9ca48821bca702.png" id="eListPrdImage62_1" alt="FAMERS CHEERS!"></a>
-                        <span class="wish"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/btn_wish_before.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="62" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
-                    </div>
-                </div>
-                <div class="description">
-                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_62 displaynone"></span>
-					<div class="timesale_box">
-<span class="saletime"></span><span class="sale_per"></span>
-</div>
-                    <strong class="name"><a href="/product/famers-cheers/62/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:12px;color:#555555;">상품명</span> :</span> <span style="font-size:12px;color:#555555;">FAMERS CHEERS!</span></a></strong>
-                    <div class="icon">
-                        <div class="promotion">       </div>
-                        <div class="button">
-                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
-                           <div class="option"></div>
-                       </div>
-                    </div>
-                </div>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202212/bf2734f5bdb3e2fdea9ca48821bca702.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
