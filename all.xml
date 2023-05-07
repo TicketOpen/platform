@@ -4,36 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 08:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 09:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["Morning after" (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6230579724943360</link>
-            <guid>https://xindieticket.kr/tickets/6230579724943360</guid>
-            <pubDate>Wed, 03 May 2023 03:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">"Morning after"</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2023-05-06 (토) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5689127638925312" class="ng-binding" href="/map/5689127638925312">@KT&amp;G 상상마당 라이브홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 66,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=208086" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=208086">
-		<div class="ng-binding">MELON</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/xmcXkrK6_evRuVFdqKfRbmALQ5FETxiIKoEQzgvdM2gbyeDmVTWYJXI79cR_ER8ivK4pdzS4Fx1YDbYuzR5oKhiKwLOlvfRJQEOZ=s480" length="0" type="image//xmcXkrK6_evRuVFdqKfRbmALQ5FETxiIKoEQzgvdM2gbyeDmVTWYJXI79cR_ER8ivK4pdzS4Fx1YDbYuzR5oKhiKwLOlvfRJQEOZ=s480"/>
-        </item>
         <item>
             <title><![CDATA[230520 토곡요 재즈 살롱 콘서트 with 남달리 밴드(15% 회원할인 진행중_로그인하면 자동적용) (모우미)]]></title>
             <link>https://moumi-shop.com/product/230520-%ED%86%A0%EA%B3%A1%EC%9A%94-%EC%9E%AC%EC%A6%88-%EC%82%B4%EB%A1%B1-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EB%82%A8%EB%8B%AC%EB%A6%AC-%EB%B0%B4%EB%93%9C15-%ED%9A%8C%EC%9B%90%ED%95%A0%EC%9D%B8-%EC%A7%84%ED%96%89%EC%A4%91%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EB%A9%B4-%EC%9E%90%EB%8F%99%EC%A0%81%EC%9A%A9/92/category/24/display/1/</link>
