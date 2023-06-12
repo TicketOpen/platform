@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>XINDIE ─ TICKET</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 08:24:34 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["알고리즘"]]></title>
-            <link>https://xindieticket.kr/tickets/6240423521550336</link>
-            <guid>https://xindieticket.kr/tickets/6240423521550336</guid>
-            <pubDate>Wed, 07 Jun 2023 05:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">"알고리즘"</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2023-06-11 (일) 09:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5689127638925312" class="ng-binding" href="/map/5689127638925312">@KT&amp;G 상상마당 라이브홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">무료<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://booking.naver.com/booking/5/bizes/921351" target="_blank" class="ng-scope" button-paymethod="네이버" href="https://booking.naver.com/booking/5/bizes/921351">
-		<div class="ng-binding">NAVER</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="무료공연">
-		<div class="ng-binding">무료공연</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/hF-Fdcs0IeFUScg6yVAm3rzNoYrQ0AdnSgdY1bjfds8_Cs9VViuLgt86C54lLLCo7-YNtgA1h9_8U9k0WZcIqxQkRTms-6NusaCs=s480" length="0" type="image//hF-Fdcs0IeFUScg6yVAm3rzNoYrQ0AdnSgdY1bjfds8_Cs9VViuLgt86C54lLLCo7-YNtgA1h9_8U9k0WZcIqxQkRTms-6NusaCs=s480"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xindieticket.kr/tickets/</id>
+    <title>XINDIE ─ TICKET</title>
+    <updated>2023-06-12T09:20:11.789Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://xindieticket.kr/img/android-icon-192x192.png</icon>
+</feed>
