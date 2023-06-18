@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 12:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 13:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MUMU GREEN CONCERT]]></title>
+            <link>https://moumi-shop.com/product/mumu-green-concert/112/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/mumu-green-concert/112/category/24/display/1/</guid>
+            <pubDate>Sun, 18 Jun 2023 13:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">30,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/a516222e9bbced216146ade98a0fae16.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 여름밤의 어쿠스틱 콘서트]]></title>
             <link>https://moumi-shop.com/product/%ED%95%9C-%EC%97%AC%EB%A6%84%EB%B0%A4%EC%9D%98-%EC%96%B4%EC%BF%A0%EC%8A%A4%ED%8B%B1-%EC%BD%98%EC%84%9C%ED%8A%B8/107/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 09 Jun 2023 01:50:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">29,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202305/63d272615f3ac6769a74bb31c85c9727.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[송선호 재즈 콘서트 - 사계 [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/%EC%86%A1%EC%84%A0%ED%98%B8-%EC%9E%AC%EC%A6%88-%EC%BD%98%EC%84%9C%ED%8A%B8-%EC%82%AC%EA%B3%84-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/82/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EC%86%A1%EC%84%A0%ED%98%B8-%EC%9E%AC%EC%A6%88-%EC%BD%98%EC%84%9C%ED%8A%B8-%EC%82%AC%EA%B3%84-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/82/category/24/display/1/</guid>
-            <pubDate>Fri, 12 May 2023 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:12px;color:#008BCC;font-weight:bold;">판매가</span> :</strong> <span style="font-size:12px;color:#008BCC;font-weight:bold;">20,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202304/9cb90fd29302aeb2dd63e517e8c4e902.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
