@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 01:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 02:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -123,10 +123,10 @@
             <enclosure url="https://moumi-shop.com/web/product/medium/202307/303bddfec102256e086d4dc0c0d78666.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[OOU Band Girin Concert (모우미)]]></title>
-            <link>https://moumi-shop.com/product/oou-band-girin-concert/132/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/oou-band-girin-concert/132/category/24/display/1/</guid>
-            <pubDate>Wed, 28 Jun 2023 12:42:18 GMT</pubDate>
+            <title><![CDATA[OOU Band Girin Concert [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/oou-band-girin-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/132/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/oou-band-girin-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/132/category/24/display/1/</guid>
+            <pubDate>Thu, 20 Jul 2023 02:37:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">24,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202306/a8dd3ea47a2afed4348fdb356ddbc389.png" length="0" type="image/png"/>
         </item>
