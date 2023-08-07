@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 09:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 10:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산 지브리OST 콘서트]]></title>
+            <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-%EC%A7%80%EB%B8%8C%EB%A6%ACost-%EC%BD%98%EC%84%9C%ED%8A%B8/162/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-%EC%A7%80%EB%B8%8C%EB%A6%ACost-%EC%BD%98%EC%84%9C%ED%8A%B8/162/category/24/display/1/</guid>
+            <pubDate>Mon, 07 Aug 2023 10:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">68,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202308/c5cb0fd0b995bc8611077455f30db4c9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MUSIC IN NODE]]></title>
             <link>https://moumi-shop.com/product/music-in-node/161/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 06 Jul 2023 01:58:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">23,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202306/509c1b9e38b588c052c8c44ba47d43ee.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JINJU JAZZ NIGHT [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/105/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/105/category/24/display/1/</guid>
-            <pubDate>Thu, 06 Jul 2023 01:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202306/10381ff217f629dd72c56276c89bf3a4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
