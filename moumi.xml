@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 11:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JINJU JAZZ NIGHT with 마루밴드]]></title>
+            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EB%A7%88%EB%A3%A8%EB%B0%B4%EB%93%9C/166/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EB%A7%88%EB%A3%A8%EB%B0%B4%EB%93%9C/166/category/24/display/1/</guid>
+            <pubDate>Thu, 10 Aug 2023 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202308/522eb86986ed5e86b4beff66dd311c2a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Jazz ON Concert]]></title>
             <link>https://moumi-shop.com/product/jazz-on-concert/164/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 11 Jul 2023 06:28:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">72,750원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202306/5485bf98d7b02f964a1875584fcccc3b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MUMU GREEN CONCERT [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/mumu-green-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/112/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/mumu-green-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/112/category/24/display/1/</guid>
-            <pubDate>Tue, 11 Jul 2023 06:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">21,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202306/5a2f0342379db07d5051c46ec081c5c5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
