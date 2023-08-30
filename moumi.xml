@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 13:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 14:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㄹㅇㅎ]]></title>
+            <link>https://moumi-shop.com/product/%E3%84%B9%E3%85%87%E3%85%8E/175/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%E3%84%B9%E3%85%87%E3%85%8E/175/category/24/display/1/</guid>
+            <pubDate>Wed, 30 Aug 2023 14:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">22,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[재즈 피어 콘서트 with 재즈잇]]></title>
             <link>https://moumi-shop.com/product/%EC%9E%AC%EC%A6%88-%ED%94%BC%EC%96%B4-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EC%9E%AC%EC%A6%88%EC%9E%87/172/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Jun 2023 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">19,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202306/2df4c97c07e6bce163fd908019ba4bd3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Grace Jazz Concert [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/grace-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/128/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/grace-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/128/category/24/display/1/</guid>
-            <pubDate>Thu, 06 Jul 2023 01:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">11,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202306/8a0cdd1070a71f98768fbff492e3533b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
