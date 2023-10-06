@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 09:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 10:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
             <enclosure url="http://lh3.googleusercontent.com/wuniR6UIZVaoEqAs33o20KxtV8X3QT9F8nKotKwgQbr8KVV63PPGpuCNts9RxSrOO6ByaJsu4S7ED5nY_l-iHf9-W1_umF-RFrmP=s480" length="0" type="image//wuniR6UIZVaoEqAs33o20KxtV8X3QT9F8nKotKwgQbr8KVV63PPGpuCNts9RxSrOO6ByaJsu4S7ED5nY_l-iHf9-W1_umF-RFrmP=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Classic Peer Night with 아셀앙상블 (모우미)]]></title>
+            <link>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94/200/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94/200/category/24/display/1/</guid>
+            <pubDate>Fri, 06 Oct 2023 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202310/07ba7f135c7f3bb99b407a66d57cdd6a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[JINJU JAZZ NIGHT with 모던 사운즈 (모우미)]]></title>
@@ -152,14 +160,6 @@
             <pubDate>Mon, 31 Jul 2023 01:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">69,900원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202307/9fea7b6c5140644f1615da58c3ca0a3d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JINJU JAZZ NIGHT with 스근하이 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%8A%A4%EA%B7%BC%ED%95%98%EC%9D%B4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/146/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%8A%A4%EA%B7%BC%ED%95%98%EC%9D%B4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/146/category/24/display/1/</guid>
-            <pubDate>Wed, 27 Sep 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202307/ee9d9d71dd879c8fa6ec9a1405e5ccaa.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[B.S FES (인디스트릿 ─ 공연 목록)]]></title>
