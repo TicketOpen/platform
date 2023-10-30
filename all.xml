@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 09:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 10:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Autumn Concert (모우미)]]></title>
-            <link>https://moumi-shop.com/product/autumn-concert/212/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/autumn-concert/212/category/24/display/1/</guid>
-            <pubDate>Wed, 18 Oct 2023 11:16:51 GMT</pubDate>
+            <title><![CDATA[Autumn Concert [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/autumn-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/212/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/autumn-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/212/category/24/display/1/</guid>
+            <pubDate>Mon, 30 Oct 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">11,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202310/bafbc875529abccbccfe29e0e0a5883a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Classic Peer Night with 아셀앙상블 (모우미)]]></title>
-            <link>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94/200/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94/200/category/24/display/1/</guid>
-            <pubDate>Fri, 06 Oct 2023 10:19:17 GMT</pubDate>
+            <title><![CDATA[Classic Peer Night with 아셀앙상블 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/200/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/200/category/24/display/1/</guid>
+            <pubDate>Mon, 30 Oct 2023 10:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202310/07ba7f135c7f3bb99b407a66d57cdd6a.png" length="0" type="image/png"/>
         </item>
