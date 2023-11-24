@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Potluck Wine Concert]]></title>
+            <link>https://moumi-shop.com/product/potluck-wine-concert/237/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/potluck-wine-concert/237/category/24/display/1/</guid>
+            <pubDate>Fri, 24 Nov 2023 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">28,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202311/278b9bb71fedfb7b7c24aecd45737ff5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JINJU JAZZ NIGHT with 장보영 트리오]]></title>
             <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%9E%A5%EB%B3%B4%EC%98%81-%ED%8A%B8%EB%A6%AC%EC%98%A4/225/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 31 Aug 2023 02:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202308/522eb86986ed5e86b4beff66dd311c2a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazz ON Concert [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/jazz-on-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/164/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jazz-on-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/164/category/24/display/1/</guid>
-            <pubDate>Wed, 30 Aug 2023 02:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">30,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202308/85dd0c8f084060f27d8b1a91f665d62f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
