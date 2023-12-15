@@ -4,36 +4,9 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 14:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 15:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[(VIP)Jazz Christmas In Node]]></title>
-            <link>https://moumi-shop.com/product/vipjazz-christmas-in-node/255/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/vipjazz-christmas-in-node/255/category/24/display/1/</guid>
-            <pubDate>Fri, 15 Dec 2023 13:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                    <div class="prdImg">
-                        <a href="/product/vipjazz-christmas-in-node/255/category/24/display/1/" name="anchorBoxName_255"><img src="//moumi-shop.com/web/product/medium/202312/0b739eb75e0f3fb7f1fce2a807c3f1bd.png" id="eListPrdImage255_1" alt="(VIP)Jazz Christmas In Node"></a>
-                        <span class="wish"><img src="/web/upload/icon_202306231237383600.png" class="icon_img ec-product-listwishicon" alt="관심상품 등록 전" productno="255" categoryno="24" icon_status="off" login_status="F" individual-set="F"></span>
-                    </div>
-                </div>
-                <div class="description">
-                    <span class="chk"><input type="checkbox" class="ProductCompareClass xECPCNO_255 displaynone"></span>
-					<div class="timesale_box">
-<span class="saletime"></span><span class="sale_per"></span>
-</div>
-                    <strong class="name"><a href="/product/vipjazz-christmas-in-node/255/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:16px;color:#151617;">상품명</span> :</span> <span style="font-size:16px;color:#151617;">(VIP)Jazz Christmas In Node</span></a></strong>
-                    <div class="icon">
-                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
-                        <div class="button">
-                           <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
-                           <div class="option"></div>
-                       </div>
-                    </div>
-                </div>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202312/0b739eb75e0f3fb7f1fce2a807c3f1bd.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Jinju Jazz Night with 강성민 트리오]]></title>
             <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EA%B0%95%EC%84%B1%EB%AF%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4/244/category/24/display/1/</link>
@@ -121,6 +94,14 @@
             <pubDate>Thu, 26 Oct 2023 01:13:13 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202309/23d1222c6c9779dee7bf75b361572ab8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brown Bravo Concert [공연종료]]]></title>
+            <link>https://moumi-shop.com/product/brown-bravo-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/192/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/brown-bravo-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/192/category/24/display/1/</guid>
+            <pubDate>Fri, 15 Dec 2023 15:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">59,900원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202309/99ae3ba306305ca0bedb7a0cc35f372d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
