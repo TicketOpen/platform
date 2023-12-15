@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 13:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 14:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,7 +160,7 @@
 </div>
                     <strong class="name"><a href="/product/vipjazz-christmas-in-node/255/category/24/display/1/" class=""><span class="title displaynone"><span style="font-size:16px;color:#151617;">상품명</span> :</span> <span style="font-size:16px;color:#151617;">(VIP)Jazz Christmas In Node</span></a></strong>
                     <div class="icon">
-                        <div class="promotion">       </div>
+                        <div class="promotion"><img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절">       </div>
                         <div class="button">
                            <div class="likeButton displaynone"><button type="button"> <strong></strong></button></div>
                            <div class="option"></div>
