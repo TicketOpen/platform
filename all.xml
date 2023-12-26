@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 04:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,10 +86,10 @@
             <enclosure url="https://moumi-shop.com/web/product/medium/202312/53e6f15b377af0fcc3502bccf28abd99.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Jazz Christmas In Node (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jazz-christmas-in-node/241/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jazz-christmas-in-node/241/category/24/display/1/</guid>
-            <pubDate>Thu, 07 Dec 2023 11:15:58 GMT</pubDate>
+            <title><![CDATA[Jazz Christmas In Node [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/jazz-christmas-in-node-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/241/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazz-christmas-in-node-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/241/category/24/display/1/</guid>
+            <pubDate>Tue, 26 Dec 2023 05:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">75,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202312/0b739eb75e0f3fb7f1fce2a807c3f1bd.png" length="0" type="image/png"/>
         </item>
