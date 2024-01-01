@@ -4,36 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 09:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 10:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[LIVECONNECT STAGE with 제인팝(JanePop) (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6322164567375872</link>
-            <guid>https://xindieticket.kr/tickets/6322164567375872</guid>
-            <pubDate>Wed, 27 Dec 2023 08:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">LIVECONNECT STAGE with 제인팝(JanePop)</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2023-12-31 (일) 10:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5759343769157632" class="ng-binding" href="/map/5759343769157632">@살롱 문보우</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 55,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://tickets.interpark.com/goods/23017388" target="_blank" class="ng-scope" button-paymethod="인터파크" href="https://tickets.interpark.com/goods/23017388">
-		<div class="ng-binding">INTERPARK</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/lkVPXlBiY5cUQvFMsqAlwxQEW67rg8AUNBpEmPSf39hcRVT2qaTeHDoyZ5OTDaAjbDbJ1bGGoPkg2Wc2dfupyX_x_XPf4jup4j0bAA=s480" length="0" type="image//lkVPXlBiY5cUQvFMsqAlwxQEW67rg8AUNBpEmPSf39hcRVT2qaTeHDoyZ5OTDaAjbDbJ1bGGoPkg2Wc2dfupyX_x_XPf4jup4j0bAA=s480"/>
-        </item>
         <item>
             <title><![CDATA[Jinju Jazz Night with 강성민 트리오 [공연종료] (모우미)]]></title>
             <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EA%B0%95%EC%84%B1%EB%AF%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/244/category/24/display/1/</link>
