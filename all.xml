@@ -4,64 +4,228 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 01:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 02:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Jinju Jazz Night with 강성민 트리오 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EA%B0%95%EC%84%B1%EB%AF%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/244/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EA%B0%95%EC%84%B1%EB%AF%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/244/category/24/display/1/</guid>
-            <pubDate>Sun, 31 Dec 2023 01:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202312/e29df56c502e6f9dfb21413f45d600d7.png" length="0" type="image/png"/>
+            <title><![CDATA[루미너스 뮤직 스테이지 vol．3 김늑x블루파프리카 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6224206261911552</link>
+            <guid>https://xindieticket.kr/tickets/6224206261911552</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">루미너스 뮤직 스테이지 vol．3 김늑x블루파프리카</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-18 (목) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5759343769157632" class="ng-binding" href="/map/5759343769157632">@살롱 문보우</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 44,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209274 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209274 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/7P_qANZaESpksCtj4k7hQRYD1XVwV5y0pDWAPOxhXYRn--OSg9MVOXKerVZ-LsZ0jwQpeA5MrmJjQzCx3Hu81CDgZRvDFwbpydo=s480" length="0" type="image//7P_qANZaESpksCtj4k7hQRYD1XVwV5y0pDWAPOxhXYRn--OSg9MVOXKerVZ-LsZ0jwQpeA5MrmJjQzCx3Hu81CDgZRvDFwbpydo=s480"/>
         </item>
         <item>
-            <title><![CDATA[Funky Party Night [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/funky-party-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/243/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/funky-party-night-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/243/category/24/display/1/</guid>
-            <pubDate>Sun, 31 Dec 2023 01:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202312/d506e26974e8dc5b02f997c558f8204c.png" length="0" type="image/png"/>
+            <title><![CDATA[HAPPY THURSDAY (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6316057627197440</link>
+            <guid>https://xindieticket.kr/tickets/6316057627197440</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">HAPPY THURSDAY</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-18 (목) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 20,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/1aQbFKalqfLzRVfiqu5oGYdVoQh_moatiZ8JPwDctmrDwZar_R3fvBLzdEqIpyH7b7ddoliS47lewM92cn99Y6hslDuQo9iz7x2j=s480" length="0" type="image//1aQbFKalqfLzRVfiqu5oGYdVoQh_moatiZ8JPwDctmrDwZar_R3fvBLzdEqIpyH7b7ddoliS47lewM92cn99Y6hslDuQo9iz7x2j=s480"/>
         </item>
         <item>
-            <title><![CDATA[Busan Christmas Jazz Concert [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/busan-christmas-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/242/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/busan-christmas-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/242/category/24/display/1/</guid>
-            <pubDate>Mon, 08 Jan 2024 01:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">68,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202312/53e6f15b377af0fcc3502bccf28abd99.png" length="0" type="image/png"/>
+            <title><![CDATA[잭킹콩 단독 콘서트 〈JKC NEW YEAR〉：롤링 29주년 기념 공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6201266539593728</link>
+            <guid>https://xindieticket.kr/tickets/6201266539593728</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">잭킹콩 단독 콘서트 〈JKC NEW YEAR〉：롤링 29주년 기념 공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-19 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 55,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209215 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209215 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/n21Zxe6DEv1pt2AwNeQVFmLu2CjV96zJA5NfwhPJIce-2A0dpXvN3uOPgjP-2GuEHjmMnXC7jOav8hGr63_kwdk3WOaB7Dmo7raa=s480" length="0" type="image//n21Zxe6DEv1pt2AwNeQVFmLu2CjV96zJA5NfwhPJIce-2A0dpXvN3uOPgjP-2GuEHjmMnXC7jOav8hGr63_kwdk3WOaB7Dmo7raa=s480"/>
         </item>
         <item>
-            <title><![CDATA[Jazz Christmas In Node [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jazz-christmas-in-node-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/241/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jazz-christmas-in-node-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/241/category/24/display/1/</guid>
-            <pubDate>Tue, 26 Dec 2023 05:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">75,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202312/0b739eb75e0f3fb7f1fce2a807c3f1bd.png" length="0" type="image/png"/>
+            <title><![CDATA[ENERGY : beauty of blue (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6224612572528640</link>
+            <guid>https://xindieticket.kr/tickets/6224612572528640</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">ENERGY : beauty of blue</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-19 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6291829985116160" class="ng-binding" href="/map/6291829985116160">@언플러그드 홍대점</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 25,000원, 현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLSf52SQJcmOrvGMfvvX5-GYBkX7_tcuFzw0VrcY3hvnv84f4LA/viewform " target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLSf52SQJcmOrvGMfvvX5-GYBkX7_tcuFzw0VrcY3hvnv84f4LA/viewform ">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/dtFSzDL0ixx4E7ezpCVEerP3MgViSLeaxTiCR-2qZzp_ZjuziGpGUka_WlMgSaepGe8f7KL_f_RVy1PoU3_hRqQJGDOiZHceRyca=s480" length="0" type="image//dtFSzDL0ixx4E7ezpCVEerP3MgViSLeaxTiCR-2qZzp_ZjuziGpGUka_WlMgSaepGe8f7KL_f_RVy1PoU3_hRqQJGDOiZHceRyca=s480"/>
         </item>
         <item>
-            <title><![CDATA[Potluck Wine Concert [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/potluck-wine-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/237/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/potluck-wine-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/237/category/24/display/1/</guid>
-            <pubDate>Tue, 16 Jan 2024 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">28,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/278b9bb71fedfb7b7c24aecd45737ff5.png" length="0" type="image/png"/>
+            <title><![CDATA[크랙샷 단독 콘서트 ‘We are Crackshot’：롤링 29주년 기념 공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6209336279826432</link>
+            <guid>https://xindieticket.kr/tickets/6209336279826432</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">크랙샷 단독 콘서트 ‘We are Crackshot’：롤링 29주년 기념 공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-20 (토) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 77,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209231 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209231 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/M1wP2XBHNLjaB_OD0U2IivIiX1eJOnRW6PmYQeSR32VLzNKA8TEL2VR6-evsKYqqY2JDhxMuR6vrAktbZsfPSZIRODUUrg8UWjI=s480" length="0" type="image//M1wP2XBHNLjaB_OD0U2IivIiX1eJOnRW6PmYQeSR32VLzNKA8TEL2VR6-evsKYqqY2JDhxMuR6vrAktbZsfPSZIRODUUrg8UWjI=s480"/>
         </item>
         <item>
-            <title><![CDATA[JINJU JAZZ NIGHT with 장보영 트리오 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%9E%A5%EB%B3%B4%EC%98%81-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/225/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%9E%A5%EB%B3%B4%EC%98%81-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/225/category/24/display/1/</guid>
-            <pubDate>Wed, 29 Nov 2023 14:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/0e86bb31f62bf111a1abe126fb3791db.png" length="0" type="image/png"/>
+            <title><![CDATA[TONE STUDIO LIVE 〈김제형（KIM JAE HYUNG）〉 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6332833534574592</link>
+            <guid>https://xindieticket.kr/tickets/6332833534574592</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">TONE STUDIO LIVE 〈김제형（KIM JAE HYUNG）〉</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-20 (토) 09:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6194238832246784" class="ng-binding" href="/map/6194238832246784">@톤 스튜디오</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 55,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209266 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209266 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/5tRRd1Alxpnr10eB1Byo-xKxR15_2_uhLAFziGK3w4f-6vyA_4HeD7olm5V9iaqc7Y_jyRIAJyD1WL3Q9aDl51TfZefH0EA-FOY=s480" length="0" type="image//5tRRd1Alxpnr10eB1Byo-xKxR15_2_uhLAFziGK3w4f-6vyA_4HeD7olm5V9iaqc7Y_jyRIAJyD1WL3Q9aDl51TfZefH0EA-FOY=s480"/>
         </item>
         <item>
-            <title><![CDATA[모우미 뮤직 페스티벌 Fun&Cool stage [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%EB%AE%A4%EC%A7%81-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-funcool-stage-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/219/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%EB%AE%A4%EC%A7%81-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-funcool-stage-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/219/category/24/display/1/</guid>
-            <pubDate>Mon, 20 Nov 2023 06:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:14px;color:#888888;">소비자가</span> :</strong> <span style="font-size:14px;color:#888888;text-decoration:line-through;">50,000원</span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/3512f2e87aa129c7af52d3f564fc5617.png" length="0" type="image/png"/>
+            <title><![CDATA[언플러그드 정기공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6244484916445184</link>
+            <guid>https://xindieticket.kr/tickets/6244484916445184</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">언플러그드 정기공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-21 (일) 06:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6291829985116160" class="ng-binding" href="/map/6291829985116160">@언플러그드 홍대점</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 22,000원, 현매 25,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLScFm272-xAcy_iDbHWVLBPxOUT2EdKyvKZF9Up_j1qdedPPuQ/viewform " target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLScFm272-xAcy_iDbHWVLBPxOUT2EdKyvKZF9Up_j1qdedPPuQ/viewform ">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/Nwga6De98WxJ-KaojpGyPcjSsPkjt6n1QCvDLS1AmkCOw3Z_z0loWfMQ65t3Q4IqA9Jjdim0lPLle-H6sO2KhXr8jGPhgRTjwIea=s480" length="0" type="image//Nwga6De98WxJ-KaojpGyPcjSsPkjt6n1QCvDLS1AmkCOw3Z_z0loWfMQ65t3Q4IqA9Jjdim0lPLle-H6sO2KhXr8jGPhgRTjwIea=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[제비다방 정기공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6311142808879104</link>
+            <guid>https://xindieticket.kr/tickets/6311142808879104</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">제비다방 정기공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-21 (일) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6282520320540672" class="ng-binding" href="/map/6282520320540672">@제비다방</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">무료입장 자율기부<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="자율모금함">
+		<div class="ng-binding">자율모금함</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/3yp1VlZzm0fTKQ-DaDPj1GnqlkIVNg2zkzoVBhVwqNo8EjhWSsMVXjAGXsM6aIrnMfriXRXezOoKt__Jw0AcuPauPl1_JepsgVe9=s480" length="0" type="image//3yp1VlZzm0fTKQ-DaDPj1GnqlkIVNg2zkzoVBhVwqNo8EjhWSsMVXjAGXsM6aIrnMfriXRXezOoKt__Jw0AcuPauPl1_JepsgVe9=s480"/>
         </item>
         <item>
             <title><![CDATA[Autumn Concert [공연종료] (모우미)]]></title>
@@ -72,22 +236,6 @@
             <enclosure url="https://moumi-shop.com/web/product/medium/202310/bafbc875529abccbccfe29e0e0a5883a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Classic Peer Night with 아셀앙상블 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/200/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/classic-peer-night-with-%EC%95%84%EC%85%80%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/200/category/24/display/1/</guid>
-            <pubDate>Mon, 30 Oct 2023 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202310/07ba7f135c7f3bb99b407a66d57cdd6a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JINJU JAZZ NIGHT with 모던 사운즈 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EB%AA%A8%EB%8D%98-%EC%82%AC%EC%9A%B4%EC%A6%88-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/196/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EB%AA%A8%EB%8D%98-%EC%82%AC%EC%9A%B4%EC%A6%88-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/196/category/24/display/1/</guid>
-            <pubDate>Thu, 26 Oct 2023 01:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202309/23d1222c6c9779dee7bf75b361572ab8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Brown Bravo Concert [공연종료] (모우미)]]></title>
             <link>https://moumi-shop.com/product/brown-bravo-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/192/category/24/display/1/</link>
             <guid>https://moumi-shop.com/product/brown-bravo-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/192/category/24/display/1/</guid>
@@ -96,12 +244,84 @@
             <enclosure url="https://moumi-shop.com/web/product/medium/202309/99ae3ba306305ca0bedb7a0cc35f372d.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Busan Jazz Hiphop Concert [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/busan-jazz-hiphop-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/180/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/busan-jazz-hiphop-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/180/category/24/display/1/</guid>
-            <pubDate>Tue, 16 Jan 2024 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">68,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202309/8c93fb08767215729c58e40a6dcf1c26.png" length="0" type="image/png"/>
+            <title><![CDATA[Jazz ON Concert [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/jazz-on-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/164/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/jazz-on-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/164/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">30,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202308/85dd0c8f084060f27d8b1a91f665d62f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OOU Mini Festival [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/oou-mini-festival-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/151/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/oou-mini-festival-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/151/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">31,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202307/aca996f691113ceaddd0b48babab63fe.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Grace Jazz Concert [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/grace-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/128/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/grace-jazz-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/128/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">11,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/8a0cdd1070a71f98768fbff492e3533b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MUMU GREEN CONCERT [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/mumu-green-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/112/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/mumu-green-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/112/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">21,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/5a2f0342379db07d5051c46ec081c5c5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한 여름밤의 어쿠스틱 콘서트 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%ED%95%9C-%EC%97%AC%EB%A6%84%EB%B0%A4%EC%9D%98-%EC%96%B4%EC%BF%A0%EC%8A%A4%ED%8B%B1-%EC%BD%98%EC%84%9C%ED%8A%B8-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/107/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%ED%95%9C-%EC%97%AC%EB%A6%84%EB%B0%A4%EC%9D%98-%EC%96%B4%EC%BF%A0%EC%8A%A4%ED%8B%B1-%EC%BD%98%EC%84%9C%ED%8A%B8-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/107/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">23,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/509c1b9e38b588c052c8c44ba47d43ee.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오오유 하이엔드 콘서트 with 강성민트리오 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EA%B0%95%EC%84%B1%EB%AF%BC%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/101/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EA%B0%95%EC%84%B1%EB%AF%BC%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/101/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">24,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/592d2ae8c82b5a64715f389b51e374e7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오오유 위클리 하이엔드 콘서트 with 변지혜콰르텟 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%9C%84%ED%81%B4%EB%A6%AC-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EB%B3%80%EC%A7%80%ED%98%9C%EC%BD%B0%EB%A5%B4%ED%85%9F-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/100/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%9C%84%ED%81%B4%EB%A6%AC-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EB%B3%80%EC%A7%80%ED%98%9C%EC%BD%B0%EB%A5%B4%ED%85%9F-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/100/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">24,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/17a9c94b68ddb40303d4c47b8557d661.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오오유 위클리 하이엔드 콘서트 with 아코프로젝트 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%9C%84%ED%81%B4%EB%A6%AC-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EC%95%84%EC%BD%94%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/99/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%9C%84%ED%81%B4%EB%A6%AC-%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EC%95%84%EC%BD%94%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/99/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">24,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202306/33eb38b961fe1562c5c14d84c18bcba0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오오유 지브리 OST 콘서트 with 클랑앙상블 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%A7%80%EB%B8%8C%EB%A6%AC-ost-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%ED%81%B4%EB%9E%91%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/96/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%98%A4%EC%98%A4%EC%9C%A0-%EC%A7%80%EB%B8%8C%EB%A6%AC-ost-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%ED%81%B4%EB%9E%91%EC%95%99%EC%83%81%EB%B8%94-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/96/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">24,500원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202305/f77741587ade414cd7d91e70b753b653.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토곡요 재즈 살롱 콘서트 with 남달리 밴드 [공연종료] (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%ED%86%A0%EA%B3%A1%EC%9A%94-%EC%9E%AC%EC%A6%88-%EC%82%B4%EB%A1%B1-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EB%82%A8%EB%8B%AC%EB%A6%AC-%EB%B0%B4%EB%93%9C-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/92/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%ED%86%A0%EA%B3%A1%EC%9A%94-%EC%9E%AC%EC%A6%88-%EC%82%B4%EB%A1%B1-%EC%BD%98%EC%84%9C%ED%8A%B8-with-%EB%82%A8%EB%8B%AC%EB%A6%AC-%EB%B0%B4%EB%93%9C-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/92/category/24/display/1/</guid>
+            <pubDate>Wed, 17 Jan 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">19,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202305/4158aeadc9bc15b35a7ac5825e3610c2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024 (인디스트릿 ─ 공연 목록)]]></title>
@@ -660,6 +880,46 @@
 																			
 											
 										
+																		Coachella 2024																			N (페스티벌 라이프 ─ 해외 페스티벌)]]></title>
+            <link>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17621109&amp;t=board</link>
+            <guid>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17621109&amp;t=board</guid>
+            <pubDate>Wed, 17 Jan 2024 02:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17621109&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/189d9c32df409.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		Coachella 2024																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/189d9c32df409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
 																		후지록페스티벌 2024 개최 일정 (페스티벌 라이프 ─ 해외 페스티벌)]]></title>
             <link>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17428540&amp;t=board</link>
             <guid>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17428540&amp;t=board</guid>
@@ -1083,45 +1343,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230419/19b0204433241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		후지록페스티벌 2023 - 4차 라인업 (페스티벌 라이프 ─ 해외 페스티벌)]]></title>
-            <link>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14702159&amp;t=board</link>
-            <guid>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14702159&amp;t=board</guid>
-            <pubDate>Mon, 01 May 2023 12:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=14702159&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20230407/c51a6e2080bc5.png);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		후지록페스티벌 2023 - 4차 라인업									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20230407/c51a6e2080bc5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
