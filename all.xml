@@ -4,9 +4,202 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 01:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 02:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언플러그드 정기공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6237818456113152</link>
+            <guid>https://xindieticket.kr/tickets/6237818456113152</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">언플러그드 정기공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-25 (목) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6291829985116160" class="ng-binding" href="/map/6291829985116160">@언플러그드 홍대점</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 22,000원, 현매 25,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://docs.google.com/forms/d/e/1FAIpQLSdf5Q33DYVh9slWP5rwDSYUGRNm5_ih69r6d43g88CRhCt9cw/viewform " target="_blank" class="ng-scope" button-paymethod="FORM" href="https://docs.google.com/forms/d/e/1FAIpQLSdf5Q33DYVh9slWP5rwDSYUGRNm5_ih69r6d43g88CRhCt9cw/viewform ">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/tmnce-KI_bHfa_8MaaHygrpGX_5-z9vSlwtE29RBrd3jTIojad5QosM8NEv2lr1eYuBwb_Y-TK8u71epqbpkpwm9TqWkIG4aCbTCYA=s480" length="0" type="image//tmnce-KI_bHfa_8MaaHygrpGX_5-z9vSlwtE29RBrd3jTIojad5QosM8NEv2lr1eYuBwb_Y-TK8u71epqbpkpwm9TqWkIG4aCbTCYA=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[다정한 주민들 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6258778903150592</link>
+            <guid>https://xindieticket.kr/tickets/6258778903150592</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">다정한 주민들</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-26 (금) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5132029310009344" class="ng-binding" href="/map/5132029310009344">@All of Rock</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 35,000원, 현매 40,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/JlKvL6QJV29kpa2-BsJAgm85PmtWWvayxj_hXL1_m60GLned2NeuvlBr2da3W43_UcG1glOZVPQVIWR0IHeUBHg0a-4ZazggsemPKw=s480" length="0" type="image//JlKvL6QJV29kpa2-BsJAgm85PmtWWvayxj_hXL1_m60GLned2NeuvlBr2da3W43_UcG1glOZVPQVIWR0IHeUBHg0a-4ZazggsemPKw=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[집에만 있기는 그래서 Vol.1 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6241772946587648</link>
+            <guid>https://xindieticket.kr/tickets/6241772946587648</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">집에만 있기는 그래서 Vol.1</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-26 (금) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5733455795060736" class="ng-binding" href="/map/5733455795060736">@공상온도</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 30,000원, 현매 35,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://gongsangondo.shop/surl/P/2147 " target="_blank" class="ng-scope" button-paymethod="FORM" href="https://gongsangondo.shop/surl/P/2147 ">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/HypLRt63OsyC6Ns1wyFqw8ZyJXGfxGGVgKLvb2uxVSxuFEOiFcTAAJmb0FY-ZtYhX-bjvR9SzT7nVIqGWlVqK6w9rqrZsZvgCBs=s480" length="0" type="image//HypLRt63OsyC6Ns1wyFqw8ZyJXGfxGGVgKLvb2uxVSxuFEOiFcTAAJmb0FY-ZtYhX-bjvR9SzT7nVIqGWlVqK6w9rqrZsZvgCBs=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[MY AUNT MARY “DRIFT”－롤링 29주년 기념 공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6284925187653632</link>
+            <guid>https://xindieticket.kr/tickets/6284925187653632</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">MY AUNT MARY “DRIFT”－롤링 29주년 기념 공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-27 (토) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 77,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209259 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209259 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/vogt6U61ODrBEPWgUS76ydCpU4U-R5ONTZYeDTUlMDzU3US7AuBhg3A3Xgu6Rp5PZZXr-3C7gIZ6NEqqMvlwA1Tya87xzsMbjzRO=s480" length="0" type="image//vogt6U61ODrBEPWgUS76ydCpU4U-R5ONTZYeDTUlMDzU3US7AuBhg3A3Xgu6Rp5PZZXr-3C7gIZ6NEqqMvlwA1Tya87xzsMbjzRO=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club Debut 2nd Anniversary Concert (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/4834398063034368</link>
+            <guid>https://xindieticket.kr/tickets/4834398063034368</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Tuesday Beach Club Debut 2nd Anniversary Concert</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-27 (토) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 30,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/TKI52AleR6q4h1ar6_tbmkzyuMYh0hERjMzEuDFu9xG-IoOi1Y2_7ci-sDrNwp6qIYrGF1-jwxKJks4FXktaQPJj7EmvWQpgPg8=s480" length="0" type="image//TKI52AleR6q4h1ar6_tbmkzyuMYh0hERjMzEuDFu9xG-IoOi1Y2_7ci-sDrNwp6qIYrGF1-jwxKJks4FXktaQPJj7EmvWQpgPg8=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈웨스턴카잇（WESTERN KITE）〉 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6259129882509312</link>
+            <guid>https://xindieticket.kr/tickets/6259129882509312</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">TONE STUDIO LIVE 〈웨스턴카잇（WESTERN KITE）〉</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-27 (토) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6194238832246784" class="ng-binding" href="/map/6194238832246784">@톤 스튜디오</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 55,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209276 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209276 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/LWq5WogRUBqr94FXSW9JzMG-ebMs1I5awenDZY5LVV-MTX6GHmVKDve11Qy1YHXZwoscE43laDRcbO-a5kSo5hcmN5HPvOO4V-MT=s480" length="0" type="image//LWq5WogRUBqr94FXSW9JzMG-ebMs1I5awenDZY5LVV-MTX6GHmVKDve11Qy1YHXZwoscE43laDRcbO-a5kSo5hcmN5HPvOO4V-MT=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 공상온도 공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6267206434291712</link>
+            <guid>https://xindieticket.kr/tickets/6267206434291712</guid>
+            <pubDate>Wed, 24 Jan 2024 02:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">신해경 공상온도 공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-01-27 (토) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5733455795060736" class="ng-binding" href="/map/5733455795060736">@공상온도</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 39,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=209295 " target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=209295 ">
+		<div class="ng-binding">MELON</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/X7dZBPyd7f4lNU--yo7NYPH5SbLcxp2MwARZ8XWrsuo8lmroafcUVaCNTbvRgWElD_7y2YucRNVI-3wJtBFLrPGFOWx6j3gkD7U9sg=s480" length="0" type="image//X7dZBPyd7f4lNU--yo7NYPH5SbLcxp2MwARZ8XWrsuo8lmroafcUVaCNTbvRgWElD_7y2YucRNVI-3wJtBFLrPGFOWx6j3gkD7U9sg=s480"/>
+        </item>
         <item>
             <title><![CDATA[Jinju Jazz Night with Play Smooth (모우미)]]></title>
             <link>https://moumi-shop.com/product/jinju-jazz-night-with-play-smooth/274/category/24/display/1/</link>
@@ -1128,6 +1321,446 @@
 																			
 											
 										
+																		신지훈 단독 콘서트 ‘눈이 녹은 자리’：롤링 29주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725120&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725120&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725120&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/1a0086c849733.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		신지훈 단독 콘서트 ‘눈이 녹은 자리’：롤링 29주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/1a0086c849733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		2024 KUENSORI FEST（큰소리 페스트）																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725069&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725069&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17725069&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/7baed69a05099.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		2024 KUENSORI FEST（큰소리 페스트）																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/7baed69a05099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		노브레인 단독 콘서트 ‘노래부인’：롤링 29주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724938&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724938&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724938&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/c39256c5dd078.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		노브레인 단독 콘서트 ‘노래부인’：롤링 29주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/c39256c5dd078.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		민트페스타 vol.72 SENSIBILITY																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724666&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724666&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724666&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/e67225eec84b4.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		민트페스타 vol.72 SENSIBILITY																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/e67225eec84b4.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		［78AVENUE］ 78LIVE - 김효린																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724625&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724625&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724625&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/da0cb696576b7.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		［78AVENUE］ 78LIVE - 김효린																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/da0cb696576b7.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		2024 YB TOUR LIGHTS : INFINITY - 대구																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724584&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724584&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724584&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/39444ecf24de2.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		2024 YB TOUR LIGHTS : INFINITY - 대구																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/39444ecf24de2.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		재주소년 20주년 기념 전국투어 - 광주																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724537&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724537&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724537&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/69f66291ed759.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		재주소년 20주년 기념 전국투어 - 광주																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/69f66291ed759.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		재주소년 20주년 기념 전국투어 - 부산 〈스무살의 대모험〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724511&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724511&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724511&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/164c7e9243a1f.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		재주소년 20주년 기념 전국투어 - 부산 〈스무살의 대모험〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/164c7e9243a1f.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		재주소년 20주년 기념 전국투어 - 서울 〈스무살의 대모험〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724470&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724470&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724470&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/c199c47c48031.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		재주소년 20주년 기념 전국투어 - 서울 〈스무살의 대모험〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/c199c47c48031.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		팔칠댄스(87DANCE) 단독콘서트																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724451&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724451&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724451&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/b3ad8c1333f14.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		팔칠댄스(87DANCE) 단독콘서트																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/b3ad8c1333f14.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		옥상달빛 <옥탑라됴>																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724423&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724423&amp;t=board</guid>
+            <pubDate>Wed, 24 Jan 2024 02:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17724423&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240124/d0a4d3879e10f.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		옥상달빛 &lt;옥탑라됴&gt;																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240124/d0a4d3879e10f.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
 																		Colors (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626295&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626295&amp;t=board</guid>
@@ -1161,435 +1794,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20240117/c1cc19d81a401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		변하은 단독 콘서트 ‘The Fool’：롤링 29주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626260&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626260&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626260&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/6b78aa74df2d1.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		변하은 단독 콘서트 ‘The Fool’：롤링 29주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/6b78aa74df2d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		펜텐 단독 콘서트 ‘Rekindling of the Youth’：롤링 29주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626241&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626241&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626241&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/df701902867ac.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		펜텐 단독 콘서트 ‘Rekindling of the Youth’：롤링 29주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/df701902867ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		9 단독콘서트 ‘고고학써클 2024 신년회’ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626143&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626143&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17626143&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/1e6fdda83c4c4.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		9 단독콘서트 ‘고고학써클 2024 신년회’									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/1e6fdda83c4c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		신해경 공상온도 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625999&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625999&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625999&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/f91714f059e3a.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		신해경 공상온도 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/f91714f059e3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		2024 구원찬 소극장 단독공연 〈HOMESICK〉 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625828&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625828&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625828&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/0fe12904b0187.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		2024 구원찬 소극장 단독공연 〈HOMESICK〉									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/0fe12904b0187.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		밴드 소란 콘서트 〈고백하기 직전〉 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625798&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625798&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625798&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/376dab5c63059.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		밴드 소란 콘서트 〈고백하기 직전〉									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/376dab5c63059.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		김창완밴드 콘서트 - 부천 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625764&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625764&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625764&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/fc70a43fb4621.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		김창완밴드 콘서트 - 부천									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/fc70a43fb4621.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		MPMG WEEK 2024 : AND#41 - Chan, ecru(에크루), homezone (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625738&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625738&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625738&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/1316c28ed0290.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		MPMG WEEK 2024 : AND#41 - Chan, ecru(에크루), homezone									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/1316c28ed0290.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		MPMG WEEK 2024 : 78LIVE - naru(나루) (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625698&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625698&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625698&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/7bfee13b50411.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		MPMG WEEK 2024 : 78LIVE - naru(나루)									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/7bfee13b50411.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		MPMG WEEK 2024 : 78LIVE - 구만(9.10000) (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625685&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625685&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 07:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625685&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/1dce720885675.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		MPMG WEEK 2024 : 78LIVE - 구만(9.10000)									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/1dce720885675.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		MPMG WEEK 2024 : 78LIVE - OurR(아월) (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625662&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625662&amp;t=board</guid>
-            <pubDate>Wed, 17 Jan 2024 07:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17625662&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240117/70c7edc5bd25a.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		MPMG WEEK 2024 : 78LIVE - OurR(아월)									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240117/70c7edc5bd25a.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[공지
