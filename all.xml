@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 06:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
 	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/o2O23xdy-JmyIsFiaDZhBkT3Yf8_L1ZWHbJ6TlY4jdpjCG1lvF7l-FELy1_RhJIRAI-CoJWLKy-ERQR42sqRI1SJuKq-kV9aU9jgag=s480" length="0" type="image//o2O23xdy-JmyIsFiaDZhBkT3Yf8_L1ZWHbJ6TlY4jdpjCG1lvF7l-FELy1_RhJIRAI-CoJWLKy-ERQR42sqRI1SJuKq-kV9aU9jgag=s480"/>
+            <enclosure url="http://lh3.googleusercontent.com/NqYa5-aIQ5oJEpqNoDATUFQ71nOceB36GBWcx_zh7Wuj6F6aWadbOXqQHm3J9WtNbQqQ8AYFYYXEOKNBkoF2SPcqTnIpNdJr_R3X=s480" length="0" type="image//NqYa5-aIQ5oJEpqNoDATUFQ71nOceB36GBWcx_zh7Wuj6F6aWadbOXqQHm3J9WtNbQqQ8AYFYYXEOKNBkoF2SPcqTnIpNdJr_R3X=s480"/>
         </item>
         <item>
             <title><![CDATA[Dreams of Love (XINDIE ─ TICKET)]]></title>
