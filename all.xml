@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 01:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,42 +150,82 @@
             <link>https://indistreet.com/live/6077</link>
             <guid>https://indistreet.com/live/6077</guid>
             <pubDate>Mon, 05 Feb 2024 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6077" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SWANKY DANK LIVE IN SEOUL 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SWANKY DANK LIVE IN SEOUL</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2024년 3월 30일 토요일 오전 09시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4184" href="/musicians/4184" class="css-1xgh37a"><span class="css-t9od3v">SWANKY DANK</span></a></div><div class="css-d9h50v">25일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6077" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SWANKY DANK LIVE IN SEOUL 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Mon_Feb_05_2024_12_16_24_GMT_0900_0b48f9e12c.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SWANKY DANK LIVE IN SEOUL</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2024년 3월 30일 토요일 오전 09시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4184" href="/musicians/4184" class="css-1xgh37a"><span class="css-t9od3v">SWANKY DANK</span></a></div><div class="css-d9h50v">24일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<크라잉넛 단독 콘서트 'Spring Roll' : 롤링 29주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6137</link>
             <guid>https://indistreet.com/live/6137</guid>
             <pubDate>Tue, 27 Feb 2024 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6137" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<크라잉넛 단독 콘서트 'Spring Roll' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;크라잉넛 단독 콘서트 'Spring Roll' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 30일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="315" href="/musicians/315" class="css-1xgh37a"><span class="css-t9od3v">크라잉넛</span></a></div><div class="css-d9h50v">25일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6137" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<크라잉넛 단독 콘서트 'Spring Roll' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_12_59_36_GMT_0900_6004d70f17.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;크라잉넛 단독 콘서트 'Spring Roll' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 30일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="315" href="/musicians/315" class="css-1xgh37a"><span class="css-t9od3v">크라잉넛</span></a></div><div class="css-d9h50v">24일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[막주금라이브 Vol.27 [숨비] (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6164</link>
             <guid>https://indistreet.com/live/6164</guid>
             <pubDate>Thu, 29 Feb 2024 01:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6164" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="막주금라이브 Vol.27 [숨비] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">막주금라이브 Vol.27 [숨비]</p><p class="chakra-text css-0">장소: Cafe PPnF</p><p class="chakra-text css-0">날짜: 2024년 3월 29일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="356" href="/musicians/356" class="css-1xgh37a"><span class="css-t9od3v">숨비</span></a></div><div class="css-d9h50v">24일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6164" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="막주금라이브 Vol.27 [숨비] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20240222_104803831_0e1359e297.png&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">막주금라이브 Vol.27 [숨비]</p><p class="chakra-text css-0">장소: Cafe PPnF</p><p class="chakra-text css-0">날짜: 2024년 3월 29일 금요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="356" href="/musicians/356" class="css-1xgh37a"><span class="css-t9od3v">숨비</span></a></div><div class="css-d9h50v">23일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[✨2024 몽니 콘서트: Eternal Memories (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6055</link>
             <guid>https://indistreet.com/live/6055</guid>
             <pubDate>Wed, 31 Jan 2024 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6055" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="✨2024 몽니 콘서트: Eternal Memories 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">✨2024 몽니 콘서트: Eternal Memories</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2024년 3월 24일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4174" href="/musicians/4174" class="css-1xgh37a"><span class="css-t9od3v">몽니</span></a></div><div class="css-d9h50v">19일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6055" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="✨2024 몽니 콘서트: Eternal Memories 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Wed_Jan_31_2024_18_01_44_GMT_0900_1cc4c3528a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">✨2024 몽니 콘서트: Eternal Memories</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2024년 3월 24일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4174" href="/musicians/4174" class="css-1xgh37a"><span class="css-t9od3v">몽니</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<예빈나다 단독 콘서트 'Stay with me' : 롤링 29주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6138</link>
             <guid>https://indistreet.com/live/6138</guid>
             <pubDate>Tue, 27 Feb 2024 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6138" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<예빈나다 단독 콘서트 'Stay with me' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;예빈나다 단독 콘서트 'Stay with me' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 24일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4228" href="/musicians/4228" class="css-1xgh37a"><span class="css-t9od3v">예빈나다</span></a></div><div class="css-d9h50v">19일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6138" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<예빈나다 단독 콘서트 'Stay with me' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_01_33_GMT_0900_3048034fbb.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;예빈나다 단독 콘서트 'Stay with me' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 24일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4228" href="/musicians/4228" class="css-1xgh37a"><span class="css-t9od3v">예빈나다</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<블랙홀 단독 콘서트 '블랙홀 2024' : 롤링 29주년 기념 공연> (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6139</link>
             <guid>https://indistreet.com/live/6139</guid>
             <pubDate>Tue, 27 Feb 2024 04:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6139" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<블랙홀 단독 콘서트 '블랙홀 2024' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;블랙홀 단독 콘서트 '블랙홀 2024' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 23일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="2106" href="/musicians/2106" class="css-1xgh37a"><span class="css-t9od3v">블랙홀</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6139" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="<블랙홀 단독 콘서트 '블랙홀 2024' : 롤링 29주년 기념 공연> 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_27_2024_13_06_21_GMT_0900_c595c4a60f.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">&lt;블랙홀 단독 콘서트 '블랙홀 2024' : 롤링 29주년 기념 공연&gt;</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 3월 23일 토요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="2106" href="/musicians/2106" class="css-1xgh37a"><span class="css-t9od3v">블랙홀</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		버저비트 페스티벌 2024																			N (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
+            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317235&amp;t=board</link>
+            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317235&amp;t=board</guid>
+            <pubDate>Wed, 06 Mar 2024 01:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317235&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240306/49c9de3f633f9.png);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		버저비트 페스티벌 2024																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/49c9de3f633f9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -621,45 +661,6 @@
 																			
 											
 										
-																		라우드 브릿지 페스티벌 2024 - 1차 라인업 (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
-            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17537535&amp;t=board</link>
-            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17537535&amp;t=board</guid>
-            <pubDate>Tue, 09 Jan 2024 14:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=17537535&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240109/6e6ec77acce0d.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		라우드 브릿지 페스티벌 2024 - 1차 라인업									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240109/6e6ec77acce0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
 																		후지록페스티벌 2024 - 2차 라인업 (페스티벌 라이프 ─ 해외 페스티벌)]]></title>
             <link>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18251485&amp;t=board</link>
             <guid>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18251485&amp;t=board</guid>
@@ -693,8 +694,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240301d9b66f77ff35e" style="display: none" onclick="clickLike('p20240301d9b66f77ff35e'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj" value="1156">
+													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdpHGhVk9cvzVFvjMtNXUEnQMKnCUgcUOdxRZNcanH7rCa9bA+hQlvdZhTe3kg6jNXZEPYq1WvA8NEq13Rj3uVIY">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -716,7 +717,7 @@
 												2024-03-01											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													230												</small>
+													233												</small>
 																					</div>
 									</div>
 								</div>
@@ -764,8 +765,8 @@
 																					<small class="cmt like_btn " id="like_btn_p2024022156b67b0a9750d" style="display: none" onclick="clickLike('p2024022156b67b0a9750d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj" value="1250">
+													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdqlwbGPKc/yGMAlGoyB/tXDph/S+9biuIQCKy0uyl1/0sjvBgQ1gSH+4Ku4VpskTzCyTeloTdBBcmDxunddYPNK">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -835,8 +836,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202402091b61043657365" style="display: none" onclick="clickLike('p202402091b61043657365'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj" value="3955">
+													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdoSTN48AARi9W2tFSQNLluBS2RMiZqtf19wOZdQo7UBOuLVT7MyKemx8e745N6DbazYaEYjYBGvo84FtKvwgUA6">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -858,7 +859,7 @@
 												2024-02-09											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1149												</small>
+													1150												</small>
 																					</div>
 									</div>
 								</div>
@@ -906,8 +907,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202401171fe22dc871a4d" style="display: none" onclick="clickLike('p202401171fe22dc871a4d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj" value="2085">
+													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdppDwCbgP6Rtt2KaIwJ6iRiNAv+kYFB1qq2FlXQJu/uIQB90KQbPPFwCSDeYsN6fJYE7+FRbTtOiUeq8bngPC4P">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -929,7 +930,7 @@
 												2024-01-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													726												</small>
+													727												</small>
 																					</div>
 									</div>
 								</div>
@@ -977,8 +978,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202401013224830099d77" style="display: none" onclick="clickLike('p202401013224830099d77'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202401013224830099d77" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202401013224830099d77" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202401013224830099d77" class="_tk_key_obj" value="9483">
+													<input type="hidden" id="like_token_p202401013224830099d77" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3Kdqy09r6kOVYEeNIoo4ZGRMR05/RpdndaBJSDWYHYoIvNDYN6C0jzkwzL0Jj2KtqBl6YYEI2opyrWZiHsNC4o1Tj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1048,8 +1049,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20231226468eb8bdaf7fa" style="display: none" onclick="clickLike('p20231226468eb8bdaf7fa'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20231226468eb8bdaf7fa" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20231226468eb8bdaf7fa" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20231226468eb8bdaf7fa" class="_tk_key_obj" value="4411">
+													<input type="hidden" id="like_token_p20231226468eb8bdaf7fa" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdrouoTlLLoV6KezBOx1XsLtBOxQ0YaHkMAm114vKSJ7hufL7uWvtS+A0yqI55zU4Nm2+jrWaK07IU4I/OdAQXoE">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1071,7 +1072,7 @@
 												2023-12-26											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2292												</small>
+													2293												</small>
 																					</div>
 									</div>
 								</div>
@@ -1119,8 +1120,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20231124659ee0c7aacfd" style="display: none" onclick="clickLike('p20231124659ee0c7aacfd'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20231124659ee0c7aacfd" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20231124659ee0c7aacfd" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20231124659ee0c7aacfd" class="_tk_key_obj" value="1784">
+													<input type="hidden" id="like_token_p20231124659ee0c7aacfd" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdoGzxeD+eO6N+QFLEc3V2szfi9nXb6Ov5KHdI6qHxyR59dy2T9PQ8Zmmv7+goiglAg9EMcxPYVqVJCHEpvTOMjV">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1190,8 +1191,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20230929e4562d920ae1e" style="display: none" onclick="clickLike('p20230929e4562d920ae1e'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20230929e4562d920ae1e" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20230929e4562d920ae1e" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20230929e4562d920ae1e" class="_tk_key_obj" value="6778">
+													<input type="hidden" id="like_token_p20230929e4562d920ae1e" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3Kdr5NX3AgWn0IseA78neVzqAI7a4VBASC+KV47HBOfhBITU1IApuZUJ2XWcoB1t4BsJKhD1LMi+1x36BYkw6SGbe">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1261,8 +1262,8 @@
 																					<small class="cmt like_btn " id="like_btn_p2023092175989ee9a36a7" style="display: none" onclick="clickLike('p2023092175989ee9a36a7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p2023092175989ee9a36a7" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p2023092175989ee9a36a7" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p2023092175989ee9a36a7" class="_tk_key_obj" value="3869">
+													<input type="hidden" id="like_token_p2023092175989ee9a36a7" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdptNHenJLg7ZAsfvghwlN16FgW/jF5T7+8GCYYo/OoDHSbvaRGAqn+41xKGnBVWpmUjQuTs6dY5hdtGtgjK2Nmo">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1332,8 +1333,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20230707358369e054e40" style="display: none" onclick="clickLike('p20230707358369e054e40'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20230707358369e054e40" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20230707358369e054e40" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20230707358369e054e40" class="_tk_key_obj" value="7480">
+													<input type="hidden" id="like_token_p20230707358369e054e40" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdozluaL8QBZ6Isnz9Ud0QsHdUm0PQD1xXPMwHMwfkxgS33xnrIce4pd9tT7R/vcV8sh+NA14gyqdtzXfPJgDziW">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1355,7 +1356,7 @@
 												2023-07-07											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2113												</small>
+													2114												</small>
 																					</div>
 									</div>
 								</div>
@@ -1403,8 +1404,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202306021a25b83b9a273" style="display: none" onclick="clickLike('p202306021a25b83b9a273'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202306021a25b83b9a273" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202306021a25b83b9a273" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202306021a25b83b9a273" class="_tk_key_obj" value="7372">
+													<input type="hidden" id="like_token_p202306021a25b83b9a273" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3Kdp4Acd78atygAxurg+YoxgZDoY+DtyAyCIcApMZ8WimZNsIFJ69gkIv9Fv7Ckc66volT5ONo7llzyW9RQeMGEwS">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1474,8 +1475,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202305250669cf01fdba5" style="display: none" onclick="clickLike('p202305250669cf01fdba5'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202305250669cf01fdba5" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202305250669cf01fdba5" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202305250669cf01fdba5" class="_tk_key_obj" value="1513">
+													<input type="hidden" id="like_token_p202305250669cf01fdba5" class="_tk_obj" value="jbrpCUkATr6mfVyG5rab78kUonzyE6XRkh1E45Z3KdriPGWsU26Acbwo3IXhm5eufrhSWDDJDrIXzsMvjwjS51RGr4O+pVXSdi0u80H17G0xfMQhn9TD3owYHuXbZMKO">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1506,6 +1507,166 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20230525/439c7ff2a5b14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		다양성＆Mood 밴드 콘서트 〈My Wish〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317396&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317396&amp;t=board</guid>
+            <pubDate>Wed, 06 Mar 2024 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317396&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240306/1d927a7690509.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		다양성＆Mood 밴드 콘서트 〈My Wish〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/1d927a7690509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		기프트 단독콘서트 〈SUNFLOWER〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317366&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317366&amp;t=board</guid>
+            <pubDate>Wed, 06 Mar 2024 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317366&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240306/ef2f134f1a5ec.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		기프트 단독콘서트 〈SUNFLOWER〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/ef2f134f1a5ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		스킵잭 단독 콘서트 ‘Undisclosed Desires’：롤링 29주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317347&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317347&amp;t=board</guid>
+            <pubDate>Wed, 06 Mar 2024 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317347&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240306/28433b9285cdb.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		스킵잭 단독 콘서트 ‘Undisclosed Desires’：롤링 29주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/28433b9285cdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		2024 YB TOUR LIGHTS ; INFINITY - 고양																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317288&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317288&amp;t=board</guid>
+            <pubDate>Wed, 06 Mar 2024 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18317288&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240306/7f19e0df12bd7.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		2024 YB TOUR LIGHTS ; INFINITY - 고양																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240306/7f19e0df12bd7.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -1818,162 +1979,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20240228/fc52d9843c53c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		김마리 단독 콘서트 “I Got U！”：롤링 29주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125463&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125463&amp;t=board</guid>
-            <pubDate>Wed, 21 Feb 2024 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125463&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240221/22d33e075f9a4.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		김마리 단독 콘서트 “I Got U！”：롤링 29주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240221/22d33e075f9a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		Monday Off With Bluesy 단독 콘서트 “Midnight blue”：롤링 29주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125454&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125454&amp;t=board</guid>
-            <pubDate>Wed, 21 Feb 2024 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125454&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240221/d431db065cf60.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		Monday Off With Bluesy 단독 콘서트 “Midnight blue”：롤링 29주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240221/d431db065cf60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		누군가의 플레이리스트 Track．72 재만 단독콘서트 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125439&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125439&amp;t=board</guid>
-            <pubDate>Wed, 21 Feb 2024 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125439&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240221/1c4541066dde5.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		누군가의 플레이리스트 Track．72 재만 단독콘서트									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240221/1c4541066dde5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125424&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125424&amp;t=board</guid>
-            <pubDate>Wed, 21 Feb 2024 11:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=18125424&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240221/4623320e48bde.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240221/4623320e48bde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
