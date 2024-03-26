@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 10:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 11:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Friday Jazz Concert in Node (모우미)]]></title>
+            <link>https://moumi-shop.com/product/friday-jazz-concert-in-node/282/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/friday-jazz-concert-in-node/282/category/24/display/1/</guid>
+            <pubDate>Tue, 26 Mar 2024 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">75,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202403/57e1d40ff08128f6a34fc7cbbcd72eca.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Romantic Jazz Concert (모우미)]]></title>
             <link>https://moumi-shop.com/product/romantic-jazz-concert/281/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Mar 2024 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202311/0e86bb31f62bf111a1abe126fb3791db.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모우미 뮤직 페스티벌 Fun&Cool stage [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%EB%AE%A4%EC%A7%81-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-funcool-stage-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/219/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EB%AA%A8%EC%9A%B0%EB%AF%B8-%EB%AE%A4%EC%A7%81-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-funcool-stage-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/219/category/24/display/1/</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:14px;color:#888888;">소비자가</span> :</strong> <span style="font-size:14px;color:#888888;text-decoration:line-through;">50,000원</span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/3512f2e87aa129c7af52d3f564fc5617.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제시+알버트(Jesse Barrera + Albert Posis) 내한공연 (인디스트릿 ─ 공연 목록)]]></title>
