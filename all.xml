@@ -4,38 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[BUTCHER ABC LIVE IN KOREA (XINDIE ─ TICKET)]]></title>
-            <link>https://xindieticket.kr/tickets/6247204100505600</link>
-            <guid>https://xindieticket.kr/tickets/6247204100505600</guid>
-            <pubDate>Wed, 27 Mar 2024 01:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">BUTCHER ABC LIVE IN KOREA</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2024-03-31 (일) 08:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/6239134259609600" class="ng-binding" href="/map/6239134259609600">@클럽 빅팀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 20,000원 현매 : 25,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://www.instagram.com/p/C2zTMwepBXn/" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://www.instagram.com/p/C2zTMwepBXn/">
-		<div class="ng-binding">FORM</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
-		<div class="ng-binding">현장구매</div>
-	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/y7VgmWHEGP5c8ilbtOTY5p8ApltMRA4OZ8zT3oe59Pnn8ZbBiA74ROmKB4wLWgKInhAFqjT9YGBkfs2TQsxEZT9qSlcI6QAL2apkCw=s480" length="0" type="image//y7VgmWHEGP5c8ilbtOTY5p8ApltMRA4OZ8zT3oe59Pnn8ZbBiA74ROmKB4wLWgKInhAFqjT9YGBkfs2TQsxEZT9qSlcI6QAL2apkCw=s480"/>
-        </item>
         <item>
             <title><![CDATA[Friday Jazz Concert in Node (모우미)]]></title>
             <link>https://moumi-shop.com/product/friday-jazz-concert-in-node/282/category/24/display/1/</link>
@@ -722,8 +693,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240329dc88f8533aabf" style="display: none" onclick="clickLike('p20240329dc88f8533aabf'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj" value="1021">
-													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73SFvs9dCGCGNhGPl6w2bTrCxKU/D42A+6X4GfT5kHp6wy/WKyK0aU6jTqK2Qh0VlAgOoLyyb0ATXX7BIs/k2CkQ">
+													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -745,7 +716,7 @@
 												2024-03-29											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													131												</small>
+													134												</small>
 																					</div>
 									</div>
 								</div>
@@ -793,8 +764,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403279c1e8d3f07250" style="display: none" onclick="clickLike('p202403279c1e8d3f07250'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj" value="322">
-													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73Tn/Ar0s6oIxsY85Z1tR4GWA+8bgL90iYBcPDMJ2xWOdtLMd0gUecIhJz0QGUzf0+FrOtJUJizIafsdhLDyi98p">
+													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -816,7 +787,7 @@
 												2024-03-27											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													212												</small>
+													214												</small>
 																					</div>
 									</div>
 								</div>
@@ -864,8 +835,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240321fdc286d5fa379" style="display: none" onclick="clickLike('p20240321fdc286d5fa379'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj" value="326">
-													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73Sx5YrsLiqe1fChjQhNy8aLd0k/vLe9vUxngweSWi/Y7TlAT6eJSilQr7TszhymEwux836kL3EgWhkqw87+fuqn">
+													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -935,8 +906,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240320cd66d544fec87" style="display: none" onclick="clickLike('p20240320cd66d544fec87'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj" value="4443">
-													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73TiSaO8U1zz4/Ff2lzlQa1ZIUE1mfqX+g4qxUNDyQ5pDuRyWboHVMvilsA07KsLD6M2PAdOSmK9C6P/lKRrKkGT">
+													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1006,8 +977,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403157fdd223b939d2" style="display: none" onclick="clickLike('p202403157fdd223b939d2'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj" value="2949">
-													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73S0oLzQ7QAfgODFgtAh7fcNW9Hw0WRKN5hg6GTn7LmxswqUjxkyrgx2RMtUrGAh/cx6n8GDrYA4w5FBgy3Wi4PF">
+													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1077,8 +1048,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a3f6964dbdf55" style="display: none" onclick="clickLike('p20240314a3f6964dbdf55'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj" value="611">
-													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73S3nMXKNNHNW46jAuXGwuZESvUQcvfrUZsJoC1bZmINJLCkVl5jFWDO5IKh60CDvvAH6n02Zp3oFyCju3EMuGsv">
+													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1100,7 +1071,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													491												</small>
+													492												</small>
 																					</div>
 									</div>
 								</div>
@@ -1148,8 +1119,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a47e4c450657b" style="display: none" onclick="clickLike('p20240314a47e4c450657b'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj" value="7051">
-													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73T2xUv42bRj+HypsQTqVJPDcSGlgqidz0tH6f+Ukn/3HBKIrK2KLiBBbVeBB6mW8yU+3iqJK8lNsBdBjaqdgdz7">
+													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1171,7 +1142,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													776												</small>
+													777												</small>
 																					</div>
 									</div>
 								</div>
@@ -1219,8 +1190,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240301d9b66f77ff35e" style="display: none" onclick="clickLike('p20240301d9b66f77ff35e'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj" value="8068">
-													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73T1Zhu6XlvMI7tEESRRzUFzvfe6hDGLRgrthhzs5ouc09Md5JII4OAPaP4hJsPTpsvumG0s93laViKO4f4IQIaG">
+													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1290,8 +1261,8 @@
 																					<small class="cmt like_btn " id="like_btn_p2024022156b67b0a9750d" style="display: none" onclick="clickLike('p2024022156b67b0a9750d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj" value="5880">
-													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73T2+W4lMU1F1aq/itjaiQB9KGqX7Ehv0GkTROy8iJVn9csEzd2+XbwWnYwRdSB5ZeaclqDlO9pe2aApBoBPZ4V3">
+													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1313,7 +1284,7 @@
 												2024-02-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1735												</small>
+													1736												</small>
 																					</div>
 									</div>
 								</div>
@@ -1361,8 +1332,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202402091b61043657365" style="display: none" onclick="clickLike('p202402091b61043657365'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj" value="2294">
-													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73RreVbhFV95uKxlF+zRsFijlDCqnsCtaJDt1AsqSRUJcq06rHY8KdAahdeWAUX9PvJq7z3mxkvZJb/PutuwOb0G">
+													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1432,8 +1403,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202401171fe22dc871a4d" style="display: none" onclick="clickLike('p202401171fe22dc871a4d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj" value="7773">
-													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73T+J7EsfwIH0Ak06walbuvizEF2S1D94mXMnbhkriIfqbUgwbPyhomuYn0VwZl/a6SCyGBnuIFOyNEcq/YPyeAY">
+													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1455,7 +1426,7 @@
 												2024-01-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													939												</small>
+													940												</small>
 																					</div>
 									</div>
 								</div>
@@ -1503,8 +1474,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202401013224830099d77" style="display: none" onclick="clickLike('p202401013224830099d77'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202401013224830099d77" class="_tk_key_obj" value="5621">
-													<input type="hidden" id="like_token_p202401013224830099d77" class="_tk_obj" value="mloyfPoBDUIHOEZGWzOmhrT7s45cTc+pmE93/ksA73RVFQsrB6RBzT1kMtIqKjj8Tkk9FGgXEkAKDO5B212Ab+r0b/0e5ljvdHuNXMu6gs1YSNqFqIGH89wqJEJHJXM9">
+													<input type="hidden" id="like_token_key_p202401013224830099d77" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202401013224830099d77" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
