@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 08:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 09:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진주] EEUM Picnic Concert (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%A7%84%EC%A3%BC-eeum-picnic-concert/284/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%A7%84%EC%A3%BC-eeum-picnic-concert/284/category/24/display/1/</guid>
+            <pubDate>Tue, 02 Apr 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202404/1756db7266608d05242ab63fd845ccdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사천] Thursday Jazz Night (모우미)]]></title>
+            <link>https://moumi-shop.com/product/%EC%82%AC%EC%B2%9C-thursday-jazz-night/283/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EC%82%AC%EC%B2%9C-thursday-jazz-night/283/category/24/display/1/</guid>
+            <pubDate>Tue, 02 Apr 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">25,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202404/5e6db7522920800f2fa2296975791f2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[진주] Friday Jazz Concert in Node (모우미)]]></title>
             <link>https://moumi-shop.com/product/%EC%A7%84%EC%A3%BC-friday-jazz-concert-in-node/282/category/24/display/1/</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 20 Mar 2024 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">75,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202312/0b739eb75e0f3fb7f1fce2a807c3f1bd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Potluck Wine Concert [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/potluck-wine-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/237/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/potluck-wine-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/237/category/24/display/1/</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">28,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/278b9bb71fedfb7b7c24aecd45737ff5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JINJU JAZZ NIGHT with 장보영 트리오 [공연종료] (모우미)]]></title>
-            <link>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%9E%A5%EB%B3%B4%EC%98%81-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/225/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/jinju-jazz-night-with-%EC%9E%A5%EB%B3%B4%EC%98%81-%ED%8A%B8%EB%A6%AC%EC%98%A4-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/225/category/24/display/1/</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202311/0e86bb31f62bf111a1abe126fb3791db.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제시+알버트(Jesse Barrera + Albert Posis) 내한공연 (인디스트릿 ─ 공연 목록)]]></title>
