@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 09:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 10:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -835,8 +835,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240410e49febef93fd7" style="display: none" onclick="clickLike('p20240410e49febef93fd7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj" value="6904">
-													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBJomvq0NzynEdjfyl2o7iRI5FOT6RIxqWcJc5gNfxXQ77MT9VO+1Rm2Kc8eRdPnx+k5E08wh6fHG+7/uoP9UrCl">
+													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -855,10 +855,10 @@
 											<div class="writer">
 																																															</div>
 											<small class="date" title="2024-04-10 15:14" style="display: ">
-												2시간전											</small>
+												4시간전											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													9												</small>
+													13												</small>
 																					</div>
 									</div>
 								</div>
@@ -906,8 +906,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240329dc88f8533aabf" style="display: none" onclick="clickLike('p20240329dc88f8533aabf'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj" value="3336">
-													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBKhAUVQ0cBGQ1iUWv+lbXHhnB6wqHM9X/8BGrpLmB4Ea/nSUsTUQEXlh9Kk5AlhKJDdWc8ViVfxuWmoNGvCGMSi">
+													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -929,7 +929,7 @@
 												2024-03-29											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													432												</small>
+													435												</small>
 																					</div>
 									</div>
 								</div>
@@ -977,8 +977,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403279c1e8d3f07250" style="display: none" onclick="clickLike('p202403279c1e8d3f07250'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj" value="7403">
-													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBJ1YGUe8tY3Wpvbr3fVgCfkSeo0Pxm/enNu9N2v38B30kCL3ClWbI7IBCUNuYeAB6PNLo+94Ats0fdWe955gQH5">
+													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1048,8 +1048,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240321fdc286d5fa379" style="display: none" onclick="clickLike('p20240321fdc286d5fa379'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj" value="9581">
-													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBKWSs0F7z0zrUX/K5FAZMQ0jWxWuGCptH5E49NLvOwKrkloO3XrevbufSKfsnkx93hsB/i/VxhnDCMKXsZf5vA5">
+													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1071,7 +1071,7 @@
 												2024-03-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													253												</small>
+													254												</small>
 																					</div>
 									</div>
 								</div>
@@ -1119,8 +1119,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240320cd66d544fec87" style="display: none" onclick="clickLike('p20240320cd66d544fec87'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj" value="4913">
-													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBLSazWW9RI3cfXLEz0Gb52jRAEDybyk7/eZ7XIjuUF5rOIHjRU/FKMTa21eUyf7vUqE3FcxtidPO4f9ot9jwWLF">
+													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1190,8 +1190,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403157fdd223b939d2" style="display: none" onclick="clickLike('p202403157fdd223b939d2'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj" value="7897">
-													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBKNdRgm/stS992eYpOTErbmCOr7a3G3sb3kZBRHtbYVdu2a9ILDaJv2VZrDn+tUWdQ4oJ1kHQKTUlJRUJj7fRux">
+													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1261,8 +1261,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a3f6964dbdf55" style="display: none" onclick="clickLike('p20240314a3f6964dbdf55'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj" value="8659">
-													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBKUzTXsVC3+nuXODHPJ+rGfMWSw7odSEcxUEpB9IuBqp0ss69cgBonP5XIZUzX4T8q8yMZ+lOi7QY2RpRsJrV8b">
+													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1284,7 +1284,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													635												</small>
+													636												</small>
 																					</div>
 									</div>
 								</div>
@@ -1332,8 +1332,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a47e4c450657b" style="display: none" onclick="clickLike('p20240314a47e4c450657b'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj" value="9243">
-													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBIXfH4SeNozftCGZrRZlSIn5n9mjRJumCdpuX5uyEZPL0zZcCWatQyxi4GsgfPoepAT+0eUsHuk0i3b5xA17zLC">
+													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1355,7 +1355,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1050												</small>
+													1051												</small>
 																					</div>
 									</div>
 								</div>
@@ -1403,8 +1403,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240301d9b66f77ff35e" style="display: none" onclick="clickLike('p20240301d9b66f77ff35e'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj" value="5111">
-													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBLewmqkJLq9kKgg/JVI/1QO1xY/lH3ybRsF2CO4JLIO/3bcBIxtqDa+LeHzaeuWJzhd+Y+2GkH866uak+rk9h+q">
+													<input type="hidden" id="like_token_key_p20240301d9b66f77ff35e" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240301d9b66f77ff35e" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1474,8 +1474,8 @@
 																					<small class="cmt like_btn " id="like_btn_p2024022156b67b0a9750d" style="display: none" onclick="clickLike('p2024022156b67b0a9750d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj" value="9530">
-													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBKyFGal11OvuE+4OB0XqEwSA/X77o7wd5P+YIxbLOka9HN+FdhsWZ9UmswQPfgr9PuQMhNuvp2k1kUVCVr5pxU7">
+													<input type="hidden" id="like_token_key_p2024022156b67b0a9750d" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p2024022156b67b0a9750d" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1497,7 +1497,7 @@
 												2024-02-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1864												</small>
+													1868												</small>
 																					</div>
 									</div>
 								</div>
@@ -1545,8 +1545,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202402091b61043657365" style="display: none" onclick="clickLike('p202402091b61043657365'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj" value="8846">
-													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBIKWJD5MmokSDNiMP+OpImtlTRJNckhZnaArwD6OHPgwJexVZF1I/qf2GA3ZiXJxxLT23nYbHDCJv+K9RdT+HfJ">
+													<input type="hidden" id="like_token_key_p202402091b61043657365" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202402091b61043657365" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1568,7 +1568,7 @@
 												2024-02-09											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2012												</small>
+													2015												</small>
 																					</div>
 									</div>
 								</div>
@@ -1616,8 +1616,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202401171fe22dc871a4d" style="display: none" onclick="clickLike('p202401171fe22dc871a4d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj" value="4528">
-													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj" value="3jzdOQ8bve1TAITar4LWzwgaPbMBC2Ql8FQ945knyBLxZjYPL07Ui031ofoo1WH+1/VNyaYwzAx8m7PoMAr67Yzx2bTFWUMo/veLop3SebiPI/P48IHRqi5O79og+Axj">
+													<input type="hidden" id="like_token_key_p202401171fe22dc871a4d" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202401171fe22dc871a4d" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1648,6 +1648,446 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20240117/189d9c32df409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．3 택우，성영주																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454327&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454327&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454327&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/0d6724642b7c6.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．3 택우，성영주																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/0d6724642b7c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		DRINK DANCE AND LOVE ALL vol．2：루디스텔로 x 아이디얼스																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454260&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454260&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454260&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/6dcabebbc1222.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		DRINK DANCE AND LOVE ALL vol．2：루디스텔로 x 아이디얼스																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/6dcabebbc1222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		캐치더영 단독 콘서트 ‘Odyssey of Dream’：롤링 29주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454228&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454228&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454228&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/bcac0b8c15dae.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		캐치더영 단독 콘서트 ‘Odyssey of Dream’：롤링 29주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/bcac0b8c15dae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		BAND DALDAM concert 〈 축제 〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454197&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454197&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454197&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/53c0dfd41d6a0.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		BAND DALDAM concert 〈 축제 〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/53c0dfd41d6a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		먼데이프로젝트 시즌7 My Universe［안예은 단독 콘서트］																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454148&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454148&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454148&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/cc6717b3ed21f.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		먼데이프로젝트 시즌7 My Universe［안예은 단독 콘서트］																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/cc6717b3ed21f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454091&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454091&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454091&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/a3ebca1e9a262.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/a3ebca1e9a262.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		이브x로맨틱펀치																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454067&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454067&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454067&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/13739284ad3f9.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		이브x로맨틱펀치																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/13739284ad3f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		JUNGWOO musictrip－부산																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454032&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454032&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454032&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/241b9b8167206.png);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		JUNGWOO musictrip－부산																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/241b9b8167206.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		JUNGWOO musictrip－춘천																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454003&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454003&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19454003&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/9b3b3095fcc04.png);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		JUNGWOO musictrip－춘천																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/9b3b3095fcc04.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		ㅈㅂㅈ평일소공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453883&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453883&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453883&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/fe270ccc69541.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		ㅈㅂㅈ평일소공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/fe270ccc69541.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		크랙샷 콘서트 〈We Are Crackshot vol.2〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453730&amp;t=board</link>
+            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453730&amp;t=board</guid>
+            <pubDate>Wed, 10 Apr 2024 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19453730&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240410/95e49932da32c.gif);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		크랙샷 콘서트 〈We Are Crackshot vol.2〉																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240410/95e49932da32c.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -1687,435 +2127,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20240403/d07600e3891bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7［화노 단독 콘서트 ‘Who＇s Next’］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269932&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269932&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269932&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/306dd71a36b91.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7［화노 단독 콘서트 ‘Who＇s Next’］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/306dd71a36b91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7 My Universe［기탁 단독 콘서트］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269918&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269918&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269918&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/25f43afa492b4.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7 My Universe［기탁 단독 콘서트］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/25f43afa492b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7 청춘의 밤［찬주 단독 콘서트］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269886&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269886&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269886&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/02071668f6031.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7 청춘의 밤［찬주 단독 콘서트］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/02071668f6031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7［유다빈밴드 단독 콘서트 ‘꿈의 대양’］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269856&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269856&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269856&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/48a645a086b13.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7［유다빈밴드 단독 콘서트 ‘꿈의 대양’］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/48a645a086b13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		보라미유 단독 콘서트 ‘SPRING，YU’：롤링 29주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269808&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269808&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269808&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/5bea84cecd0f1.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		보라미유 단독 콘서트 ‘SPRING，YU’：롤링 29주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/5bea84cecd0f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		제11회 김사월 쇼：디폴트 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269784&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269784&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269784&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/a8602790cbf2d.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		제11회 김사월 쇼：디폴트									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/a8602790cbf2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7 THE ORIGINAL［공중그늘 단독 콘서트］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269732&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269732&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 14:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19269732&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/9d730f6768120.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7 THE ORIGINAL［공중그늘 단독 콘서트］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/9d730f6768120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		먼데이프로젝트 시즌7［Robiq 10주년 단독 콘서트 ‘Easy’］ (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267913&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267913&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267913&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/842dfff705390.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		먼데이프로젝트 시즌7［Robiq 10주년 단독 콘서트 ‘Easy’］									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/842dfff705390.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		DAY6 CONCERT〈Welcome to the Show〉 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267585&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267585&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267585&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/b3bbb71d9ada0.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		DAY6 CONCERT〈Welcome to the Show〉									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/b3bbb71d9ada0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		2024 실리카겔 단독공연 〈Syn.THE.Size Ⅲ〉 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267516&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267516&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267516&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/b650c73ca4481.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		2024 실리카겔 단독공연 〈Syn.THE.Size Ⅲ〉									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/b650c73ca4481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		2024 김창완밴드 전국투어 〈개구쟁이〉 - 부산 (페스티벌 라이프 ─ 국내공연)]]></title>
-            <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267439&amp;t=board</link>
-            <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267439&amp;t=board</guid>
-            <pubDate>Wed, 03 Apr 2024 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=19267439&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240403/a7c1ce1d80f5b.gif);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		2024 김창완밴드 전국투어 〈개구쟁이〉 - 부산									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240403/a7c1ce1d80f5b.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[공지
