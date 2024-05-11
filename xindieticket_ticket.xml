@@ -4,36 +4,9 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 09:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 10:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Let's 3rd Dream Night]]></title>
-            <link>https://xindieticket.kr/tickets/6260009377726464</link>
-            <guid>https://xindieticket.kr/tickets/6260009377726464</guid>
-            <pubDate>Wed, 08 May 2024 02:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">Let's 3rd Dream Night</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2024-05-10 (금) 10:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5701569219657728" class="ng-binding" href="/map/5701569219657728">@프리즘홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 55,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="http://www.kstage.co.kr/shop/shopdetail.html?branduid=12237184&amp;xcode=037&amp;mcode=001&amp;scode=&amp;type=X&amp;sort=regdate&amp;cur_code=037&amp;search=&amp;GfDT=bm11W10%3D" target="_blank" class="ng-scope" button-paymethod="TICKETLINK" href="http://www.kstage.co.kr/shop/shopdetail.html?branduid=12237184&amp;xcode=037&amp;mcode=001&amp;scode=&amp;type=X&amp;sort=regdate&amp;cur_code=037&amp;search=&amp;GfDT=bm11W10%3D">
-		<div class="ng-binding">TICKETLINK</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/c_2EUMyeo457vCABtUuqjvO8S_hutf93pgpwTlqo0KHWgQeTAYedziWEvVSme_SudvoMvWji3XH6CdRVD8nShdU7H5wVtN-IjpJD=s480" length="0" type="image//c_2EUMyeo457vCABtUuqjvO8S_hutf93pgpwTlqo0KHWgQeTAYedziWEvVSme_SudvoMvWji3XH6CdRVD8nShdU7H5wVtN-IjpJD=s480"/>
-        </item>
         <item>
             <title><![CDATA[천하제일 수염대회]]></title>
             <link>https://xindieticket.kr/tickets/6266285499351040</link>
