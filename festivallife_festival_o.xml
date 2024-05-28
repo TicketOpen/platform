@@ -4,7 +4,7 @@
         <title>페스티벌 라이프 ─ 해외 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 22:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 23:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -826,8 +826,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a47e4c450657b" style="display: none" onclick="clickLike('p20240314a47e4c450657b'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj" value="2547">
+													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj" value="+Dc2qOtXxogTtBQfpSisgdwfSbbd5ifzzP0Q7rGcL3ls7kE3hE99pPRPSaGQ8F/8oc4huweXzrNMkVH5F//VOz90UKDeqc/H47STSLhHRSGyfIfHn0dzvhICcSdA7qWu">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
