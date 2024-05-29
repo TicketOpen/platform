@@ -4,9 +4,146 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 01:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 02:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오뉴월 사건들 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6270927721463808</link>
+            <guid>https://xindieticket.kr/tickets/6270927721463808</guid>
+            <pubDate>Wed, 29 May 2024 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">오뉴월 사건들</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-05-29 (수) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5072270611447808" class="ng-binding" href="/map/5072270611447808">@빵</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 : 20,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/34a-KXU0XjxJFJzbs6DKd-NAjnIyqMmu44y5PINm3_0zoqdSrPh8IgH75y6YqQM7h5Fybgqqaj7Zs0q1LSRpQi5fxex9YQGQ4aTT=s480" length="0" type="image//34a-KXU0XjxJFJzbs6DKd-NAjnIyqMmu44y5PINm3_0zoqdSrPh8IgH75y6YqQM7h5Fybgqqaj7Zs0q1LSRpQi5fxex9YQGQ4aTT=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Frenzy Thursday (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6227975062159360</link>
+            <guid>https://xindieticket.kr/tickets/6227975062159360</guid>
+            <pubDate>Wed, 29 May 2024 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Frenzy Thursday</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-05-30 (목) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/" class="ng-binding" href="/map/">@</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 : 20,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/ZFdrx_8ilyU4uFpIFFbptqY9yt7a29zUvGMvYi05RexYZLwnXVc_JEywMxuS_KmcUJzXZi6wRYovTNWaKumYe6UHP9AcJyVzKPk=s480" length="0" type="image//ZFdrx_8ilyU4uFpIFFbptqY9yt7a29zUvGMvYi05RexYZLwnXVc_JEywMxuS_KmcUJzXZi6wRYovTNWaKumYe6UHP9AcJyVzKPk=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[LOUD BRIDGE Vol.6 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6217135705554944</link>
+            <guid>https://xindieticket.kr/tickets/6217135705554944</guid>
+            <pubDate>Wed, 29 May 2024 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">LOUD BRIDGE Vol.6</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-01 (토) 09:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5182493032448000" class="ng-binding" href="/map/5182493032448000">@Bender 벤더</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 55,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://tickets.interpark.com/goods/24006004" target="_blank" class="ng-scope" button-paymethod="인터파크" href="https://tickets.interpark.com/goods/24006004">
+		<div class="ng-binding">INTERPARK</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/8BFanFOU3ee8CGR5IqGFRPaPLIjHHWx3syPAOJ2VxUKazkIna5dektH5vEN8A3cET5EmOoUHHCZp5O1RyS9UzcF2f6MsYqdp-xEh=s480" length="0" type="image//8BFanFOU3ee8CGR5IqGFRPaPLIjHHWx3syPAOJ2VxUKazkIna5dektH5vEN8A3cET5EmOoUHHCZp5O1RyS9UzcF2f6MsYqdp-xEh=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[와일드매치 13 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6264032050806784</link>
+            <guid>https://xindieticket.kr/tickets/6264032050806784</guid>
+            <pubDate>Wed, 29 May 2024 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">와일드매치 13</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-01 (토) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5756749483081728" class="ng-binding" href="/map/5756749483081728">@드림홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매: 50,000원 예매 : 44,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://tickets.interpark.com/goods/24006501" target="_blank" class="ng-scope" button-paymethod="인터파크" href="https://tickets.interpark.com/goods/24006501">
+		<div class="ng-binding">INTERPARK</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/_An3RIiPMQU4WfUOO_oejTu0NsmYgOIAi34UGNP2CFiov3-b9Dplc_yRww4dAvJXx85V2A6iNP52XUHvurvtx_Lav1_As4JcsGU=s480" length="0" type="image//_An3RIiPMQU4WfUOO_oejTu0NsmYgOIAi34UGNP2CFiov3-b9Dplc_yRww4dAvJXx85V2A6iNP52XUHvurvtx_Lav1_As4JcsGU=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[STICK TO YOUR GUNS 내한공연 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6258385343217664</link>
+            <guid>https://xindieticket.kr/tickets/6258385343217664</guid>
+            <pubDate>Wed, 29 May 2024 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">STICK TO YOUR GUNS 내한공연</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-02 (일) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5639221461123072" class="ng-binding" href="/map/5639221461123072">@롤링홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 65,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://smartstore.naver.com/lookbynd/products/10209031166" target="_blank" class="ng-scope" button-paymethod="네이버" href="https://smartstore.naver.com/lookbynd/products/10209031166">
+		<div class="ng-binding">NAVER</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/qUrap3nxHluRzevOW66o6jrBe5PUqJwlJUBD6SUB1J248-zgmRQvXeUWAf7weARHCdZOtge5dZsfuuxmXZk7A_ROG6IoUwuJcvCO=s480" length="0" type="image//qUrap3nxHluRzevOW66o6jrBe5PUqJwlJUBD6SUB1J248-zgmRQvXeUWAf7weARHCdZOtge5dZsfuuxmXZk7A_ROG6IoUwuJcvCO=s480"/>
+        </item>
         <item>
             <title><![CDATA[[부산] Guitar Presso Vol. 2 (현장결제) (모우미)]]></title>
             <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-guitar-presso-vol-2-%ED%98%84%EC%9E%A5%EA%B2%B0%EC%A0%9C/325/category/24/display/1/</link>
@@ -200,7 +337,7 @@
 				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
 					<span class="holder blocked" style="cursor:pointer;">
 												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=24674758&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240529/05d836371a000.jpg);  background-size: cover; background-position: 50% 50%;">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20240529/4616290a15a94.png);  background-size: cover; background-position: 50% 50%;">
 								<div class="card-head _card_head _img_wrap" style="height: 387px;">
 									<span>
 																			</span>
@@ -225,7 +362,7 @@
 											</span>
 				</div>
 			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20240529/05d836371a000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20240529/4616290a15a94.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -695,8 +832,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202405173c82b5a6a9e88" style="display: none" onclick="clickLike('p202405173c82b5a6a9e88'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202405173c82b5a6a9e88" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202405173c82b5a6a9e88" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202405173c82b5a6a9e88" class="_tk_key_obj" value="3436">
+													<input type="hidden" id="like_token_p202405173c82b5a6a9e88" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXLvwped/T+iXLsnPLHxNvtrJHX+4lqCtzf3828eP5LhWMQa1tBPCdki+QtXcSSycbYJJ3oiRmDBccNmI+GRhSIV">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -766,8 +903,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240514a9a9d83974aa3" style="display: none" onclick="clickLike('p20240514a9a9d83974aa3'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj" value="7558">
+													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXLanKN5eABchz+2Xrv9PPTSJAk5kDPYCCoD17ugA1emOrQjqfhVygF9kkD9wz3U49owu3/Ajg9HsLvVguo2I8FU">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -837,8 +974,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240501c8ee2a07c72a8" style="display: none" onclick="clickLike('p20240501c8ee2a07c72a8'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240501c8ee2a07c72a8" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240501c8ee2a07c72a8" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240501c8ee2a07c72a8" class="_tk_key_obj" value="3493">
+													<input type="hidden" id="like_token_p20240501c8ee2a07c72a8" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXJnh0jwFAdA1GvvrJKBI7MoHmoO6BjuXoMrkrto6+OMlGKsJ87Q6X5JGnJL34zurl9ls7djxmA1cc3PTw4us25k">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -908,8 +1045,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240426da6ed4cfc4081" style="display: none" onclick="clickLike('p20240426da6ed4cfc4081'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240426da6ed4cfc4081" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240426da6ed4cfc4081" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240426da6ed4cfc4081" class="_tk_key_obj" value="6715">
+													<input type="hidden" id="like_token_p20240426da6ed4cfc4081" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXKr9Kjush5dGq+wGzVl66IPwAn6/CWrjQucyV4iZPYcBGl0bsdo9BSfbQWj4mmxWcTuu7SgtHhOnrd49MGdkPxt">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -979,8 +1116,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240410e49febef93fd7" style="display: none" onclick="clickLike('p20240410e49febef93fd7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj" value="5692">
+													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXIeOf2fyULkkTGQyXrvoFzzqbH0xWVEvoSOaIrN9tB/kZ6BsvaOOtiU10Gm/ybsZCxFBuBqpEOzmjuWvF+y+Scm">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1050,8 +1187,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240329dc88f8533aabf" style="display: none" onclick="clickLike('p20240329dc88f8533aabf'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240329dc88f8533aabf" class="_tk_key_obj" value="2273">
+													<input type="hidden" id="like_token_p20240329dc88f8533aabf" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXKRdvQXv8We4/NcaEQ/zzXKhUoL/UgjD06baruneMMqhQcnENdTGIXpOsVUq60tS6RPt9JxkNRWMTlGttMmXK7K">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1121,8 +1258,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403279c1e8d3f07250" style="display: none" onclick="clickLike('p202403279c1e8d3f07250'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj" value="4903">
+													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXIch0Y3+QRLRupCL0vALBglIB0/UI7DATXze+tDoufG8QrWyow8al+4n6pXzwFXVy1u0ocCuR/Ki4vOVx9w6mzX">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1144,7 +1281,7 @@
 												2024-03-27											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1069												</small>
+													1070												</small>
 																					</div>
 									</div>
 								</div>
@@ -1192,8 +1329,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240321fdc286d5fa379" style="display: none" onclick="clickLike('p20240321fdc286d5fa379'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240321fdc286d5fa379" class="_tk_key_obj" value="5354">
+													<input type="hidden" id="like_token_p20240321fdc286d5fa379" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXIo0cYID+bNctFZFcgMTAl4+N5F9gffIXfYu3vFeMMs+Z3yW51BB3i6rJ5mcN2/miQ6HWW4NPV9T3z4B1p5WjdC">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1263,8 +1400,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240320cd66d544fec87" style="display: none" onclick="clickLike('p20240320cd66d544fec87'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj" value="7073">
+													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXIHdJqanbhTrcYupj1ScLvYUNjzVGxmfyaMGYeLA94Zs+lJJD8r4l9J0A7QIUDJQU3daLZXn/EhKLGzwMQVPoC0">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1334,8 +1471,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403157fdd223b939d2" style="display: none" onclick="clickLike('p202403157fdd223b939d2'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj" value="6024">
+													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXKFxp0LdKYyBMryQUQuNc8eUi0nqz7n8M+7pNECUJ/dDSs/8thQz2Qufrnt3IraTzZ+bd9TZ8sHFK+sOgrsfUuy">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1405,8 +1542,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a3f6964dbdf55" style="display: none" onclick="clickLike('p20240314a3f6964dbdf55'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240314a3f6964dbdf55" class="_tk_key_obj" value="9458">
+													<input type="hidden" id="like_token_p20240314a3f6964dbdf55" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXKWyR9naRFMFGpXPkDnr200pXAZ6LsFDQPV2jp0tiSosScjH7YtSiT1Go76eKb3LzKcKHaSXtxYHzJNZ22L/xUa">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1428,7 +1565,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1482												</small>
+													1483												</small>
 																					</div>
 									</div>
 								</div>
@@ -1476,8 +1613,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240314a47e4c450657b" style="display: none" onclick="clickLike('p20240314a47e4c450657b'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240314a47e4c450657b" class="_tk_key_obj" value="3386">
+													<input type="hidden" id="like_token_p20240314a47e4c450657b" class="_tk_obj" value="7EFdp8yljNJzIjkxKmQNNaHjGPKjOYnDO2WO8rvRgXLLRGDOOhOSnrczp/YkytcSFta7bT59evy1okupcaVHhb5AqLh53s4p/0gOCgoDlCnCJ/NCkFeTYZjeCaKQrYz3">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1499,7 +1636,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2812												</small>
+													2813												</small>
 																					</div>
 									</div>
 								</div>
