@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 06:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부산] Busan Musical Classic Concert]]></title>
+            <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-busan-musical-classic-concert/327/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-busan-musical-classic-concert/327/category/24/display/1/</guid>
+            <pubDate>Wed, 29 May 2024 06:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">68,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202405/e27fa787c38832cf2a5e68f395f8757e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부산] Guitar Presso Vol. 2 (현장결제)]]></title>
             <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-guitar-presso-vol-2-%ED%98%84%EC%9E%A5%EA%B2%B0%EC%A0%9C/325/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 13 Apr 2024 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">150,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202403/f8167608233f7094a3ced0ea9a2ed344.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울] Spring Jazz in Seoungsu [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/%EC%84%9C%EC%9A%B8-spring-jazz-in-seoungsu-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/280/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EC%84%9C%EC%9A%B8-spring-jazz-in-seoungsu-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/280/category/24/display/1/</guid>
-            <pubDate>Fri, 12 Apr 2024 02:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">100,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202403/4938f789ce96b279f572492c702faa86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
