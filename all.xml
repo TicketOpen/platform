@@ -4,9 +4,150 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 23:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 01:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강이 부르는 계절 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6235032431624192</link>
+            <guid>https://xindieticket.kr/tickets/6235032431624192</guid>
+            <pubDate>Wed, 12 Jun 2024 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">강이 부르는 계절</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-12 (수) 10:30</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5072270611447808" class="ng-binding" href="/map/5072270611447808">@빵</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 : 20,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/YAIP-Qmj4qv-LOrhtd-G9Uw0XvBlLPUcE8ITcBh8BykBKGsipl6yT0FrcLvnoErdnwNwv3AUzLj8h6iyQDtL-S9mTAiUvFYZsBDw8g=s480" length="0" type="image//YAIP-Qmj4qv-LOrhtd-G9Uw0XvBlLPUcE8ITcBh8BykBKGsipl6yT0FrcLvnoErdnwNwv3AUzLj8h6iyQDtL-S9mTAiUvFYZsBDw8g=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[CHEERFUL THURSDAY (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6218802219974656</link>
+            <guid>https://xindieticket.kr/tickets/6218802219974656</guid>
+            <pubDate>Wed, 12 Jun 2024 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">CHEERFUL THURSDAY</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-13 (목) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/4853965342638080" class="ng-binding" href="/map/4853965342638080">@FF</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">현매 : 20,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/5vjifK9l8anfjGaALKy9r9UAu4BDycYDLdMJN-Du4M_CJdGI6p0WdSYzTrV5UIDJFKB72PAgcxFV8wntIOhnCR6cW-fMl7FD2Cfc=s480" length="0" type="image//5vjifK9l8anfjGaALKy9r9UAu4BDycYDLdMJN-Du4M_CJdGI6p0WdSYzTrV5UIDJFKB72PAgcxFV8wntIOhnCR6cW-fMl7FD2Cfc=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[Let's Dream Night (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6300504913084416</link>
+            <guid>https://xindieticket.kr/tickets/6300504913084416</guid>
+            <pubDate>Wed, 12 Jun 2024 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">Let's Dream Night</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-14 (금) 10:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5701569219657728" class="ng-binding" href="/map/5701569219657728">@프리즘홀</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 33,000원 현매 : 40,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="http://www.kstage.co.kr/shop/shopdetail.html?branduid=12237933&amp;xcode=037&amp;mcode=001&amp;scode=&amp;type=X&amp;sort=regdate&amp;cur_code=037&amp;search=&amp;GfDT=bmt5W10%3D" target="_blank" class="ng-scope" button-paymethod="FORM" href="http://www.kstage.co.kr/shop/shopdetail.html?branduid=12237933&amp;xcode=037&amp;mcode=001&amp;scode=&amp;type=X&amp;sort=regdate&amp;cur_code=037&amp;search=&amp;GfDT=bmt5W10%3D">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/RhJzU55mHJaJ5sfs_Se2VfRrwZRoweIiDgzDi9kWbPmYGibBhSk2olx2ySF10FJNhC3VWD30HgpfjSIPhc7i1auI2zH0qLXhPhJI=s480" length="0" type="image//RhJzU55mHJaJ5sfs_Se2VfRrwZRoweIiDgzDi9kWbPmYGibBhSk2olx2ySF10FJNhC3VWD30HgpfjSIPhc7i1auI2zH0qLXhPhJI=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[DEAD ROCK WORKING FEST 2024 (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6283913924182016</link>
+            <guid>https://xindieticket.kr/tickets/6283913924182016</guid>
+            <pubDate>Wed, 12 Jun 2024 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">DEAD ROCK WORKING FEST 2024</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-15 (토) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/" class="ng-binding" href="/map/">@</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매: 30,000원 현매 : 40,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://www.instagram.com/p/C6r_rRYJxZA/" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://www.instagram.com/p/C6r_rRYJxZA/">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/jZXOtXLEjkb_RxpMLTM4gsxC5Yesf4X81tSqwkWi2C02i_UCPbtrzrSIEHoqCJapUsccUOJxlFPKGYJrB5dySZ-2sUcVaLjqFuUO=s480" length="0" type="image//jZXOtXLEjkb_RxpMLTM4gsxC5Yesf4X81tSqwkWi2C02i_UCPbtrzrSIEHoqCJapUsccUOJxlFPKGYJrB5dySZ-2sUcVaLjqFuUO=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAZY SUNDAY (XINDIE ─ TICKET)]]></title>
+            <link>https://xindieticket.kr/tickets/6233781186854912</link>
+            <guid>https://xindieticket.kr/tickets/6233781186854912</guid>
+            <pubDate>Wed, 12 Jun 2024 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">CRAZY SUNDAY</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2024-06-16 (일) 08:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/5132029310009344" class="ng-binding" href="/map/5132029310009344">@All of Rock</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매 : 20,000원 현매 : 25,000원<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://www.instagram.com/p/C8BrlVZyidh/" target="_blank" class="ng-scope" button-paymethod="FORM" href="https://www.instagram.com/p/C8BrlVZyidh/">
+		<div class="ng-binding">FORM</div>
+	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="현장구매">
+		<div class="ng-binding">현장구매</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/Z_4jDMmjFK_28pqwFpEdHR3ofv0vx-zNl8DDvTmoohHhlOWZ_2ZHLHZLRcTESddfMiAMTAo55zeqhu20_G4kc8qCac9V6x0MIrXpOw=s480" length="0" type="image//Z_4jDMmjFK_28pqwFpEdHR3ofv0vx-zNl8DDvTmoohHhlOWZ_2ZHLHZLRcTESddfMiAMTAo55zeqhu20_G4kc8qCac9V6x0MIrXpOw=s480"/>
+        </item>
         <item>
             <title><![CDATA[[부산] 지브리 OST 콘서트 (모우미)]]></title>
             <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-%EC%A7%80%EB%B8%8C%EB%A6%AC-ost-%EC%BD%98%EC%84%9C%ED%8A%B8/330/category/24/display/1/</link>
@@ -164,28 +305,28 @@
             <link>https://indistreet.com/live/6473</link>
             <guid>https://indistreet.com/live/6473</guid>
             <pubDate>Mon, 10 Jun 2024 19:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6473" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="DUALITY 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">DUALITY</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2024년 6월 30일 일요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="144" href="/musicians/144" class="css-1xgh37a"><span class="css-t9od3v">스핏 온 마이 툼</span></a><a data-musician-id="190" href="/musicians/190" class="css-1xgh37a"><span class="css-t9od3v">에이틴 에이프릴</span></a><a data-musician-id="677" href="/musicians/677" class="css-1xgh37a"><span class="css-t9od3v">램넌츠 오브 더 폴른</span></a><a data-musician-id="2854" href="/musicians/2854" class="css-1xgh37a"><span class="css-t9od3v">크랙베리</span></a></div><div class="css-d9h50v">19일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6473" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="DUALITY 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_39_15_GMT_0900_7932d26f8c.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">DUALITY</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2024년 6월 30일 일요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="144" href="/musicians/144" class="css-1xgh37a"><span class="css-t9od3v">스핏 온 마이 툼</span></a><a data-musician-id="190" href="/musicians/190" class="css-1xgh37a"><span class="css-t9od3v">에이틴 에이프릴</span></a><a data-musician-id="677" href="/musicians/677" class="css-1xgh37a"><span class="css-t9od3v">램넌츠 오브 더 폴른</span></a><a data-musician-id="2854" href="/musicians/2854" class="css-1xgh37a"><span class="css-t9od3v">크랙베리</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[When I Come Around (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6476</link>
             <guid>https://indistreet.com/live/6476</guid>
             <pubDate>Mon, 10 Jun 2024 19:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6476" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="When I Come Around 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">When I Come Around</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 11시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="5" href="/artists/far_east_asian_tigers" class="css-1xgh37a"><span class="css-t9od3v">극동아시아타이거즈</span></a><a data-musician-id="139" href="/musicians/139" class="css-1xgh37a"><span class="css-t9od3v">투데이올드스니커즈</span></a><a data-musician-id="1871" href="/musicians/1871" class="css-1xgh37a"><span class="css-t9od3v">스킵잭</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6476" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="When I Come Around 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Jun_11_2024_03_41_46_GMT_0900_a19462dabe.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">When I Come Around</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 11시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="5" href="/artists/far_east_asian_tigers" class="css-1xgh37a"><span class="css-t9od3v">극동아시아타이거즈</span></a><a data-musician-id="139" href="/musicians/139" class="css-1xgh37a"><span class="css-t9od3v">투데이올드스니커즈</span></a><a data-musician-id="1871" href="/musicians/1871" class="css-1xgh37a"><span class="css-t9od3v">스킵잭</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LIVELOOM 05 재즈 라이브 공연 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6418</link>
             <guid>https://indistreet.com/live/6418</guid>
             <pubDate>Thu, 23 May 2024 02:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6418" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="LIVELOOM 05 재즈 라이브 공연 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">LIVELOOM 05 재즈 라이브 공연</p><p class="chakra-text css-0">장소: 서강대학교 메리홀 대극장</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4395" href="/musicians/4395" class="css-1xgh37a"><span class="css-t9od3v">루이스내쉬</span></a><a data-musician-id="4396" href="/musicians/4396" class="css-1xgh37a"><span class="css-t9od3v">조에스더</span></a><a data-musician-id="4397" href="/musicians/4397" class="css-1xgh37a"><span class="css-t9od3v">이동민</span></a><a data-musician-id="4398" href="/musicians/4398" class="css-1xgh37a"><span class="css-t9od3v">송하철</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6418" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="LIVELOOM 05 재즈 라이브 공연 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_LIVELOOM_05_2b9fc8654b.png&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">LIVELOOM 05 재즈 라이브 공연</p><p class="chakra-text css-0">장소: 서강대학교 메리홀 대극장</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4395" href="/musicians/4395" class="css-1xgh37a"><span class="css-t9od3v">루이스내쉬</span></a><a data-musician-id="4396" href="/musicians/4396" class="css-1xgh37a"><span class="css-t9od3v">조에스더</span></a><a data-musician-id="4397" href="/musicians/4397" class="css-1xgh37a"><span class="css-t9od3v">이동민</span></a><a data-musician-id="4398" href="/musicians/4398" class="css-1xgh37a"><span class="css-t9od3v">송하철</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[World Wide Fam vol.1 with URETHANE (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/6460</link>
             <guid>https://indistreet.com/live/6460</guid>
             <pubDate>Sat, 08 Jun 2024 13:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/6460" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="World Wide Fam vol.1 with URETHANE 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">World Wide Fam vol.1 with URETHANE</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1" href="/artists/idiots" class="css-1xgh37a"><span class="css-t9od3v">이디어츠</span></a><a data-musician-id="36" href="/artists/band.smokinggoose" class="css-1xgh37a"><span class="css-t9od3v">스모킹구스</span></a><a data-musician-id="3062" href="/musicians/3062" class="css-1xgh37a"><span class="css-t9od3v">Stone leek</span></a><a data-musician-id="3223" href="/artists/row_brothers_official" class="css-1xgh37a"><span class="css-t9od3v">로우 브라더스</span></a><a data-musician-id="4060" href="/musicians/4060" class="css-1xgh37a"><span class="css-t9od3v">더 스트라이커스</span></a><a data-musician-id="4441" href="/musicians/4441" class="css-1xgh37a"><span class="css-t9od3v">URETHANE</span></a><a data-musician-id="4442" href="/musicians/4442" class="css-1xgh37a"><span class="css-t9od3v">WE OUTSPOKEN</span></a></div><div class="css-d9h50v">18일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/6460" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="World Wide Fam vol.1 with URETHANE 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Sat_Jun_08_2024_21_56_07_GMT_0900_05c2f1012a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">World Wide Fam vol.1 with URETHANE</p><p class="chakra-text css-0">장소: 롤링홀</p><p class="chakra-text css-0">날짜: 2024년 6월 29일 토요일 오전 09시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1" href="/artists/idiots" class="css-1xgh37a"><span class="css-t9od3v">이디어츠</span></a><a data-musician-id="36" href="/artists/band.smokinggoose" class="css-1xgh37a"><span class="css-t9od3v">스모킹구스</span></a><a data-musician-id="3062" href="/musicians/3062" class="css-1xgh37a"><span class="css-t9od3v">Stone leek</span></a><a data-musician-id="3223" href="/artists/row_brothers_official" class="css-1xgh37a"><span class="css-t9od3v">로우 브라더스</span></a><a data-musician-id="4060" href="/musicians/4060" class="css-1xgh37a"><span class="css-t9od3v">더 스트라이커스</span></a><a data-musician-id="4441" href="/musicians/4441" class="css-1xgh37a"><span class="css-t9od3v">URETHANE</span></a><a data-musician-id="4442" href="/musicians/4442" class="css-1xgh37a"><span class="css-t9od3v">WE OUTSPOKEN</span></a></div><div class="css-d9h50v">17일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공지
@@ -716,7 +857,7 @@
 												2024-05-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													638												</small>
+													641												</small>
 																					</div>
 									</div>
 								</div>
@@ -787,7 +928,7 @@
 												2024-05-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1206												</small>
+													1210												</small>
 																					</div>
 									</div>
 								</div>
@@ -858,7 +999,7 @@
 												2024-05-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													516												</small>
+													518												</small>
 																					</div>
 									</div>
 								</div>
@@ -929,7 +1070,7 @@
 												2024-05-01											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1241												</small>
+													1243												</small>
 																					</div>
 									</div>
 								</div>
@@ -1000,7 +1141,7 @@
 												2024-04-26											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1124												</small>
+													1126												</small>
 																					</div>
 									</div>
 								</div>
@@ -1071,7 +1212,7 @@
 												2024-04-10											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1196												</small>
+													1199												</small>
 																					</div>
 									</div>
 								</div>
@@ -1142,7 +1283,7 @@
 												2024-03-29											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1157												</small>
+													1159												</small>
 																					</div>
 									</div>
 								</div>
@@ -1213,7 +1354,7 @@
 												2024-03-27											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1344												</small>
+													1347												</small>
 																					</div>
 									</div>
 								</div>
@@ -1284,7 +1425,7 @@
 												2024-03-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													740												</small>
+													742												</small>
 																					</div>
 									</div>
 								</div>
@@ -1355,7 +1496,7 @@
 												2024-03-20											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													899												</small>
+													901												</small>
 																					</div>
 									</div>
 								</div>
@@ -1426,7 +1567,7 @@
 												2024-03-15											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1408												</small>
+													1412												</small>
 																					</div>
 									</div>
 								</div>
@@ -1497,7 +1638,7 @@
 												2024-03-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1853												</small>
+													1856												</small>
 																					</div>
 									</div>
 								</div>
