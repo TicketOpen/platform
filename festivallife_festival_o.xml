@@ -4,7 +4,7 @@
         <title>페스티벌 라이프 ─ 해외 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 13:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 14:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
 												2024-06-13											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													267												</small>
+													272												</small>
 																					</div>
 									</div>
 								</div>
@@ -139,7 +139,7 @@
 												2024-05-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													926												</small>
+													930												</small>
 																					</div>
 									</div>
 								</div>
@@ -210,7 +210,7 @@
 												2024-05-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1527												</small>
+													1528												</small>
 																					</div>
 									</div>
 								</div>
@@ -281,7 +281,7 @@
 												2024-05-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													678												</small>
+													679												</small>
 																					</div>
 									</div>
 								</div>
@@ -755,8 +755,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240320cd66d544fec87" style="display: none" onclick="clickLike('p20240320cd66d544fec87'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj" value="3699">
-													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj" value="9y/1qVxDSDrcHW4F4ROJrOyD2P1MR36HGYRcf2T2K11b1vn0U0k6TIvnkuwptY6g2HjgZtkXSz71t6AxMtskmhenrqsL/4/iix6um+qZ66KdesDyjXbJ+S4+zfc4R0Ri">
+													<input type="hidden" id="like_token_key_p20240320cd66d544fec87" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240320cd66d544fec87" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -826,8 +826,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403157fdd223b939d2" style="display: none" onclick="clickLike('p202403157fdd223b939d2'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj" value="4443">
-													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj" value="9y/1qVxDSDrcHW4F4ROJrOyD2P1MR36HGYRcf2T2K13qMz2OkLgMx8Yr+KIhFvQaFwIwUK9eZYDFyDwg+CYeSzPLN+C+LVDCEzfA3LBenRzSUlQrs5F21z/JiLVAAHIm">
+													<input type="hidden" id="like_token_key_p202403157fdd223b939d2" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202403157fdd223b939d2" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
