@@ -4,9 +4,17 @@
         <title>모우미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 09:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 10:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[부산] Jazz In The Decks]]></title>
+            <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-jazz-in-the-decks/340/category/24/display/1/</link>
+            <guid>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-jazz-in-the-decks/340/category/24/display/1/</guid>
+            <pubDate>Wed, 10 Jul 2024 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">60,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
+            <enclosure url="https://moumi-shop.com/web/product/medium/202407/cfe601ac90e0e4dcc2f05d88332bede8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[양산] 클래식 디즈니 OST 콘서트]]></title>
             <link>https://moumi-shop.com/product/%EC%96%91%EC%82%B0-%ED%81%B4%EB%9E%98%EC%8B%9D-%EB%94%94%EC%A6%88%EB%8B%88-ost-%EC%BD%98%EC%84%9C%ED%8A%B8/338/category/24/display/1/</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 20 May 2024 02:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">15,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
             <enclosure url="https://moumi-shop.com/web/product/medium/202404/1551caf57391b92d6a5df955b7b2e60e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산] Busan Classic Concert [공연종료]]]></title>
-            <link>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-busan-classic-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/302/category/24/display/1/</link>
-            <guid>https://moumi-shop.com/product/%EB%B6%80%EC%82%B0-busan-classic-concert-%EA%B3%B5%EC%97%B0%EC%A2%85%EB%A3%8C/302/category/24/display/1/</guid>
-            <pubDate>Tue, 14 May 2024 06:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong class="title displaynone"><span style="font-size:16px;color:#151617;font-weight:bold;">판매가</span> :</strong> <span style="font-size:16px;color:#151617;font-weight:bold;">80,000원</span><span id="span_product_tax_type_text" style=""> </span>]]></content:encoded>
-            <enclosure url="https://moumi-shop.com/web/product/medium/202404/8e575c193a0e11011360c9301e7db6ea.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
