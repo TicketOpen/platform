@@ -4,7 +4,7 @@
         <title>페스티벌 라이프 ─ 해외 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 21:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 22:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,7 +210,7 @@
 												2024-07-05											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													3014												</small>
+													3017												</small>
 																					</div>
 									</div>
 								</div>
@@ -423,7 +423,7 @@
 												2024-05-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													3832												</small>
+													3833												</small>
 																					</div>
 									</div>
 								</div>
@@ -826,8 +826,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202403279c1e8d3f07250" style="display: none" onclick="clickLike('p202403279c1e8d3f07250'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p202403279c1e8d3f07250" class="_tk_key_obj" value="3028">
+													<input type="hidden" id="like_token_p202403279c1e8d3f07250" class="_tk_obj" value="mtLoNrT7lmrZ5ITuHcvJHK5OD5b1UJhNUtnvmhOhlY4Zew5JgbY+9A+PQVfn8VfHz00cIzl9y58joGjlycQNmJ5NS4JG8NLiGoZ8owZC81EoDpw4sG0YfBkklyCx46/3">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
