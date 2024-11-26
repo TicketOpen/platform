@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 16:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 17:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1474,8 +1474,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240410e49febef93fd7" style="display: none" onclick="clickLike('p20240410e49febef93fd7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj" value="4011">
+													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj" value="GWkTVzlQFFy9coD+e30/p7YmEIexGd1xYHM7a0D4rI8nSp23R9te7B22TG0rVvkX4vMwDgOGey2h1Q65hhvr32UyabwrVLr0qM9Xyl2kt4cfgKwefa0WKohg4Q/30Q3J">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
