@@ -4,7 +4,7 @@
         <title>페스티벌 라이프 ─ 해외 페스티벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 01:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 02:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
 												2024-11-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													799												</small>
+													804												</small>
 																					</div>
 									</div>
 								</div>
@@ -139,7 +139,7 @@
 												2024-10-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													674												</small>
+													679												</small>
 																					</div>
 									</div>
 								</div>
@@ -281,7 +281,7 @@
 												2024-08-15											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1600												</small>
+													1602												</small>
 																					</div>
 									</div>
 								</div>
@@ -352,7 +352,7 @@
 												2024-07-05											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													4541												</small>
+													4544												</small>
 																					</div>
 									</div>
 								</div>
@@ -707,7 +707,7 @@
 												2024-05-01											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													5132												</small>
+													5133												</small>
 																					</div>
 									</div>
 								</div>
@@ -826,8 +826,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240410e49febef93fd7" style="display: none" onclick="clickLike('p20240410e49febef93fd7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj" value="5159">
-													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj" value="H5ofumNqMTh3LcRLpnTQAFIbIAFChvM0ExMxuT17vylPCWf7So07vwHTW88w734RsFgKTkB6pyIBfed9svy+mcctmr3OBkqK/BEPKZHWuPAb9B5+qlh0jGT2Td9lNHIA">
+													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
