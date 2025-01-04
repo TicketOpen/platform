@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 11:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 12:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -716,7 +716,7 @@
 												2024-11-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													824												</small>
+													825												</small>
 																					</div>
 									</div>
 								</div>
@@ -787,7 +787,7 @@
 												2024-10-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													723												</small>
+													724												</small>
 																					</div>
 									</div>
 								</div>
@@ -1000,7 +1000,7 @@
 												2024-07-05											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													4568												</small>
+													4569												</small>
 																					</div>
 									</div>
 								</div>
@@ -1474,8 +1474,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240410e49febef93fd7" style="display: none" onclick="clickLike('p20240410e49febef93fd7'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj" value="3164">
-													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj" value="1xa72aouzJ0HZ7mmoPMq3YVx2m2uqgxYzHx24PtzS5LkbHeo96u2W0/MNXl7Zc1w8ZBw9EKkCDn92s2pL6cPO43BtxmD64oOw0AtAztYSB/ol3idIWRwS9ksA6CzkVyE">
+													<input type="hidden" id="like_token_key_p20240410e49febef93fd7" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240410e49febef93fd7" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
