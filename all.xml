@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 23:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 01:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -122,70 +122,110 @@
             <link>https://indistreet.com/live/7110</link>
             <guid>https://indistreet.com/live/7110</guid>
             <pubDate>Thu, 20 Feb 2025 06:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7110" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="[ Reciprocity 2025 Festival ] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">[ Reciprocity 2025 Festival ]</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2025년 3월 22일 토요일 오전 08시 30분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">29일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7110" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="[ Reciprocity 2025 Festival ] 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Thu_Feb_20_2025_15_17_35_GMT_0900_384a4b29ce.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">[ Reciprocity 2025 Festival ]</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2025년 3월 22일 토요일 오전 08시 30분</p></div></a><div class="chakra-stack css-1flihab"></div><div class="css-d9h50v">28일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제 4회 「Idiots in the garden」 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7111</link>
             <guid>https://indistreet.com/live/7111</guid>
             <pubDate>Fri, 21 Feb 2025 10:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7111" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="제 4회 「Idiots in the garden」 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">제 4회 「Idiots in the garden」</p><p class="chakra-text css-0">장소: Club Victim</p><p class="chakra-text css-0">날짜: 2025년 3월 14일 금요일 오전 10시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1" href="/artists/idiots" class="css-1xgh37a"><span class="css-t9od3v">이디어츠</span></a><a data-musician-id="585" href="/musicians/585" class="css-1xgh37a"><span class="css-t9od3v">베어풋인더가든</span></a><a data-musician-id="4571" href="/musicians/4571" class="css-1xgh37a"><span class="css-t9od3v">스티커몬어드벤처</span></a></div><div class="css-d9h50v">21일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7111" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="제 4회 「Idiots in the garden」 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Fri_Feb_21_2025_19_18_33_GMT_0900_41dfc6861e.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">제 4회 「Idiots in the garden」</p><p class="chakra-text css-0">장소: Club Victim</p><p class="chakra-text css-0">날짜: 2025년 3월 14일 금요일 오전 10시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1" href="/artists/idiots" class="css-1xgh37a"><span class="css-t9od3v">이디어츠</span></a><a data-musician-id="585" href="/musicians/585" class="css-1xgh37a"><span class="css-t9od3v">베어풋인더가든</span></a><a data-musician-id="4571" href="/musicians/4571" class="css-1xgh37a"><span class="css-t9od3v">스티커몬어드벤처</span></a></div><div class="css-d9h50v">20일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SAVIOR (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7091</link>
             <guid>https://indistreet.com/live/7091</guid>
             <pubDate>Tue, 18 Feb 2025 04:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7091" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SAVIOR 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SAVIOR</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 9일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1316" href="/artists/haseband_official" class="css-1xgh37a"><span class="css-t9od3v">하즈</span></a><a data-musician-id="1632" href="/musicians/1632" class="css-1xgh37a"><span class="css-t9od3v">업스타</span></a><a data-musician-id="2661" href="/musicians/2661" class="css-1xgh37a"><span class="css-t9od3v">원오프</span></a><a data-musician-id="3337" href="/musicians/3337" class="css-1xgh37a"><span class="css-t9od3v">노야</span></a><a data-musician-id="3771" href="/musicians/3771" class="css-1xgh37a"><span class="css-t9od3v">배드큐피트</span></a></div><div class="css-d9h50v">16일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7091" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SAVIOR 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_48_GMT_0900_c88fda4972.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SAVIOR</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 9일 일요일 오전 08시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1316" href="/artists/haseband_official" class="css-1xgh37a"><span class="css-t9od3v">하즈</span></a><a data-musician-id="1632" href="/musicians/1632" class="css-1xgh37a"><span class="css-t9od3v">업스타</span></a><a data-musician-id="2661" href="/musicians/2661" class="css-1xgh37a"><span class="css-t9od3v">원오프</span></a><a data-musician-id="3337" href="/musicians/3337" class="css-1xgh37a"><span class="css-t9od3v">노야</span></a><a data-musician-id="3771" href="/musicians/3771" class="css-1xgh37a"><span class="css-t9od3v">배드큐피트</span></a></div><div class="css-d9h50v">15일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EVERY YOU EVERY ME (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7090</link>
             <guid>https://indistreet.com/live/7090</guid>
             <pubDate>Tue, 18 Feb 2025 04:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7090" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="EVERY YOU EVERY ME 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">EVERY YOU EVERY ME</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 8일 토요일 오전 10시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="118" href="/musicians/118" class="css-1xgh37a"><span class="css-t9od3v">컨파인드화이트</span></a><a data-musician-id="1804" href="/musicians/1804" class="css-1xgh37a"><span class="css-t9od3v">급한노새</span></a><a data-musician-id="3121" href="/musicians/3121" class="css-1xgh37a"><span class="css-t9od3v">베이루트택시</span></a><a data-musician-id="4299" href="/musicians/4299" class="css-1xgh37a"><span class="css-t9od3v">선앤메어</span></a><a data-musician-id="4889" href="/musicians/4889" class="css-1xgh37a"><span class="css-t9od3v">고히</span></a></div><div class="css-d9h50v">15일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7090" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="EVERY YOU EVERY ME 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_26_08_GMT_0900_2ea7bc285a.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">EVERY YOU EVERY ME</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 8일 토요일 오전 10시 30분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="118" href="/musicians/118" class="css-1xgh37a"><span class="css-t9od3v">컨파인드화이트</span></a><a data-musician-id="1804" href="/musicians/1804" class="css-1xgh37a"><span class="css-t9od3v">급한노새</span></a><a data-musician-id="3121" href="/musicians/3121" class="css-1xgh37a"><span class="css-t9od3v">베이루트택시</span></a><a data-musician-id="4299" href="/musicians/4299" class="css-1xgh37a"><span class="css-t9od3v">선앤메어</span></a><a data-musician-id="4889" href="/musicians/4889" class="css-1xgh37a"><span class="css-t9od3v">고히</span></a></div><div class="css-d9h50v">14일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SAT IT AIN'T SO (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7092</link>
             <guid>https://indistreet.com/live/7092</guid>
             <pubDate>Tue, 18 Feb 2025 05:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7092" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SAT IT AIN'T SO 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SAT IT AIN'T SO</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 7일 금요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3356" href="/musicians/3356" class="css-1xgh37a"><span class="css-t9od3v">난파란</span></a><a data-musician-id="3365" href="/artists/theshepherdbois" class="css-1xgh37a"><span class="css-t9od3v">양치기소년단</span></a><a data-musician-id="3712" href="/musicians/3712" class="css-1xgh37a"><span class="css-t9od3v">유인원</span></a><a data-musician-id="4469" href="/musicians/4469" class="css-1xgh37a"><span class="css-t9od3v">규도</span></a><a data-musician-id="4890" href="/musicians/4890" class="css-1xgh37a"><span class="css-t9od3v">언오피셜</span></a></div><div class="css-d9h50v">14일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7092" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="SAT IT AIN'T SO 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_27_35_GMT_0900_c85f530757.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">SAT IT AIN'T SO</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 7일 금요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="3356" href="/musicians/3356" class="css-1xgh37a"><span class="css-t9od3v">난파란</span></a><a data-musician-id="3365" href="/artists/theshepherdbois" class="css-1xgh37a"><span class="css-t9od3v">양치기소년단</span></a><a data-musician-id="3712" href="/musicians/3712" class="css-1xgh37a"><span class="css-t9od3v">유인원</span></a><a data-musician-id="4469" href="/musicians/4469" class="css-1xgh37a"><span class="css-t9od3v">규도</span></a><a data-musician-id="4890" href="/musicians/4890" class="css-1xgh37a"><span class="css-t9od3v">언오피셜</span></a></div><div class="css-d9h50v">13일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] SPOILMAN (JPN) 내한 - 비컨 소음발광 철근콘크리트 (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7057</link>
             <guid>https://indistreet.com/live/7057</guid>
             <pubDate>Fri, 31 Jan 2025 09:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7057" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="[부산] SPOILMAN (JPN) 내한 - 비컨 소음발광 철근콘크리트  공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">[부산] SPOILMAN (JPN) 내한 - 비컨 소음발광 철근콘크리트 </p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2025년 3월 7일 금요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="47" href="/musicians/47" class="css-1xgh37a"><span class="css-t9od3v">비컨</span></a><a data-musician-id="233" href="/musicians/233" class="css-1xgh37a"><span class="css-t9od3v">소음발광</span></a><a data-musician-id="4860" href="/musicians/4860" class="css-1xgh37a"><span class="css-t9od3v">Spoilman (JPN)</span></a><a data-musician-id="4861" href="/musicians/4861" class="css-1xgh37a"><span class="css-t9od3v">철근콘크리트</span></a></div><div class="css-d9h50v">14일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7057" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="[부산] SPOILMAN (JPN) 내한 - 비컨 소음발광 철근콘크리트  공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Kakao_Talk_20250115_005313974_94fa2f4199.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">[부산] SPOILMAN (JPN) 내한 - 비컨 소음발광 철근콘크리트 </p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2025년 3월 7일 금요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="47" href="/musicians/47" class="css-1xgh37a"><span class="css-t9od3v">비컨</span></a><a data-musician-id="233" href="/musicians/233" class="css-1xgh37a"><span class="css-t9od3v">소음발광</span></a><a data-musician-id="4860" href="/musicians/4860" class="css-1xgh37a"><span class="css-t9od3v">Spoilman (JPN)</span></a><a data-musician-id="4861" href="/musicians/4861" class="css-1xgh37a"><span class="css-t9od3v">철근콘크리트</span></a></div><div class="css-d9h50v">13일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hello Thursday (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7093</link>
             <guid>https://indistreet.com/live/7093</guid>
             <pubDate>Tue, 18 Feb 2025 05:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7093" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="Hello Thursday 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">Hello Thursday</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 6일 목요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1617" href="/musicians/1617" class="css-1xgh37a"><span class="css-t9od3v">취향상점</span></a><a data-musician-id="4842" href="/musicians/4842" class="css-1xgh37a"><span class="css-t9od3v">지베뉴</span></a><a data-musician-id="4891" href="/musicians/4891" class="css-1xgh37a"><span class="css-t9od3v">일루반</span></a><a data-musician-id="4892" href="/musicians/4892" class="css-1xgh37a"><span class="css-t9od3v">Aeil</span></a></div><div class="css-d9h50v">13일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7093" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="Hello Thursday 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_16_GMT_0900_3a22557823.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">Hello Thursday</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 6일 목요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="1617" href="/musicians/1617" class="css-1xgh37a"><span class="css-t9od3v">취향상점</span></a><a data-musician-id="4842" href="/musicians/4842" class="css-1xgh37a"><span class="css-t9od3v">지베뉴</span></a><a data-musician-id="4891" href="/musicians/4891" class="css-1xgh37a"><span class="css-t9od3v">일루반</span></a><a data-musician-id="4892" href="/musicians/4892" class="css-1xgh37a"><span class="css-t9od3v">Aeil</span></a></div><div class="css-d9h50v">12일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[HMLTD Live in Seoul (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7073</link>
             <guid>https://indistreet.com/live/7073</guid>
             <pubDate>Tue, 11 Feb 2025 02:53:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7073" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="HMLTD Live in Seoul 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">HMLTD Live in Seoul</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2025년 3월 3일 월요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4872" href="/musicians/4872" class="css-1xgh37a"><span class="css-t9od3v">HMLTD</span></a></div><div class="css-d9h50v">10일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7073" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="HMLTD Live in Seoul 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_11_2025_10_53_02_GMT_0900_5c898afeb4.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">HMLTD Live in Seoul</p><p class="chakra-text css-0">장소: 무신사개러지</p><p class="chakra-text css-0">날짜: 2025년 3월 3일 월요일 오전 10시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4872" href="/musicians/4872" class="css-1xgh37a"><span class="css-t9od3v">HMLTD</span></a></div><div class="css-d9h50v">9일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[I LOVE YOU (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7094</link>
             <guid>https://indistreet.com/live/7094</guid>
             <pubDate>Tue, 18 Feb 2025 05:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7094" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="I LOVE YOU 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">I LOVE YOU</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 2일 일요일 오전 09시 40분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="356" href="/musicians/356" class="css-1xgh37a"><span class="css-t9od3v">숨비</span></a><a data-musician-id="3229" href="/musicians/3229" class="css-1xgh37a"><span class="css-t9od3v">김늑</span></a><a data-musician-id="4460" href="/musicians/4460" class="css-1xgh37a"><span class="css-t9od3v">감귤서리단</span></a><a data-musician-id="4472" href="/musicians/4472" class="css-1xgh37a"><span class="css-t9od3v">심아일랜드</span></a><a data-musician-id="4886" href="/musicians/4886" class="css-1xgh37a"><span class="css-t9od3v">바보</span></a></div><div class="css-d9h50v">9일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7094" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="I LOVE YOU 공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_Tue_Feb_18_2025_13_28_59_GMT_0900_e822b11a50.jpg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">I LOVE YOU</p><p class="chakra-text css-0">장소: Club FF</p><p class="chakra-text css-0">날짜: 2025년 3월 2일 일요일 오전 09시 40분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="356" href="/musicians/356" class="css-1xgh37a"><span class="css-t9od3v">숨비</span></a><a data-musician-id="3229" href="/musicians/3229" class="css-1xgh37a"><span class="css-t9od3v">김늑</span></a><a data-musician-id="4460" href="/musicians/4460" class="css-1xgh37a"><span class="css-t9od3v">감귤서리단</span></a><a data-musician-id="4472" href="/musicians/4472" class="css-1xgh37a"><span class="css-t9od3v">심아일랜드</span></a><a data-musician-id="4886" href="/musicians/4886" class="css-1xgh37a"><span class="css-t9od3v">바보</span></a></div><div class="css-d9h50v">8일 후</div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고요, 비눗방울, 우주 [LIVE] Scene #1 ( (feat. Awan我完아완, HANASH) (인디스트릿 ─ 공연 목록)]]></title>
             <link>https://indistreet.com/live/7076</link>
             <guid>https://indistreet.com/live/7076</guid>
             <pubDate>Thu, 13 Feb 2025 19:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/live/7076" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="고요, 비눗방울, 우주 [LIVE] Scene #1 ( (feat. Awan我完아완, HANASH)  공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">고요, 비눗방울, 우주 [LIVE] Scene #1 ( (feat. Awan我完아완, HANASH) </p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2025년 3월 1일 토요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4875" href="/musicians/4875" class="css-1xgh37a"><span class="css-t9od3v">고요비눗방울우주</span></a><a data-musician-id="4876" href="/musicians/4876" class="css-1xgh37a"><span class="css-t9od3v">아완AWAN</span></a><a data-musician-id="4877" href="/musicians/4877" class="css-1xgh37a"><span class="css-t9od3v">HANASH</span></a></div><div class="css-d9h50v">8일 후</div>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/live/7076" class="css-13o7eu2"><div class="css-79elbk"><div class="chakra-aspect-ratio css-1hp8diz"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="고요, 비눗방울, 우주 [LIVE] Scene #1 ( (feat. Awan我完아완, HANASH)  공연 포스터" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Findistreet-api.roto.codes%2Fuploads%2Flarge_IMG_7314_0b876d5827.jpeg&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: medium; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></div></div><div class="css-naub52"><p class="chakra-text css-z3mpd">고요, 비눗방울, 우주 [LIVE] Scene #1 ( (feat. Awan我完아완, HANASH) </p><p class="chakra-text css-0">장소: 오방가르드</p><p class="chakra-text css-0">날짜: 2025년 3월 1일 토요일 오전 11시 00분</p></div></a><div class="chakra-stack css-1flihab"><a data-musician-id="4875" href="/musicians/4875" class="css-1xgh37a"><span class="css-t9od3v">고요비눗방울우주</span></a><a data-musician-id="4876" href="/musicians/4876" class="css-1xgh37a"><span class="css-t9od3v">아완AWAN</span></a><a data-musician-id="4877" href="/musicians/4877" class="css-1xgh37a"><span class="css-t9od3v">HANASH</span></a></div><div class="css-d9h50v">7일 후</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		2025 KT&G 상상실현 페스티벌 - 라인업 발표 및 티켓오픈																			N (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
+            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153149912&amp;t=board</link>
+            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153149912&amp;t=board</guid>
+            <pubDate>Sat, 22 Feb 2025 01:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153149912&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20250221/964538968bc57.png);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		2025 KT&amp;G 상상실현 페스티벌 - 라인업 발표 및 티켓오픈																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20250221/964538968bc57.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -622,45 +662,6 @@
 																			
 											
 										
-																		아시안 팝 페스티벌 2025 - 개최 발표 (페스티벌 라이프 ─ 국내 페스티벌)]]></title>
-            <link>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=143486074&amp;t=board</link>
-            <guid>https://festivallife.kr/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=143486074&amp;t=board</guid>
-            <pubDate>Sun, 19 Jan 2025 12:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/festival/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=143486074&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20250119/02be64b27d1e9.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		아시안 팝 페스티벌 2025 - 개최 발표									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20250119/02be64b27d1e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
 																		후지록페스티벌 2025 - 1차 라인업																			N (페스티벌 라이프 ─ 해외 페스티벌)]]></title>
             <link>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153014794&amp;t=board</link>
             <guid>https://festivallife.kr/festival_o/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153014794&amp;t=board</guid>
@@ -695,8 +696,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20250221b94757dcdfab6" style="display: none" onclick="clickLike('p20250221b94757dcdfab6'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20250221b94757dcdfab6" class="_tk_key_obj" value="2474">
-													<input type="hidden" id="like_token_p20250221b94757dcdfab6" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW2y/XDnRERua/wYwCRQJIG9KilZ9UtmreAKkHCbXWFr4qKku6drjgYjPAnt70MMgJwBtJ/MS/5ekVZx0wlvDGti">
+													<input type="hidden" id="like_token_key_p20250221b94757dcdfab6" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20250221b94757dcdfab6" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -715,10 +716,10 @@
 											<div class="writer">
 																																															</div>
 											<small class="date" title="2025-02-21 12:01" style="display: ">
-												11시간전											</small>
+												22시간전											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													76												</small>
+													109												</small>
 																					</div>
 									</div>
 								</div>
@@ -767,8 +768,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202502201bf1a7f21b97c" style="display: none" onclick="clickLike('p202502201bf1a7f21b97c'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202502201bf1a7f21b97c" class="_tk_key_obj" value="9861">
-													<input type="hidden" id="like_token_p202502201bf1a7f21b97c" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW2n23otnorG2r18ZWr8oOEj4ToPeOdhU4LB/KYxnyGU2XxR+PQnileIk1IN9jz6t1lZiZZymXjttMbtsaI6dSDy">
+													<input type="hidden" id="like_token_key_p202502201bf1a7f21b97c" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202502201bf1a7f21b97c" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -790,7 +791,7 @@
 												1일전											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													137												</small>
+													158												</small>
 																					</div>
 									</div>
 								</div>
@@ -838,8 +839,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20241121af34c80c6235d" style="display: none" onclick="clickLike('p20241121af34c80c6235d'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20241121af34c80c6235d" class="_tk_key_obj" value="9351">
-													<input type="hidden" id="like_token_p20241121af34c80c6235d" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW1/UDz+vdWjTM8ku3jr9F/SFhT8rUbhPn7mXnPmzEt/0nz9TOGjwEjVnToAnWMegyic2IAdCrlkrkL3GJn74m79">
+													<input type="hidden" id="like_token_key_p20241121af34c80c6235d" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20241121af34c80c6235d" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -861,7 +862,7 @@
 												2024-11-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1702												</small>
+													1710												</small>
 																					</div>
 									</div>
 								</div>
@@ -909,8 +910,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20241031c414761890e48" style="display: none" onclick="clickLike('p20241031c414761890e48'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20241031c414761890e48" class="_tk_key_obj" value="6760">
-													<input type="hidden" id="like_token_p20241031c414761890e48" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW05v6m4jFm4bAUjTFHJh3zQQ7G18q6aFlp71Ih5Dk3NNX5NvgqVD+JpD+VM+4eYAg6avPzXFFMooW2p6iE5CkAo">
+													<input type="hidden" id="like_token_key_p20241031c414761890e48" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20241031c414761890e48" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -932,7 +933,7 @@
 												2024-10-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1084												</small>
+													1090												</small>
 																					</div>
 									</div>
 								</div>
@@ -980,8 +981,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202409175d46c93b9d96b" style="display: none" onclick="clickLike('p202409175d46c93b9d96b'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202409175d46c93b9d96b" class="_tk_key_obj" value="7914">
-													<input type="hidden" id="like_token_p202409175d46c93b9d96b" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW0enF3DyWMLdD/HelxlRx+uGUJJAEkiaId5wCg9uZcnCq+UaMXbz6fcC5tYkeVW1LoxOLN+x7A172mxF1cZofpX">
+													<input type="hidden" id="like_token_key_p202409175d46c93b9d96b" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202409175d46c93b9d96b" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1003,7 +1004,7 @@
 												2024-09-17											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													955												</small>
+													956												</small>
 																					</div>
 									</div>
 								</div>
@@ -1051,8 +1052,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202408157a102cd8d64a2" style="display: none" onclick="clickLike('p202408157a102cd8d64a2'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202408157a102cd8d64a2" class="_tk_key_obj" value="6289">
-													<input type="hidden" id="like_token_p202408157a102cd8d64a2" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW1+jh/+sImfFxkiUuMLtQ5eUHdAAY+N3Ogcl0BmwhiMMspxytANMa0YVB7LYVSDFTzfnSUL/gtCfABMP36IwaJr">
+													<input type="hidden" id="like_token_key_p202408157a102cd8d64a2" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202408157a102cd8d64a2" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1074,7 +1075,7 @@
 												2024-08-15											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1744												</small>
+													1748												</small>
 																					</div>
 									</div>
 								</div>
@@ -1122,8 +1123,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202407056b6b276b41797" style="display: none" onclick="clickLike('p202407056b6b276b41797'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202407056b6b276b41797" class="_tk_key_obj" value="8253">
-													<input type="hidden" id="like_token_p202407056b6b276b41797" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW2aVF0g9zNwoPIhvmBlNG0yWwgSdysSiNsrIfP0lJSopWGyXPQwgLXmJY73ozXHK7gZi+FrFvbP/7T7nw3Mmi6m">
+													<input type="hidden" id="like_token_key_p202407056b6b276b41797" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202407056b6b276b41797" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1145,7 +1146,7 @@
 												2024-07-05											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													5580												</small>
+													5597												</small>
 																					</div>
 									</div>
 								</div>
@@ -1193,8 +1194,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202406137d4a62cf8ced9" style="display: none" onclick="clickLike('p202406137d4a62cf8ced9'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202406137d4a62cf8ced9" class="_tk_key_obj" value="4292">
-													<input type="hidden" id="like_token_p202406137d4a62cf8ced9" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW2iXGUAUHwCOrU06lpYtCBSnVAXfsKTHWqBMj2ZU8z6wAMClWu+vud6+Gvs3kb9789+HvpJtLmEckKEdRTT51tW">
+													<input type="hidden" id="like_token_key_p202406137d4a62cf8ced9" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202406137d4a62cf8ced9" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1216,7 +1217,7 @@
 												2024-06-13											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1841												</small>
+													1842												</small>
 																					</div>
 									</div>
 								</div>
@@ -1264,8 +1265,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240531391f3d9f508b0" style="display: none" onclick="clickLike('p20240531391f3d9f508b0'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240531391f3d9f508b0" class="_tk_key_obj" value="168">
-													<input type="hidden" id="like_token_p20240531391f3d9f508b0" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW3DCinDCJitbiUxurJal+EMcJi6hPfELAF33OVvjLhhSlhdC1oDGLUnvQdj0Geu8pXnpTtM/i3dY60nIwnVBo+G">
+													<input type="hidden" id="like_token_key_p20240531391f3d9f508b0" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240531391f3d9f508b0" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1287,7 +1288,7 @@
 												2024-05-31											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2486												</small>
+													2487												</small>
 																					</div>
 									</div>
 								</div>
@@ -1335,8 +1336,8 @@
 																					<small class="cmt like_btn " id="like_btn_p202405173c82b5a6a9e88" style="display: none" onclick="clickLike('p202405173c82b5a6a9e88'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p202405173c82b5a6a9e88" class="_tk_key_obj" value="4998">
-													<input type="hidden" id="like_token_p202405173c82b5a6a9e88" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW3U7tYX2WCXK04p1dBRICTkpIe0poSUE6Gz2ip6eKYZqVHUWX6DH+sl3RBpJ5V7QhCm+VMGoew0IfH5Fp7QWJv9">
+													<input type="hidden" id="like_token_key_p202405173c82b5a6a9e88" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p202405173c82b5a6a9e88" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1406,8 +1407,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240514a9a9d83974aa3" style="display: none" onclick="clickLike('p20240514a9a9d83974aa3'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj" value="2077">
-													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW1iK3kOdhgUlTfIZBmyRh85F+3V2DBJAw3x2rtYDGwAYTtPXGN2qSVfxwePTEraNVAE+RwvinCt8LMwd2jlW2BP">
+													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1429,7 +1430,7 @@
 												2024-05-14											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													2100												</small>
+													2101												</small>
 																					</div>
 									</div>
 								</div>
@@ -1477,8 +1478,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240501c8ee2a07c72a8" style="display: none" onclick="clickLike('p20240501c8ee2a07c72a8'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240501c8ee2a07c72a8" class="_tk_key_obj" value="3574">
-													<input type="hidden" id="like_token_p20240501c8ee2a07c72a8" class="_tk_obj" value="0JZQoyJrg5v1UTbaIjnBCGax0nsyOePydxx0f3Q4vW2+yoTKsMj+Kc1FW/54Nb+6uNpbRqe+mgqG9s31WA1URhT3sfm2yebaiSbOZNa+wuHHHuz6Aj3LCisxjB4T0ojN">
+													<input type="hidden" id="like_token_key_p20240501c8ee2a07c72a8" class="_tk_key_obj">
+													<input type="hidden" id="like_token_p20240501c8ee2a07c72a8" class="_tk_obj">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
@@ -1500,7 +1501,7 @@
 												2024-05-01											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													5825												</small>
+													5830												</small>
 																					</div>
 									</div>
 								</div>
@@ -1515,7 +1516,7 @@
 																			
 											
 										
-																		2025 지소쿠리클럽 단독공연: 등반가들																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		2025 지소쿠리클럽 단독공연: 등반가들 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152537408&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152537408&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1535,8 +1536,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		2025 지소쿠리클럽 단독공연: 등반가들																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		2025 지소쿠리클럽 단독공연: 등반가들									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1555,7 +1555,7 @@
 																			
 											
 										
-																		SUMIN & Slom MINISERIES LIVE																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		SUMIN & Slom MINISERIES LIVE (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152537106&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152537106&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1575,8 +1575,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		SUMIN &amp; Slom MINISERIES LIVE																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		SUMIN &amp; Slom MINISERIES LIVE									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1595,7 +1594,7 @@
 																			
 											
 										
-																		먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트]																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트] (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152536224&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152536224&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1615,8 +1614,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트]																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트]									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1635,7 +1633,7 @@
 																			
 											
 										
-																		체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152536047&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152536047&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1655,8 +1653,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1675,7 +1672,7 @@
 																			
 											
 										
-																		윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535827&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535827&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1695,8 +1692,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1715,7 +1711,7 @@
 																			
 											
 										
-																		먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩]																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩] (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535636&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535636&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1735,8 +1731,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩]																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩]									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1755,7 +1750,7 @@
 																			
 											
 										
-																		주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기념 공연																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기념 공연 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535453&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535453&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1775,8 +1770,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기념 공연																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기념 공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1795,7 +1789,7 @@
 																			
 											
 										
-																		위아더나잇 단독 공연 ‘Love Means Everything’																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		위아더나잇 단독 공연 ‘Love Means Everything’ (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535239&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535239&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1815,8 +1809,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		위아더나잇 단독 공연 ‘Love Means Everything’																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		위아더나잇 단독 공연 ‘Love Means Everything’									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1835,7 +1828,7 @@
 																			
 											
 										
-																		먼데이프로젝트 시즌8 [김유진 단독 콘서트 ‘Love we haven’t shared’]																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		먼데이프로젝트 시즌8 [김유진 단독 콘서트 ‘Love we haven’t shared’] (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535013&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152535013&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1855,8 +1848,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		먼데이프로젝트 시즌8 [김유진 단독 콘서트 ‘Love we haven’t shared’]																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		먼데이프로젝트 시즌8 [김유진 단독 콘서트 ‘Love we haven’t shared’]									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1875,7 +1867,7 @@
 																			
 											
 										
-																		〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534801&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534801&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1895,8 +1887,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1915,7 +1906,7 @@
 																			
 											
 										
-																		안녕하세요 깅지원입니다																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		안녕하세요 깅지원입니다 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534622&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534622&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1935,8 +1926,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		안녕하세요 깅지원입니다																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		안녕하세요 깅지원입니다									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1955,7 +1945,7 @@
 																			
 											
 										
-																		YB - 꿀파티 vol.4 in 춘천																			N (페스티벌 라이프 ─ 국내공연)]]></title>
+																		YB - 꿀파티 vol.4 in 춘천 (페스티벌 라이프 ─ 국내공연)]]></title>
             <link>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534051&amp;t=board</link>
             <guid>https://festivallife.kr/concert/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152534051&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 06:32:10 GMT</pubDate>
@@ -1975,8 +1965,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		YB - 꿀파티 vol.4 in 춘천																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		YB - 꿀파티 vol.4 in 춘천									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -1989,6 +1978,46 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20250219/a6ba40445b312.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공지
+																			
+											
+										
+																		AIMYON 내한공연																			N (페스티벌 라이프 ─ 내한공연)]]></title>
+            <link>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153150670&amp;t=board</link>
+            <guid>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153150670&amp;t=board</guid>
+            <pubDate>Sat, 22 Feb 2025 01:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
+				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
+					<span class="holder blocked" style="cursor:pointer;">
+												<a class="post_link_wrap _fade_link" href="/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=153150670&amp;t=board">
+							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20250221/e000e493020e1.jpg);  background-size: cover; background-position: 50% 50%;">
+								<div class="card-head _card_head _img_wrap" style="height: 387px;">
+									<span>
+																			</span>
+								</div>
+							</div>
+							<div class="card-body _card_body list-group">
+								<div class="title title-block">
+									<em class="notice-block" style="display: none">공지</em>
+																			<span>
+											<em style="padding-right:5px;color:;display: none"></em>
+										</span>
+																		AIMYON 내한공연																			<span class="icons"><em class="addon-badge">N</em></span>
+									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
+									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
+									<!--									-->								</div>
+																	<div class="text text-block show_body">
+									<span></span>
+								</div>
+															</div>
+																				</a>
+											</span>
+				</div>
+			</div>]]></content:encoded>
+            <enclosure url="https://cdn.imweb.me/thumbnail/20250221/e000e493020e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공지
@@ -2035,7 +2064,7 @@
 																			
 											
 										
-																		2025 로드 투 부락 #01 서울 - 글렌체크 x FREDERIC																			N (페스티벌 라이프 ─ 내한공연)]]></title>
+																		2025 로드 투 부락 #01 서울 - 글렌체크 x FREDERIC (페스티벌 라이프 ─ 내한공연)]]></title>
             <link>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152571826&amp;t=board</link>
             <guid>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=152571826&amp;t=board</guid>
             <pubDate>Wed, 19 Feb 2025 10:24:58 GMT</pubDate>
@@ -2055,8 +2084,7 @@
 																			<span>
 											<em style="padding-right:5px;color:;display: none"></em>
 										</span>
-																		2025 로드 투 부락 #01 서울 - 글렌체크 x FREDERIC																			<span class="icons"><em class="addon-badge">N</em></span>
-									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
+																		2025 로드 투 부락 #01 서울 - 글렌체크 x FREDERIC									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
 									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
 									<!--									-->								</div>
@@ -2420,45 +2448,6 @@
 				</div>
 			</div>]]></content:encoded>
             <enclosure url="https://cdn.imweb.me/thumbnail/20241216/c8133fccea838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공지
-																			
-											
-										
-																		미세스 그린 애플 Mrs. GREEN APPLE 내한공연 (페스티벌 라이프 ─ 내한공연)]]></title>
-            <link>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=130390165&amp;t=board</link>
-            <guid>https://festivallife.kr/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=130390165&amp;t=board</guid>
-            <pubDate>Tue, 03 Dec 2024 05:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ma-item _post_item_wrap" style="padding: 15px;">
-				<div class="card  _card" style="  background-size: cover; background-position: 50% 50%;">
-					<span class="holder blocked" style="cursor:pointer;">
-												<a class="post_link_wrap _fade_link" href="/concert_k/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp;bmode=view&amp;idx=130390165&amp;t=board">
-							<div class="card_wrapper card-thumbnail-wrap " style="background-image: url(https://cdn.imweb.me/thumbnail/20241203/e706ca81960ec.jpg);  background-size: cover; background-position: 50% 50%;">
-								<div class="card-head _card_head _img_wrap" style="height: 387px;">
-									<span>
-																			</span>
-								</div>
-							</div>
-							<div class="card-body _card_body list-group">
-								<div class="title title-block">
-									<em class="notice-block" style="display: none">공지</em>
-																			<span>
-											<em style="padding-right:5px;color:;display: none"></em>
-										</span>
-																		미세스 그린 애플 Mrs. GREEN APPLE 내한공연									<!--									--><!--										<span class="icons text-20 "><i aria-hidden="true" class="icon-picture"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-folder"></i></span>-->
-									<!--									--><!--									--><!--										<span class="icons text-20"><i aria-hidden="true" class="icon-camrecorder"></i></span>-->
-									<!--									-->								</div>
-																	<div class="text text-block show_body">
-									<span></span>
-								</div>
-															</div>
-																				</a>
-											</span>
-				</div>
-			</div>]]></content:encoded>
-            <enclosure url="https://cdn.imweb.me/thumbnail/20241203/e706ca81960ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
