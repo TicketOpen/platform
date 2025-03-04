@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 21:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 22:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -930,7 +930,7 @@
 												2024-11-21											</small>
 																							<small style="display: none">
 													<i style="font-style: normal;">조회</i>
-													1926												</small>
+													1927												</small>
 																					</div>
 									</div>
 								</div>
@@ -1475,8 +1475,8 @@
 																					<small class="cmt like_btn " id="like_btn_p20240514a9a9d83974aa3" style="display: none" onclick="clickLike('p20240514a9a9d83974aa3'); return false;">
 
 												<div class="_token_obj" data-type="post_grid_list_like">
-													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj">
-													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj">
+													<input type="hidden" id="like_token_key_p20240514a9a9d83974aa3" class="_tk_key_obj" value="2201">
+													<input type="hidden" id="like_token_p20240514a9a9d83974aa3" class="_tk_obj" value="lmgy8wzbnZHzazVdSVSlR9OXkxDeK86zz0jwIz7sAOAqmKQB6VNJW/S1urSACmmUYifwnGmi7Nm5QBt6ypU+5yayrqXF6ZQzJzf08nxQjtqrpkX9zQcdH7rUhCsmwjeC">
 												</div>
 
 												<i aria-hidden="true" class="btm bt-heart vertical-middle"></i>
